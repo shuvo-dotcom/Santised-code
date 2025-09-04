@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  # Backend API service
+  nfg-api:
+    build:
+      context: ..
+      dockerfile: ./deployment/backend/Dockerfile
+    ports:
+      - "9000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./.env:/app/.env
+      - ../engine:/app/engine
+      - ../semantic:/app/semantic
+      - ../data_io:/app/data_io
+      - ../nfg_math:/app/nfg_math
+      - ../utils:/app/utils
+    environment:
+      - DATA_FOLDER=/app/data
+      - LOG_LEVEL=INFO
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 60s
+      timeout: 30s
+      retries: 5
+      
+  # Frontend web interface
+  nfg-frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "4000:80"
+    depends_on:
+      - nfg-api
+    restart: unless-stopped
+    environment:
+      - API_URL=http://nfg-api:8000

@@ -1,0 +1,17 @@
+fastapi==0.103.0
+uvicorn==0.23.2
+pydantic==2.3.0
+python-dotenv==1.0.0
+openai==1.5.0
+numpy==1.24.3
+pandas==2.1.0
+sympy==1.12
+tiktoken==0.5.1
+httpx==0.24.1
+python-multipart==0.0.6
+# Removed explicit starlette dependency to avoid conflict with fastapi
+pyyaml==6.0
+jinja2==3.1.2
+pint>=0.20
+requests>=2.30.0
+prometheus-client>=0.17.0

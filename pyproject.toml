@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nfg_orchestrator"
+version = "0.1.0"
+description = "AI-driven data analyst for the Networks–Fuels–Generation (NFG) energy sector."
+authors = [
+    { name = "Your Name", email = "you@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "pandas",
+    "sympy",
+    "pint",
+    "pyyaml",
+    "openai>=1.0.0",
+    "python-dotenv",
+    "httpx",
+    "requests",
+    "jinja2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

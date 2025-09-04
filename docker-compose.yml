@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  nfg-analyst:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - DATA_FOLDER=/app/data
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-5-mini}
+      - OPENAI_PROJECT_ID=${OPENAI_PROJECT_ID}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    restart: unless-stopped
