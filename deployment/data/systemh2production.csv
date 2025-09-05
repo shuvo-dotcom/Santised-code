@@ -1,0 +1,142 @@
+model_name,collection_name,category_name,child_name,property_name,date_string,value,unit_name,interval_id,period_value,Country
+TJ Dispatch_Future_Nuclear+,Electrolyser,H2 Imports,DZ00,Production,2050,15080.536520127753,GWh,1,1,DZ
+TJ Dispatch_Future_Nuclear+,Electrolyser,H2 Imports,MA00,Production,2050,14532.241697927302,GWh,1,1,MA
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,AL00Z2MK,Production,2050,3676.3915270610582,GWh,1,1,AL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,AT03Z2MK,Production,2050,6564.605704730299,GWh,1,1,AT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,BE03Z2MK,Production,2050,19682.349387251918,GWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,BG01Z2MK,Production,2050,19530.131747348794,GWh,1,1,BG
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,BG02Z2MK,Production,2050,8868.910459783583,GWh,1,1,BG
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,CY00Z2MK,Production,2050,363.1274359065766,GWh,1,1,CY
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,DE03Z2MK,Production,2050,7696.843808543372,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,DE04Z2MK,Production,2050,10602.677454383685,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,DKE1Z2MK,Production,2050,2548.3182320135525,GWh,1,1,DK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,DKW1Z2MK,Production,2050,3596.9237652160405,GWh,1,1,DK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,EE00Z2MK,Production,2050,7517.809137984983,GWh,1,1,EE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES01Z2MK,Production,2050,18760.9753813662,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES02Z2MK,Production,2050,10326.922860104776,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES03Z2MK,Production,2050,31100.16681542667,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES04Z2MK,Production,2050,31133.85249528973,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES07Z2MK,Production,2050,601.7230930956498,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES08Z2MK,Production,2050,658.025160928129,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES11Z2MK,Production,2050,21466.14470841353,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FI01Z2MK,Production,2050,43998.12390008211,GWh,1,1,FI
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FI02Z2MK,Production,2050,28930.909350207716,GWh,1,1,FI
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR01Z2MK,Production,2050,12962.708038021841,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR02Z2MK,Production,2050,6760.814855108227,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR04Z2MK,Production,2050,4529.181466402749,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR05Z2MK,Production,2050,23546.854742726995,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR09Z2MK,Production,2050,2058.3175559778374,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR10Z2MK,Production,2050,3687.813524946114,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR13Z2MK,Production,2050,42244.540512505446,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR15Z2MK,Production,2050,21.755306805477076,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,GR01Z2MK,Production,2050,13474.126795795652,GWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,GR02Z2MK,Production,2050,9662.849635121149,GWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,GR03Z2MK,Production,2050,2914.2226594466597,GWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,HR01Z2MK,Production,2050,2751.866208243136,GWh,1,1,HR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,HU01Z2MK,Production,2050,554.5804528006968,GWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,HU02Z2MK,Production,2050,2864.752741001264,GWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,IE00Z2MK,Production,2050,37413.860068891096,GWh,1,1,IE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ITCAZ2MK,Production,2050,17.361197603224998,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ITN1Z2MK,Production,2050,14978.725064835082,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ITSAZ2MK,Production,2050,16.855353220775974,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,LT00Z2MK,Production,2050,5082.239359974476,GWh,1,1,LT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,LUG1Z2MK,Production,2050,834.9068515056995,GWh,1,1,LU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,LV00Z2MK,Production,2050,2480.0418851478375,GWh,1,1,LV
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ME00Z2MK,Production,2050,1104.829723588612,GWh,1,1,ME
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,MK00Z2MK,Production,2050,841.8040356852488,GWh,1,1,MK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,NL01Z2MK,Production,2050,20053.69008416232,GWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,NOS1Z2MK,Production,2050,62098.553330957904,GWh,1,1,NO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,NOS2Z2MK,Production,2050,5252.629885863823,GWh,1,1,NO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PL02Z2MK,Production,2050,11853.44681036905,GWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PL03Z2MK,Production,2050,25648.343653183165,GWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PL05Z2MK,Production,2050,20067.505836230597,GWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PT01Z2MK,Production,2050,14184.287011809045,GWh,1,1,PT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PT02Z2MK,Production,2050,11035.477811533618,GWh,1,1,PT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,RO02Z2MK,Production,2050,2665.9681916548407,GWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,RS00Z2MK,Production,2050,2787.2373526716747,GWh,1,1,RS
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,SE01Z2MK,Production,2050,60.967449644996925,GWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,SE02Z2MK,Production,2050,2393.8978407069953,GWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,SK00Z2MK,Production,2050,4936.2116847530115,GWh,1,1,SK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UA01Z2MK,Production,2050,5728.0426872741355,GWh,1,1,UA
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UK02Z2MK,Production,2050,53061.511436804256,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UK03Z2MK,Production,2050,31067.87188529883,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UK05Z2MK,Production,2050,21256.977497455824,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UKNIZ2MK,Production,2050,3966.6281950340413,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BE01Z2DR,Production,2050,2013.9705177117387,GWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BE02Z2DR,Production,2050,744.7728543666605,GWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BE03Z2DR,Production,2050,771.9475658190794,GWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BG01Z2DR,Production,2050,467.90722210478395,GWh,1,1,BG
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BG02Z2DR,Production,2050,459.913010063073,GWh,1,1,BG
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,CY00Z2DR,Production,2050,149.88936279606799,GWh,1,1,CY
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,CZ01Z2DR,Production,2050,744.2492713698771,GWh,1,1,CZ
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,CZ02Z2DR,Production,2050,684.1001532466779,GWh,1,1,CZ
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,DKE1Z2DR,Production,2050,169.581333198389,GWh,1,1,DK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,EE00Z2DR,Production,2050,842.2692884714228,GWh,1,1,EE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES01Z2DR,Production,2050,163.84483361074496,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES02Z2DR,Production,2050,304.5247901902359,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES03Z2DR,Production,2050,560.8897096354439,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES04Z2DR,Production,2050,2562.202427731785,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES05Z2DR,Production,2050,1755.2003822897523,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES06Z2DR,Production,2050,690.6464810440369,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES07Z2DR,Production,2050,79.59260672270602,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES08Z2DR,Production,2050,242.134663056244,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES11Z2DR,Production,2050,557.4097835995423,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FI01Z2DR,Production,2050,614.1013660443488,GWh,1,1,FI
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR01Z2DR,Production,2050,521.71668780539,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR02Z2DR,Production,2050,837.5283665020653,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR03Z2DR,Production,2050,729.120299264686,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR04Z2DR,Production,2050,362.115148185035,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR05Z2DR,Production,2050,301.62979578928696,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR06Z2DR,Production,2050,842.3023687592429,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR07Z2DR,Production,2050,554.2500019555314,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR08Z2DR,Production,2050,3076.8440560658278,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR09Z2DR,Production,2050,438.86277395195197,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR10Z2DR,Production,2050,3370.380010346473,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR11Z2DR,Production,2050,410.0112687430131,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR12Z2DR,Production,2050,471.4294698053641,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR13Z2DR,Production,2050,538.7075285715478,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR14Z2DR,Production,2050,276.3710850103491,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR15Z2DR,Production,2050,7.064663956728002,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,GR01Z2DR,Production,2050,146.21767680272902,GWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,GR03Z2DR,Production,2050,2077.915041069903,GWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HR01Z2DR,Production,2050,319.78061547469105,GWh,1,1,HR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HR02Z2DR,Production,2050,514.7739644321817,GWh,1,1,HR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HU01Z2DR,Production,2050,297.25134344891296,GWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HU02Z2DR,Production,2050,595.6415195523797,GWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HU03Z2DR,Production,2050,274.535886942128,GWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ITN1Z2DR,Production,2050,584.1015555748239,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,LT00Z2DR,Production,2050,166.95050796116703,GWh,1,1,LT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,LV00Z2DR,Production,2050,370.67724075382,GWh,1,1,LV
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ME00Z2DR,Production,2050,687.9305217869418,GWh,1,1,ME
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,MT00Z2DR,Production,2050,520.6843063401915,GWh,1,1,MT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,NL01Z2DR,Production,2050,210.63491354965507,GWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,NL02Z2DR,Production,2050,459.8352542602282,GWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,NL04Z2DR,Production,2050,393.41569744749313,GWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,PL01Z2DR,Production,2050,2671.08580136902,GWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,PL02Z2DR,Production,2050,1059.4358411031499,GWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,PL04Z2DR,Production,2050,2614.321953340298,GWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,PL05Z2DR,Production,2050,3338.3126911861573,GWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,RO01Z2DR,Production,2050,223.85551739612606,GWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,RO02Z2DR,Production,2050,255.82770616192298,GWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,RO03Z2DR,Production,2050,683.8650499393863,GWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,SE02Z2DR,Production,2050,375.71177243454395,GWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,SI00Z2DR,Production,2050,137.382855954246,GWh,1,1,SI
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,SK00Z2DR,Production,2050,452.4248301323728,GWh,1,1,SK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UA01Z2DR,Production,2050,486.63086579236494,GWh,1,1,UA
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK01Z2DR,Production,2050,1490.2233859579649,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK02Z2DR,Production,2050,811.3453505210832,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK03Z2DR,Production,2050,1583.4102952905998,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK04Z2DR,Production,2050,851.2765850173826,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK05Z2DR,Production,2050,2001.0297451927981,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UKNIZ2DR,Production,2050,820.4538711918503,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES02 SMR,Production,2050,5.931921182633321,MW,1,1,ES
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR03 SMR,Production,2050,56.855313584855296,MW,1,1,FR
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR06 SMR,Production,2050,12.44575563955337,MW,1,1,FR
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,HU01 SMR,Production,2050,8.22647971774875,MW,1,1,HU
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,BE01 Pyrolysis,Production,2050,-4.3904672222222223e-10,MW,1,1,BE
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,DE01 Pyrolysis,Production,2050,-4.922878888888889e-10,MW,1,1,DE
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,FI02 Pyrolysis,Production,2050,1.466061111111111e-11,MW,1,1,FI
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,NOS2 Pyrolysis,Production,2050,8.163645555555555e-10,MW,1,1,NO
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,PL01 Pyrolysis,Production,2050,-7.330305555555557e-11,MW,1,1,PL
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,UK01 Pyrolysis,Production,2050,29.29521288287832,MW,1,1,UK
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,FR05Z2MK White H2,Production,2050,84.93333333333332,GWh,1,1,FR

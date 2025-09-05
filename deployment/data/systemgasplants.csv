@@ -1,0 +1,1729 @@
+model_name,collection_name,category_name,child_name,property_name,date_string,value,unit_name,interval_id,period_value
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,AT03 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,AT03 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,AT03 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,AT03 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,BE01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,BE01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,BE01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,BE01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,BG01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,BG01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,BG01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,BG01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,CH00 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,CH00 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,CH00 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,CH00 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,CZ01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,CZ01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,CZ01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,CZ01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE02 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE02 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE02 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE02 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE03 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE03 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE03 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE03 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE04 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE04 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE04 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE04 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE07 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE07 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE07 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DE07 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DKE1 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DKE1 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DKE1 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,DKE1 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES02 SMR,Production,2050,0.02135474541951667,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES02 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES02 SMR,Energy Consumption,2050,0.0007687708500000001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES02 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES06 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES06 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES06 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES06 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES08 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES08 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES08 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES08 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES09 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES09 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES09 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES09 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES11 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES11 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES11 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ES11 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FI01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FI01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FI01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FI01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR03 SMR,Production,2050,0.20467749148554723,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR03 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR03 SMR,Energy Consumption,2050,0.007368389729999999,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR03 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR06 SMR,Production,2050,0.04480436186749723,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR06 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR06 SMR,Energy Consumption,2050,0.00161295707,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR06 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR08 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR08 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR08 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR08 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR10 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR10 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR10 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR10 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR13 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR13 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR13 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,FR13 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,GR02 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,GR02 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,GR02 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,GR02 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,HR01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,HR01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,HR01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,HR01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,HU01 SMR,Production,2050,0.029615090063175004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,HU01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,HU01 SMR,Energy Consumption,2050,0.0010661432500000004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,HU01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,IE00 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,IE00 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,IE00 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,IE00 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITCN SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITCN SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITCN SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITCN SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITN1 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITN1 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITN1 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITN1 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITS1 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITS1 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITS1 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITS1 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITSA SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITSA SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITSA SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITSA SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITSI SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITSI SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITSI SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,ITSI SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,LT00 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,LT00 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,LT00 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,LT00 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,NL03 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,NL03 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,NL03 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,NL03 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,NOS1 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,NOS1 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,NOS1 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,NOS1 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL03 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL03 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL03 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL03 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL05 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL05 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL05 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PL05 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PT01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PT01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PT01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PT01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PT02 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PT02 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PT02 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,PT02 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,RO03 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,RO03 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,RO03 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,RO03 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SE03 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SE03 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SE03 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SE03 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SI00 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SI00 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SI00 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SI00 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SK00 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SK00 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SK00 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,SK00 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK01 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK01 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK01 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK01 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK02 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK02 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK02 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK02 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK03 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK03 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK03 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK03 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK04 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK04 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK04 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK04 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK05 SMR,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK05 SMR,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK05 SMR,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,SMR,UK05 SMR,SRMC,2050,166.7160000000003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT01 e_kerosene h2,Production,2050,0.8463470089764684,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT01 e_kerosene h2,Energy Consumption,2050,45.70273848470997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT02 e_kerosene h2,Production,2050,0.47917451652360804,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT02 e_kerosene h2,Energy Consumption,2050,25.87542389222004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT03 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT03 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,AT03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE01 e_kerosene h2,Production,2050,0.07022687570579722,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE01 e_kerosene h2,Energy Consumption,2050,3.7922512881599992,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE02 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE02 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE03 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE03 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BE03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BG01 e_kerosene h2,Production,2050,0.6414834093087427,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BG01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BG01 e_kerosene h2,Energy Consumption,2050,34.64010410281,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BG01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BG02 e_kerosene h2,Production,2050,0.6460572802447498,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BG02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BG02 e_kerosene h2,Energy Consumption,2050,34.887093133300084,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,BG02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CY00 e_kerosene h2,Production,2050,0.017327145893877786,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CY00 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CY00 e_kerosene h2,Energy Consumption,2050,0.9356658781599997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CY00 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CZ01 e_kerosene h2,Production,2050,2.329155142806457,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CZ01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CZ01 e_kerosene h2,Energy Consumption,2050,125.77437771146028,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CZ01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CZ02 e_kerosene h2,Production,2050,2.334870537623253,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CZ02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CZ02 e_kerosene h2,Energy Consumption,2050,126.08300903183029,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,CZ02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE01 e_kerosene h2,Production,2050,2.2988203855090554,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE01 e_kerosene h2,Energy Consumption,2050,124.13630081751991,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE02 e_kerosene h2,Production,2050,1.7107794783741328,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE02 e_kerosene h2,Energy Consumption,2050,92.38209183225992,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE03 e_kerosene h2,Production,2050,3.075650533153943,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE03 e_kerosene h2,Energy Consumption,2050,166.08512879024968,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE04 e_kerosene h2,Production,2050,1.0669852534580584,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE04 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE04 e_kerosene h2,Energy Consumption,2050,57.6172036865801,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE04 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE05 e_kerosene h2,Production,2050,1.7752529404859263,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE05 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE05 e_kerosene h2,Energy Consumption,2050,95.86365878627997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE05 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE06 e_kerosene h2,Production,2050,2.0684323030750686,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE06 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE06 e_kerosene h2,Energy Consumption,2050,111.69534436613992,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE06 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE07 e_kerosene h2,Production,2050,2.242804140653994,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE07 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE07 e_kerosene h2,Energy Consumption,2050,121.11142359543993,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DE07 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DKE1 e_kerosene h2,Production,2050,1.721687776063663,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DKE1 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DKE1 e_kerosene h2,Energy Consumption,2050,92.97113990728985,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DKE1 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DKW1 e_kerosene h2,Production,2050,2.019007013060701,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DKW1 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DKW1 e_kerosene h2,Energy Consumption,2050,109.02637870534997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,DKW1 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,EE00 e_kerosene h2,Production,2050,0.21223045223311032,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,EE00 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,EE00 e_kerosene h2,Energy Consumption,2050,11.460444420930015,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,EE00 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES01 e_kerosene h2,Production,2050,2.2433029234812345,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES01 e_kerosene h2,Energy Consumption,2050,121.13835786794006,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES02 e_kerosene h2,Production,2050,1.9272421358749068,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES02 e_kerosene h2,Energy Consumption,2050,104.07107533724,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES03 e_kerosene h2,Production,2050,2.0830746274464698,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES03 e_kerosene h2,Energy Consumption,2050,112.48602988208002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES04 e_kerosene h2,Production,2050,2.0569741081350648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES04 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES04 e_kerosene h2,Energy Consumption,2050,111.07660183931996,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES04 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES05 e_kerosene h2,Production,2050,2.8211163745188155,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES05 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES05 e_kerosene h2,Energy Consumption,2050,152.34028422405,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES05 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES06 e_kerosene h2,Production,2050,0.23377013546128067,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES06 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES06 e_kerosene h2,Energy Consumption,2050,12.623587314939988,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES06 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES07 e_kerosene h2,Production,2050,0.5887512578640398,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES07 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES07 e_kerosene h2,Energy Consumption,2050,31.79256792467001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES07 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES08 e_kerosene h2,Production,2050,2.0334208075933726,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES08 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES08 e_kerosene h2,Energy Consumption,2050,109.80472360998994,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES08 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES09 e_kerosene h2,Production,2050,0.2252591970078778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES09 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES09 e_kerosene h2,Energy Consumption,2050,12.163996638480006,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES09 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES10 e_kerosene h2,Production,2050,0.2271417229898667,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES10 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES10 e_kerosene h2,Energy Consumption,2050,12.265653041499997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES10 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES11 e_kerosene h2,Production,2050,0.43298951111600265,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES11 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES11 e_kerosene h2,Energy Consumption,2050,23.381433600310004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ES11 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FI01 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FI01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FI01 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FI01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FI02 e_kerosene h2,Production,2050,3.596291358005377,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FI02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FI02 e_kerosene h2,Energy Consumption,2050,194.19973333224993,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FI02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR01 e_kerosene h2,Production,2050,4.069937299933966,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR01 e_kerosene h2,Energy Consumption,2050,219.77661419653052,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR02 e_kerosene h2,Production,2050,1.7749326956339293,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR02 e_kerosene h2,Energy Consumption,2050,95.8463655642501,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR03 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR03 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR04 e_kerosene h2,Production,2050,3.4984995949234716,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR04 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR04 e_kerosene h2,Energy Consumption,2050,188.91897812576002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR04 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR05 e_kerosene h2,Production,2050,2.055933962977732,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR05 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR05 e_kerosene h2,Energy Consumption,2050,111.02043400088998,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR05 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR06 e_kerosene h2,Production,2050,0.8542154297549791,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR06 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR06 e_kerosene h2,Energy Consumption,2050,46.12763320680002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR06 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR07 e_kerosene h2,Production,2050,4.151363247511161,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR07 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR07 e_kerosene h2,Energy Consumption,2050,224.17361536556024,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR07 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR08 e_kerosene h2,Production,2050,2.0862490516092236,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR08 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR08 e_kerosene h2,Energy Consumption,2050,112.65744878672984,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR08 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR09 e_kerosene h2,Production,2050,2.0699355633174576,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR09 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR09 e_kerosene h2,Energy Consumption,2050,111.77652041913016,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR09 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR10 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR10 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR10 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR10 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR11 e_kerosene h2,Production,2050,1.0121537063931851,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR11 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR11 e_kerosene h2,Energy Consumption,2050,54.65630014531993,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR11 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR12 e_kerosene h2,Production,2050,3.3681761916570596,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR12 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR12 e_kerosene h2,Energy Consumption,2050,181.88151434954042,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR12 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR13 e_kerosene h2,Production,2050,3.7373595545953355,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR13 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR13 e_kerosene h2,Energy Consumption,2050,201.81741594824973,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR13 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR14 e_kerosene h2,Production,2050,0.8212518616615649,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR14 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR14 e_kerosene h2,Energy Consumption,2050,44.34760052973001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR14 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR15 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR15 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR15 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,FR15 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR01 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR01 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR02 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR02 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR03 e_kerosene h2,Production,2050,1.9884003973317905,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR03 e_kerosene h2,Energy Consumption,2050,107.37362145593002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,GR03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HR01 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HR01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HR01 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HR01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HR02 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HR02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HR02 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HR02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU01 e_kerosene h2,Production,2050,0.16537182515137291,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU01 e_kerosene h2,Energy Consumption,2050,8.930078558230022,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU02 e_kerosene h2,Production,2050,0.15969868683492786,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU02 e_kerosene h2,Energy Consumption,2050,8.62372908901998,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU03 e_kerosene h2,Production,2050,0.20810440982295084,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU03 e_kerosene h2,Energy Consumption,2050,11.237638130600006,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,HU03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,IE00 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,IE00 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,IE00 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,IE00 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCA e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCA e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCA e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCA e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCN e_kerosene h2,Production,2050,5.612408040939276,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCN e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCN e_kerosene h2,Energy Consumption,2050,303.0700342106798,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCN e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCS e_kerosene h2,Production,2050,4.9675526206079725,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCS e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCS e_kerosene h2,Energy Consumption,2050,268.24784151278027,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITCS e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITN1 e_kerosene h2,Production,2050,3.6214393830606353,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITN1 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITN1 e_kerosene h2,Energy Consumption,2050,195.55772668523977,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITN1 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITS1 e_kerosene h2,Production,2050,5.752597673813524,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITS1 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITS1 e_kerosene h2,Energy Consumption,2050,310.6402743859404,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITS1 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITSA e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITSA e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITSA e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITSA e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITSI e_kerosene h2,Production,2050,5.717512565869581,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITSI e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITSI e_kerosene h2,Energy Consumption,2050,308.74567855695005,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,ITSI e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,LT00 e_kerosene h2,Production,2050,0.1882479939803669,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,LT00 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,LT00 e_kerosene h2,Energy Consumption,2050,10.165391675000041,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,LT00 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,LV00 e_kerosene h2,Production,2050,0.18143560100425846,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,LV00 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,LV00 e_kerosene h2,Energy Consumption,2050,9.79752245405002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,LV00 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,MT00 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,MT00 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,MT00 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,MT00 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL01 e_kerosene h2,Production,2050,0.20913033340938905,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL01 e_kerosene h2,Energy Consumption,2050,11.29303800422001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL02 e_kerosene h2,Production,2050,0.17004243736133046,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL02 e_kerosene h2,Energy Consumption,2050,9.182291617550003,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL03 e_kerosene h2,Production,2050,0.1351511963379723,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL03 e_kerosene h2,Energy Consumption,2050,7.298164602240002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL04 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL04 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL04 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,NL04 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL01 e_kerosene h2,Production,2050,1.0207823715714812,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL01 e_kerosene h2,Energy Consumption,2050,55.122248064880004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL02 e_kerosene h2,Production,2050,0.6145529861868237,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL02 e_kerosene h2,Energy Consumption,2050,33.18586125419999,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL03 e_kerosene h2,Production,2050,1.3246808904688416,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL03 e_kerosene h2,Energy Consumption,2050,71.5327680852798,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL04 e_kerosene h2,Production,2050,0.6988815843449873,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL04 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL04 e_kerosene h2,Energy Consumption,2050,37.73960555475995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL04 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL05 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL05 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL05 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PL05 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PT01 e_kerosene h2,Production,2050,1.8497407981945233,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PT01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PT01 e_kerosene h2,Energy Consumption,2050,99.88600310245997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PT01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PT02 e_kerosene h2,Production,2050,1.3715920980645584,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PT02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PT02 e_kerosene h2,Energy Consumption,2050,74.06597329548002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,PT02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO01 e_kerosene h2,Production,2050,2.182442443114548,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO01 e_kerosene h2,Energy Consumption,2050,117.85189192859029,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO02 e_kerosene h2,Production,2050,2.2547603449518996,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO02 e_kerosene h2,Energy Consumption,2050,121.75705862755034,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO03 e_kerosene h2,Production,2050,1.7963438009201222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO03 e_kerosene h2,Energy Consumption,2050,97.00256524925999,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,RO03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE01 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE01 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE02 e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE02 e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE03 e_kerosene h2,Production,2050,0.18249939208510835,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE03 e_kerosene h2,Energy Consumption,2050,9.854967172590001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE04 e_kerosene h2,Production,2050,1.7071530394372973,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE04 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE04 e_kerosene h2,Energy Consumption,2050,92.18626412955997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SE04 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SI00 e_kerosene h2,Production,2050,0.0808924990630306,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SI00 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SI00 e_kerosene h2,Energy Consumption,2050,4.368194949450021,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,SI00 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK01 e_kerosene h2,Production,2050,1.1072745026367614,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK01 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK01 e_kerosene h2,Energy Consumption,2050,59.792823142310034,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK01 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK02 e_kerosene h2,Production,2050,2.978350499811108,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK02 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK02 e_kerosene h2,Energy Consumption,2050,160.83092698981991,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK02 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK03 e_kerosene h2,Production,2050,2.153524036208211,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK03 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK03 e_kerosene h2,Energy Consumption,2050,116.29029795528999,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK03 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK04 e_kerosene h2,Production,2050,1.977028774580537,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK04 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK04 e_kerosene h2,Energy Consumption,2050,106.75955382725994,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK04 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK05 e_kerosene h2,Production,2050,2.9830866594773187,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK05 e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK05 e_kerosene h2,Energy Consumption,2050,161.08667961180993,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UK05 e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UKNI e_kerosene h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UKNI e_kerosene h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UKNI e_kerosene h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene H2,UKNI e_kerosene h2,SRMC,2050,18.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT01 e_kerosene co2,Production,2050,0.04548334821685835,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT02 e_kerosene co2,Production,2050,0.025751212163052848,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT03 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,AT03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE01 e_kerosene co2,Production,2050,0.0037740470611027773,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE02 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE03 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BE03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BG01 e_kerosene co2,Production,2050,0.03447381862454452,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BG01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BG01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BG01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BG02 e_kerosene co2,Production,2050,0.034719622015241626,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BG02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BG02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,BG02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CY00 e_kerosene co2,Production,2050,0.0009311743314888895,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CY00 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CY00 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CY00 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CZ01 e_kerosene co2,Production,2050,0.1251706135754865,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CZ01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CZ01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CZ01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CZ02 e_kerosene co2,Production,2050,0.12547776334959151,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CZ02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CZ02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,CZ02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE01 e_kerosene co2,Production,2050,0.12354040006427776,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE02 e_kerosene co2,Production,2050,0.09193862317920272,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE03 e_kerosene co2,Production,2050,0.16528785794606426,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE04 e_kerosene co2,Production,2050,0.05734061952195548,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE04 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE04 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE04 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE05 e_kerosene co2,Production,2050,0.09540347730741132,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE05 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE05 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE05 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE06 e_kerosene co2,Production,2050,0.11115916486491677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE06 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE06 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE06 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE07 e_kerosene co2,Production,2050,0.12053004338601388,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE07 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE07 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DE07 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DKE1 e_kerosene co2,Production,2050,0.092524843603011,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DKE1 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DKE1 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DKE1 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DKW1 e_kerosene co2,Production,2050,0.10850301123930561,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DKW1 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DKW1 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,DKW1 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,EE00 e_kerosene co2,Production,2050,0.011405429993438874,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,EE00 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,EE00 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,EE00 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES01 e_kerosene co2,Production,2050,0.12055684836411938,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES02 e_kerosene co2,Production,2050,0.10357149518399442,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES03 e_kerosene co2,Production,2050,0.11194605479428336,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES04 e_kerosene co2,Production,2050,0.11054339253413052,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES04 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES04 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES04 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES05 e_kerosene co2,Production,2050,0.15160899378342782,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES05 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES05 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES05 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES06 e_kerosene co2,Production,2050,0.012562989366205552,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES06 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES06 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES06 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES07 e_kerosene co2,Production,2050,0.031639951687099994,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES07 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES07 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES07 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES08 e_kerosene co2,Production,2050,0.10927761979689175,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES08 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES08 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES08 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES09 e_kerosene co2,Production,2050,0.012105604897144445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES09 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES09 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES09 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES10 e_kerosene co2,Production,2050,0.012206773311380559,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES10 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES10 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES10 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES11 e_kerosene co2,Production,2050,0.02326919395880836,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES11 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES11 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ES11 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FI01 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FI01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FI01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FI01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FI02 e_kerosene co2,Production,2050,0.19326750185280306,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FI02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FI02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FI02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR01 e_kerosene co2,Production,2050,0.21872160410601105,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR02 e_kerosene co2,Production,2050,0.09538626709940834,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR03 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR04 e_kerosene co2,Production,2050,0.1880120962498559,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR04 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR04 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR04 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR05 e_kerosene co2,Production,2050,0.11048749432226357,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR05 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR05 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR05 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR06 e_kerosene co2,Production,2050,0.04590620328499434,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR06 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR06 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR06 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR07 e_kerosene co2,Production,2050,0.22309749802219198,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR07 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR07 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR07 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR08 e_kerosene co2,Production,2050,0.11211665082409729,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR08 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR08 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR08 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR09 e_kerosene co2,Production,2050,0.11123995124251675,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR09 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR09 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR09 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR10 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR10 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR10 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR10 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR11 e_kerosene co2,Production,2050,0.05439392942680282,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR11 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR11 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR11 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR12 e_kerosene co2,Production,2050,0.181008414936256,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR12 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR12 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR12 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR13 e_kerosene co2,Production,2050,0.20084861673798013,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR13 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR13 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR13 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR14 e_kerosene co2,Production,2050,0.04413471543178338,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR14 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR14 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR14 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR15 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR15 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR15 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,FR15 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR01 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR02 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR03 e_kerosene co2,Production,2050,0.1068581878439916,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,GR03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HR01 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HR01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HR01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HR01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HR02 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HR02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HR02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HR02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU01 e_kerosene co2,Production,2050,0.008887210835274995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU02 e_kerosene co2,Production,2050,0.008582331958413883,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU03 e_kerosene co2,Production,2050,0.011183693257038847,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,HU03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,IE00 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,IE00 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,IE00 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,IE00 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCA e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCA e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCA e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCA e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCN e_kerosene co2,Production,2050,0.30161518449724434,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCN e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCN e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCN e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCS e_kerosene co2,Production,2050,0.2669601513709278,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCS e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCS e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITCS e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITN1 e_kerosene co2,Production,2050,0.19461897632883335,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITN1 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITN1 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITN1 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITS1 e_kerosene co2,Production,2050,0.30914908468334185,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITS1 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITS1 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITS1 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITSA e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITSA e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITSA e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITSA e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITSI e_kerosene co2,Production,2050,0.30726358362418055,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITSI e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITSI e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,ITSI e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,LT00 e_kerosene co2,Production,2050,0.010116593986277785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,LT00 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,LT00 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,LT00 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,LV00 e_kerosene co2,Production,2050,0.009750490675749976,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,LV00 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,LV00 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,LV00 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,MT00 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,MT00 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,MT00 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,MT00 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL01 e_kerosene co2,Production,2050,0.011238827190572235,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL02 e_kerosene co2,Production,2050,0.009138213177480559,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL03 e_kerosene co2,Production,2050,0.007263130677805556,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL04 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL04 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL04 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,NL04 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL01 e_kerosene co2,Production,2050,0.054857640621880636,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL02 e_kerosene co2,Production,2050,0.03302655668650828,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL03 e_kerosene co2,Production,2050,0.07118938399783599,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL04 e_kerosene co2,Production,2050,0.037558441308344404,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL04 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL04 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL04 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL05 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL05 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL05 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PL05 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PT01 e_kerosene co2,Production,2050,0.09940651286397778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PT01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PT01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PT01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PT02 e_kerosene co2,Production,2050,0.0737104288738528,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PT02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PT02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,PT02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO01 e_kerosene co2,Production,2050,0.1172861586920834,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO02 e_kerosene co2,Production,2050,0.12117257912809982,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO03 e_kerosene co2,Production,2050,0.09653691659322526,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,RO03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE01 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE02 e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE03 e_kerosene co2,Production,2050,0.009807659637872222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE04 e_kerosene co2,Production,2050,0.0917437355229805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE04 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE04 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SE04 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SI00 e_kerosene co2,Production,2050,0.004347225976936097,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SI00 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SI00 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,SI00 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK01 e_kerosene co2,Production,2050,0.05950579518915278,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK01 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK01 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK01 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK02 e_kerosene co2,Production,2050,0.16005887828281956,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK02 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK02 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK02 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK03 e_kerosene co2,Production,2050,0.11573206095532497,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK03 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK03 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK03 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK04 e_kerosene co2,Production,2050,0.10624706797010285,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK04 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK04 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK04 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK05 e_kerosene co2,Production,2050,0.1603134031963471,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK05 e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK05 e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UK05 e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UKNI e_kerosene co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UKNI e_kerosene co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UKNI e_kerosene co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_kerosene CO2,UKNI e_kerosene co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT01 e_methonol h2,Production,2050,0.01924113824112227,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT01 e_methonol h2,Energy Consumption,2050,1.7317024411099955,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT02 e_methonol h2,Production,2050,0.010893714821908327,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT02 e_methonol h2,Energy Consumption,2050,0.980434334500002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT03 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT03 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,AT03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE01 e_methonol h2,Production,2050,2.122609255567367,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE01 e_methonol h2,Energy Consumption,2050,191.03483300112995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE02 e_methonol h2,Production,2050,2.1951906766685356,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE02 e_methonol h2,Energy Consumption,2050,197.56716090016002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE03 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE03 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BE03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BG01 e_methonol h2,Production,2050,0.09148837085412495,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BG01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BG01 e_methonol h2,Energy Consumption,2050,8.233953376520017,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BG01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BG02 e_methonol h2,Production,2050,0.09214069674389148,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BG02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BG02 e_methonol h2,Energy Consumption,2050,8.292662707329994,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,BG02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CY00 e_methonol h2,Production,2050,0.28265626591677795,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CY00 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CY00 e_methonol h2,Energy Consumption,2050,25.439063932659998,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CY00 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CZ01 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CZ01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CZ01 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CZ01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CZ02 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CZ02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CZ02 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,CZ02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE01 e_methonol h2,Production,2050,0.5264370299289216,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE01 e_methonol h2,Energy Consumption,2050,47.37933269431004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE02 e_methonol h2,Production,2050,0.3917738303933497,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE02 e_methonol h2,Energy Consumption,2050,35.25964473468998,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE03 e_methonol h2,Production,2050,0.7043335539991349,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE03 e_methonol h2,Energy Consumption,2050,63.39001986023003,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE04 e_methonol h2,Production,2050,0.24434294719344762,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE04 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE04 e_methonol h2,Energy Consumption,2050,21.990865247390097,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE04 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE05 e_methonol h2,Production,2050,0.4065384540108829,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE05 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE05 e_methonol h2,Energy Consumption,2050,36.588460861150004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE05 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE06 e_methonol h2,Production,2050,0.47367744127487466,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE06 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE06 e_methonol h2,Energy Consumption,2050,42.63096971473998,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE06 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE07 e_methonol h2,Production,2050,0.5136091358153384,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE07 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE07 e_methonol h2,Energy Consumption,2050,46.22482222295013,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DE07 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DKE1 e_methonol h2,Production,2050,0.8123126013308556,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DKE1 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DKE1 e_methonol h2,Energy Consumption,2050,73.10813411993983,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DKE1 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DKW1 e_methonol h2,Production,2050,0.952591324584301,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DKW1 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DKW1 e_methonol h2,Energy Consumption,2050,85.73321921263015,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,DKW1 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,EE00 e_methonol h2,Production,2050,0.6016139750141176,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,EE00 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,EE00 e_methonol h2,Energy Consumption,2050,54.14525775113016,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,EE00 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES01 e_methonol h2,Production,2050,1.191716131260586,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES01 e_methonol h2,Energy Consumption,2050,107.25445181387003,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES02 e_methonol h2,Production,2050,1.5177960209954955,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES02 e_methonol h2,Energy Consumption,2050,136.60164188946004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES03 e_methonol h2,Production,2050,1.3203057411191395,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES03 e_methonol h2,Energy Consumption,2050,118.82751670072983,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES04 e_methonol h2,Production,2050,1.3839429299162362,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES04 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES04 e_methonol h2,Energy Consumption,2050,124.55486369217965,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES04 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES05 e_methonol h2,Production,2050,0.5956226321310352,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES05 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES05 e_methonol h2,Energy Consumption,2050,53.60603689124005,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES05 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES06 e_methonol h2,Production,2050,3.264770551546405,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES06 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES06 e_methonol h2,Energy Consumption,2050,293.8293496391499,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES06 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES07 e_methonol h2,Production,2050,2.8986200638479582,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES07 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES07 e_methonol h2,Energy Consumption,2050,260.8758057465997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES07 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES08 e_methonol h2,Production,2050,1.3691191405055605,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES08 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES08 e_methonol h2,Energy Consumption,2050,123.22072264546988,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES08 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES09 e_methonol h2,Production,2050,3.2795586930476754,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES09 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES09 e_methonol h2,Energy Consumption,2050,295.16028237455936,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES09 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES10 e_methonol h2,Production,2050,3.27761305030526,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES10 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES10 e_methonol h2,Energy Consumption,2050,294.98517452759023,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES10 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES11 e_methonol h2,Production,2050,3.0593125682983993,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES11 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES11 e_methonol h2,Energy Consumption,2050,275.3381311466501,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ES11 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FI01 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FI01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FI01 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FI01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FI02 e_methonol h2,Production,2050,0.7651639081978496,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FI02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FI02 e_methonol h2,Energy Consumption,2050,68.8647517384201,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FI02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR01 e_methonol h2,Production,2050,0.41309374643384505,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR01 e_methonol h2,Energy Consumption,2050,37.178437179919946,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR02 e_methonol h2,Production,2050,0.1801535365339557,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR02 e_methonol h2,Energy Consumption,2050,16.213818287969954,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR03 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR03 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR04 e_methonol h2,Production,2050,0.3550935060051803,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR04 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR04 e_methonol h2,Energy Consumption,2050,31.958415541020052,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR04 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR05 e_methonol h2,Production,2050,0.2086748274981806,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR05 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR05 e_methonol h2,Energy Consumption,2050,18.78073447456006,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR05 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR06 e_methonol h2,Production,2050,0.08670184001262796,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR06 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR06 e_methonol h2,Energy Consumption,2050,7.803165600720016,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR06 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR07 e_methonol h2,Production,2050,0.4213583822155545,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR07 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR07 e_methonol h2,Energy Consumption,2050,37.92225439978004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR07 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR08 e_methonol h2,Production,2050,0.21175177250952817,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR08 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR08 e_methonol h2,Energy Consumption,2050,19.057659525659997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR08 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR09 e_methonol h2,Production,2050,0.2100959730057422,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR09 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR09 e_methonol h2,Energy Consumption,2050,18.90863757063002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR09 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR10 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR10 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR10 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR10 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR11 e_methonol h2,Production,2050,0.10273238536301384,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR11 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR11 e_methonol h2,Energy Consumption,2050,9.245914682899992,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR11 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR12 e_methonol h2,Production,2050,0.3418658367934949,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR12 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR12 e_methonol h2,Energy Consumption,2050,30.767925310979923,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR12 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR13 e_methonol h2,Production,2050,0.3793375048852787,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR13 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR13 e_methonol h2,Energy Consumption,2050,34.14037543984014,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR13 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR14 e_methonol h2,Production,2050,0.08335607721543623,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR14 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR14 e_methonol h2,Energy Consumption,2050,7.502046949030008,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR14 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR15 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR15 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR15 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,FR15 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR01 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR01 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR02 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR02 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR03 e_methonol h2,Production,2050,0.8909056758161213,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR03 e_methonol h2,Energy Consumption,2050,80.18151082436995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,GR03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HR01 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HR01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HR01 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HR01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HR02 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HR02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HR02 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HR02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU01 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU01 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU02 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU02 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU03 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU03 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,HU03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,IE00 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,IE00 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,IE00 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,IE00 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCA e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCA e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCA e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCA e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCN e_methonol h2,Production,2050,0.6041295768178314,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCN e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCN e_methonol h2,Energy Consumption,2050,54.37166191369011,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCN e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCS e_methonol h2,Production,2050,1.2693885222969694,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCS e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCS e_methonol h2,Energy Consumption,2050,114.24496700622004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITCS e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITN1 e_methonol h2,Production,2050,2.65811945240918,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITN1 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITN1 e_methonol h2,Energy Consumption,2050,239.23075071638024,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITN1 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITS1 e_methonol h2,Production,2050,0.45951028298631974,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITS1 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITS1 e_methonol h2,Energy Consumption,2050,41.35592546840992,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITS1 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITSA e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITSA e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITSA e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITSA e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITSI e_methonol h2,Production,2050,0.49570682398696675,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITSI e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITSI e_methonol h2,Energy Consumption,2050,44.613614159069904,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,ITSI e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,LT00 e_methonol h2,Production,2050,0.637339763546627,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,LT00 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,LT00 e_methonol h2,Energy Consumption,2050,57.3605787190999,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,LT00 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,LV00 e_methonol h2,Production,2050,0.9588626236173252,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,LV00 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,LV00 e_methonol h2,Energy Consumption,2050,86.29763612596986,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,LV00 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,MT00 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,MT00 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,MT00 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,MT00 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL01 e_methonol h2,Production,2050,1.7914194691908696,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL01 e_methonol h2,Energy Consumption,2050,161.2277522264796,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL02 e_methonol h2,Production,2050,3.296151017385129,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL02 e_methonol h2,Energy Consumption,2050,296.6535915645094,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL03 e_methonol h2,Production,2050,3.3386125816005916,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL03 e_methonol h2,Energy Consumption,2050,300.4751323439402,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL04 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL04 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL04 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,NL04 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL01 e_methonol h2,Production,2050,0.19878399739708563,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL01 e_methonol h2,Energy Consumption,2050,17.890559766250046,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL02 e_methonol h2,Production,2050,0.11967614517885282,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL02 e_methonol h2,Energy Consumption,2050,10.770853065989995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL03 e_methonol h2,Production,2050,0.2579642535788831,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL03 e_methonol h2,Energy Consumption,2050,23.21678282264997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL04 e_methonol h2,Production,2050,0.1360980350974777,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL04 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL04 e_methonol h2,Energy Consumption,2050,12.248823158799981,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL04 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL05 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL05 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL05 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PL05 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PT01 e_methonol h2,Production,2050,1.1353162422547216,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PT01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PT01 e_methonol h2,Energy Consumption,2050,102.17846180343997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PT01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PT02 e_methonol h2,Production,2050,1.6349529208512514,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PT02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PT02 e_methonol h2,Energy Consumption,2050,147.14576287602029,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,PT02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO01 e_methonol h2,Production,2050,0.03924271091271942,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO01 e_methonol h2,Energy Consumption,2050,3.531843982129999,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO02 e_methonol h2,Production,2050,0.04054306597647495,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO02 e_methonol h2,Energy Consumption,2050,3.648875938419995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO03 e_methonol h2,Production,2050,0.0323002334485528,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO03 e_methonol h2,Energy Consumption,2050,2.9070210089700006,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,RO03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE01 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE01 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE02 e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE02 e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE03 e_methonol h2,Production,2050,2.564737582072359,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE03 e_methonol h2,Energy Consumption,2050,230.8263823864898,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE04 e_methonol h2,Production,2050,0.9872667280801309,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE04 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE04 e_methonol h2,Energy Consumption,2050,88.85400552762998,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SE04 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SI00 e_methonol h2,Production,2050,0.46108675810367844,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SI00 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SI00 e_methonol h2,Energy Consumption,2050,41.497808229030134,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,SI00 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK01 e_methonol h2,Production,2050,2.5157770382722835,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK01 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK01 e_methonol h2,Energy Consumption,2050,226.41993344474068,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK01 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK02 e_methonol h2,Production,2050,0.5854593223150697,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK02 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK02 e_methonol h2,Energy Consumption,2050,52.691339008760025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK02 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK03 e_methonol h2,Production,2050,1.4364084211929609,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK03 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK03 e_methonol h2,Energy Consumption,2050,129.27675790798995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK03 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK04 e_methonol h2,Production,2050,1.6185259062843298,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK04 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK04 e_methonol h2,Energy Consumption,2050,145.66733156553966,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK04 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK05 e_methonol h2,Production,2050,0.5805945179218011,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK05 e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK05 e_methonol h2,Energy Consumption,2050,52.25350661230003,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UK05 e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UKNI e_methonol h2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UKNI e_methonol h2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UKNI e_methonol h2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol H2,UKNI e_methonol h2,SRMC,2050,27.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT01 e_methonol co2,Production,2050,0.0010340337725111115,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT02 e_methonol co2,Production,2050,0.000585436728925001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT03 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,AT03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE01 e_methonol co2,Production,2050,0.11407067653737496,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE02 e_methonol co2,Production,2050,0.11797125870400006,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE03 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BE03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BG01 e_methonol co2,Production,2050,0.004916656389488871,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BG01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BG01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BG01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BG02 e_methonol co2,Production,2050,0.00495171289127222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BG02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BG02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,BG02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CY00 e_methonol co2,Production,2050,0.015190168136711094,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CY00 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CY00 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CY00 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CZ01 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CZ01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CZ01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CZ01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CZ02 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CZ02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CZ02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,CZ02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE01 e_methonol co2,Production,2050,0.02829113648748065,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE02 e_methonol co2,Production,2050,0.021054231138166637,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE03 e_methonol co2,Production,2050,0.03785143440893346,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE04 e_methonol co2,Production,2050,0.013131180513291603,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE04 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE04 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE04 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE05 e_methonol co2,Production,2050,0.021847693524261073,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE05 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE05 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE05 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE06 e_methonol co2,Production,2050,0.025455795052588808,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE06 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE06 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE06 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE07 e_methonol co2,Production,2050,0.02760175545466124,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE07 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE07 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DE07 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DKE1 e_methonol co2,Production,2050,0.04365431261107511,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DKE1 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DKE1 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DKE1 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DKW1 e_methonol co2,Production,2050,0.05119300058345009,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DKW1 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DKW1 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,DKW1 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,EE00 e_methonol co2,Production,2050,0.032331204136708216,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,EE00 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,EE00 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,EE00 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES01 e_methonol co2,Production,2050,0.06404375415628885,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES02 e_methonol co2,Production,2050,0.08156754169732199,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES03 e_methonol co2,Production,2050,0.07095426006019144,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES04 e_methonol co2,Production,2050,0.07437417220843626,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES04 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES04 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES04 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES05 e_methonol co2,Production,2050,0.032009224698402755,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES05 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES05 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES05 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES06 e_methonol co2,Production,2050,0.1754513152041417,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES06 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES06 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES06 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES07 e_methonol co2,Production,2050,0.15577410248284718,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES07 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES07 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES07 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES08 e_methonol co2,Production,2050,0.07357753020623335,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES08 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES08 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES08 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES09 e_methonol co2,Production,2050,0.17624604145985295,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES09 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES09 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES09 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES10 e_methonol co2,Production,2050,0.17614148110170816,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES10 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES10 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES10 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES11 e_methonol co2,Production,2050,0.1644098429749276,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES11 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES11 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ES11 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FI01 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FI01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FI01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FI01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FI02 e_methonol co2,Production,2050,0.04112050507704171,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FI02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FI02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FI02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR01 e_methonol co2,Production,2050,0.02219998005055823,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR02 e_methonol co2,Production,2050,0.009681591531286081,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR03 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR04 e_methonol co2,Production,2050,0.01908300190355828,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR04 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR04 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR04 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR05 e_methonol co2,Production,2050,0.011214347947658371,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR05 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR05 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR05 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR06 e_methonol co2,Production,2050,0.004659424489658321,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR06 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR06 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR06 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR07 e_methonol co2,Production,2050,0.022644128022436184,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR07 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR07 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR07 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR08 e_methonol co2,Production,2050,0.011379705371858376,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR08 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR08 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR08 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR09 e_methonol co2,Production,2050,0.011290721415649992,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR09 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR09 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR09 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR10 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR10 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR10 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR10 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR11 e_methonol co2,Production,2050,0.005520918497002775,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR11 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR11 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR11 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR12 e_methonol co2,Production,2050,0.018372136645383362,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR12 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR12 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR12 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR13 e_methonol co2,Production,2050,0.020385893308130572,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR13 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR13 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR13 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR14 e_methonol co2,Production,2050,0.0044796205880389016,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR14 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR14 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR14 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR15 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR15 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR15 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,FR15 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR01 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR02 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR03 e_methonol co2,Production,2050,0.04787796571829446,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,GR03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HR01 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HR01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HR01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HR01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HR02 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HR02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HR02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HR02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU01 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU02 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU03 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,HU03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,IE00 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,IE00 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,IE00 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,IE00 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCA e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCA e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCA e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCA e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCN e_methonol co2,Production,2050,0.03246639453924178,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCN e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCN e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCN e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCS e_methonol co2,Production,2050,0.06821792901700852,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCS e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCS e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITCS e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITN1 e_methonol co2,Production,2050,0.14284941208960264,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITN1 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITN1 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITN1 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITS1 e_methonol co2,Production,2050,0.02469444091919168,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITS1 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITS1 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITS1 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITSA e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITSA e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITSA e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITSA e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITSI e_methonol co2,Production,2050,0.026639671257494488,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITSI e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITSI e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,ITSI e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,LT00 e_methonol co2,Production,2050,0.034251135870344465,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,LT00 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,LT00 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,LT00 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,LV00 e_methonol co2,Production,2050,0.051530025083811264,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,LV00 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,LV00 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,LV00 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,MT00 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,MT00 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,MT00 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,MT00 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL01 e_methonol co2,Production,2050,0.09627227916607793,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL02 e_methonol co2,Production,2050,0.1771377259079415,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL03 e_methonol co2,Production,2050,0.17941964347903053,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL04 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL04 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL04 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,NL04 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL01 e_methonol co2,Production,2050,0.010682807025702807,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL02 e_methonol co2,Production,2050,0.006431489361450016,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL03 e_methonol co2,Production,2050,0.013863200139449963,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL04 e_methonol co2,Production,2050,0.007314014531163861,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL04 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL04 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL04 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL05 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL05 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL05 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PL05 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PT01 e_methonol co2,Production,2050,0.061012780142061136,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PT01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PT01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PT01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PT02 e_methonol co2,Production,2050,0.0878636448508222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PT02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PT02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,PT02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO01 e_methonol co2,Production,2050,0.002108933884686104,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO02 e_methonol co2,Production,2050,0.0021788159795611203,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO03 e_methonol co2,Production,2050,0.0017358397323166707,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,RO03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE01 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE02 e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE03 e_methonol co2,Production,2050,0.1378309975612889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE04 e_methonol co2,Production,2050,0.05305648380618611,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE04 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE04 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SE04 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SI00 e_methonol co2,Production,2050,0.024779161921322148,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SI00 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SI00 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,SI00 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK01 e_methonol co2,Production,2050,0.13519981975962758,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK01 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK01 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK01 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK02 e_methonol co2,Production,2050,0.031463040503799986,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK02 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK02 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK02 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK03 e_methonol co2,Production,2050,0.07719370862062232,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK03 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK03 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK03 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK04 e_methonol co2,Production,2050,0.08698084427876397,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK04 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK04 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK04 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK05 e_methonol co2,Production,2050,0.031201602122127886,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK05 e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK05 e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UK05 e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UKNI e_methonol co2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UKNI e_methonol co2,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UKNI e_methonol co2,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,e_methonol CO2,UKNI e_methonol co2,SRMC,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,BE01 Pyrolysis,Production,2050,-1.5805555555555558e-12,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,BE01 Pyrolysis,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,BE01 Pyrolysis,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,BE01 Pyrolysis,SRMC,2050,108.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,DE01 Pyrolysis,Production,2050,-1.7722222222222225e-12,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,DE01 Pyrolysis,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,DE01 Pyrolysis,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,DE01 Pyrolysis,SRMC,2050,108.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,FI02 Pyrolysis,Production,2050,5.277777777777778e-14,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,FI02 Pyrolysis,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,FI02 Pyrolysis,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,FI02 Pyrolysis,SRMC,2050,108.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,NOS2 Pyrolysis,Production,2050,2.9388888888888887e-12,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,NOS2 Pyrolysis,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,NOS2 Pyrolysis,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,NOS2 Pyrolysis,SRMC,2050,108.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,PL01 Pyrolysis,Production,2050,-2.6388888888888897e-13,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,PL01 Pyrolysis,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,PL01 Pyrolysis,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,PL01 Pyrolysis,SRMC,2050,108.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,UK01 Pyrolysis,Production,2050,0.10546192268298057,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,UK01 Pyrolysis,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,UK01 Pyrolysis,Energy Consumption,2050,0.37966292166,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Methane Pyrolysis,UK01 Pyrolysis,SRMC,2050,108.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,BE01 NH3 Gasification,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,BE01 NH3 Gasification,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,BE01 NH3 Gasification,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,BE01 NH3 Gasification,SRMC,2050,54000.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,DE01 NH3 Gasification,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,DE01 NH3 Gasification,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,DE01 NH3 Gasification,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,DE01 NH3 Gasification,SRMC,2050,54000.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,FR13 NH3 Gasification,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,FR13 NH3 Gasification,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,FR13 NH3 Gasification,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,FR13 NH3 Gasification,SRMC,2050,54000.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,NL03 NH3 Gasification,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,NL03 NH3 Gasification,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,NL03 NH3 Gasification,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,NL03 NH3 Gasification,SRMC,2050,54000.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,PL01 NH3 Gasification,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,PL01 NH3 Gasification,Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,PL01 NH3 Gasification,Energy Consumption,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Plant,Ammonia Terminals,PL01 NH3 Gasification,SRMC,2050,54000.0,€/MWh,1,1

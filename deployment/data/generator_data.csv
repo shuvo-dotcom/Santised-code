@@ -1,0 +1,6 @@
+generator_id,fuel_type,capacity_mw,efficiency,location
+G001,Gas,500,0.65,North Plant
+G002,Coal,750,0.45,South Plant
+G003,Wind,250,0.98,Coastal Site
+G004,Solar,300,0.95,Desert Region
+G005,Nuclear,1000,0.90,East Plant

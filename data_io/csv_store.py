@@ -39,9 +39,6 @@ class CSVStore:
                     logger.info(f"Loaded {fname} with {len(self.dfs[fname])} rows")
                     
                     # Special case: If systemgenerators.csv exists, load it with priority
-                    if fname == 'systemgenerators.csv':
-                        logger.info(f"Found systemgenerators.csv, loading it with priority")
-                        self.dfs['systemgenerators.csv'] = pd.read_csv(file_path)
                 except Exception as e:
                     logger.error(f"Error loading {fname}: {str(e)}")
     

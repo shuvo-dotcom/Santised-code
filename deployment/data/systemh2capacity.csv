@@ -1,0 +1,133 @@
+model_name,collection_name,category_name,child_name,property_name,date_string,value,unit_name,interval_id,period_value,Country
+TJ Dispatch_Future_Nuclear+,Electrolyser,H2 Imports,DZ00,Installed Capacity,2050,5872.59277603,MW,1.0,1.0,DZ
+TJ Dispatch_Future_Nuclear+,Electrolyser,H2 Imports,MA00,Installed Capacity,2050,5771.42857143,MW,1.0,1.0,MA
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,AL00Z2MK,Installed Capacity,2050,853.62380735,MW,1.0,1.0,AL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,AT03Z2MK,Installed Capacity,2050,3148.19786843,MW,1.0,1.0,AT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,BE03Z2MK,Installed Capacity,2050,5037.08580911,MW,1.0,1.0,BE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,BG01Z2MK,Installed Capacity,2050,4883.37621007,MW,1.0,1.0,BG
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,BG02Z2MK,Installed Capacity,2050,2445.50062784,MW,1.0,1.0,BG
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,CY00Z2MK,Installed Capacity,2050,78.66110422,MW,1.0,1.0,CY
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,DE03Z2MK,Installed Capacity,2050,4111.99117214,MW,1.0,1.0,DE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,DE04Z2MK,Installed Capacity,2050,6110.56482307,MW,1.0,1.0,DE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,DKE1Z2MK,Installed Capacity,2050,1746.87321598,MW,1.0,1.0,DK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,DKW1Z2MK,Installed Capacity,2050,1891.87039795,MW,1.0,1.0,DK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,EE00Z2MK,Installed Capacity,2050,1534.87544542,MW,1.0,1.0,EE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES01Z2MK,Installed Capacity,2050,7244.36395439,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES02Z2MK,Installed Capacity,2050,2119.49820128,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES03Z2MK,Installed Capacity,2050,8812.99551308,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES04Z2MK,Installed Capacity,2050,10273.44630187,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES07Z2MK,Installed Capacity,2050,173.75415505,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES08Z2MK,Installed Capacity,2050,141.07178138,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ES11Z2MK,Installed Capacity,2050,5210.59526368,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FI01Z2MK,Installed Capacity,2050,13153.08022474,MW,1.0,1.0,FI
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FI02Z2MK,Installed Capacity,2050,12525.79765125,MW,1.0,1.0,FI
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR01Z2MK,Installed Capacity,2050,6035.07250628,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR02Z2MK,Installed Capacity,2050,2046.20351892,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR04Z2MK,Installed Capacity,2050,2890.12371447,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR05Z2MK,Installed Capacity,2050,17287.48327572,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR09Z2MK,Installed Capacity,2050,1305.9935949,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR10Z2MK,Installed Capacity,2050,3520.79089175,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR13Z2MK,Installed Capacity,2050,11510.96569358,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,FR15Z2MK,Installed Capacity,2050,4.61694557,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,GR01Z2MK,Installed Capacity,2050,3557.35799038,MW,1.0,1.0,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,GR02Z2MK,Installed Capacity,2050,2625.03126693,MW,1.0,1.0,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,GR03Z2MK,Installed Capacity,2050,731.0194409,MW,1.0,1.0,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,HR01Z2MK,Installed Capacity,2050,801.85564924,MW,1.0,1.0,HR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,HU01Z2MK,Installed Capacity,2050,135.29124541,MW,1.0,1.0,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,HU02Z2MK,Installed Capacity,2050,750.81170102,MW,1.0,1.0,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,IE00Z2MK,Installed Capacity,2050,8576.06156912,MW,1.0,1.0,IE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ITCAZ2MK,Installed Capacity,2050,5.14910729,MW,1.0,1.0,IT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ITN1Z2MK,Installed Capacity,2050,3351.58653364,MW,1.0,1.0,IT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ITSAZ2MK,Installed Capacity,2050,4.39841162,MW,1.0,1.0,IT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,LT00Z2MK,Installed Capacity,2050,1455.24712044,MW,1.0,1.0,LT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,LUG1Z2MK,Installed Capacity,2050,490.90301202,MW,1.0,1.0,LU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,LV00Z2MK,Installed Capacity,2050,515.17060847,MW,1.0,1.0,LV
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,ME00Z2MK,Installed Capacity,2050,429.59228533,MW,1.0,1.0,ME
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,MK00Z2MK,Installed Capacity,2050,263.17134906,MW,1.0,1.0,MK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,NL01Z2MK,Installed Capacity,2050,9665.76337192,MW,1.0,1.0,NL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,NOS1Z2MK,Installed Capacity,2050,11542.85714286,MW,1.0,1.0,NO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,NOS2Z2MK,Installed Capacity,2050,2876.73504247,MW,1.0,1.0,NO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PL02Z2MK,Installed Capacity,2050,3141.66364421,MW,1.0,1.0,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PL03Z2MK,Installed Capacity,2050,8684.46046117,MW,1.0,1.0,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PL05Z2MK,Installed Capacity,2050,5295.37959756,MW,1.0,1.0,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PT01Z2MK,Installed Capacity,2050,4432.65258205,MW,1.0,1.0,PT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,PT02Z2MK,Installed Capacity,2050,4300.00201483,MW,1.0,1.0,PT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,RO02Z2MK,Installed Capacity,2050,878.54212565,MW,1.0,1.0,RO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,RS00Z2MK,Installed Capacity,2050,1080.53526583,MW,1.0,1.0,RS
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,SE01Z2MK,Installed Capacity,2050,26.77919464,MW,1.0,1.0,SE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,SE02Z2MK,Installed Capacity,2050,1632.85045083,MW,1.0,1.0,SE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,SK00Z2MK,Installed Capacity,2050,1224.34264152,MW,1.0,1.0,SK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UA01Z2MK,Installed Capacity,2050,1860.06595148,MW,1.0,1.0,UA
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UK02Z2MK,Installed Capacity,2050,11328.64048983,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UK03Z2MK,Installed Capacity,2050,6944.96292336,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UK05Z2MK,Installed Capacity,2050,5686.39414383,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Hydrogen Market,UKNIZ2MK,Installed Capacity,2050,993.33535784,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BE01Z2DR,Installed Capacity,2050,549.26640566,MW,1.0,1.0,BE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BE02Z2DR,Installed Capacity,2050,490.76226349,MW,1.0,1.0,BE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BE03Z2DR,Installed Capacity,2050,441.70330849,MW,1.0,1.0,BE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BG01Z2DR,Installed Capacity,2050,297.65498864,MW,1.0,1.0,BG
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,BG02Z2DR,Installed Capacity,2050,277.12973219,MW,1.0,1.0,BG
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,CY00Z2DR,Installed Capacity,2050,50.42030788,MW,1.0,1.0,CY
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,CZ01Z2DR,Installed Capacity,2050,568.335417,MW,1.0,1.0,CZ
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,CZ02Z2DR,Installed Capacity,2050,480.21106964,MW,1.0,1.0,CZ
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,DKE1Z2DR,Installed Capacity,2050,183.12276164,MW,1.0,1.0,DK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,EE00Z2DR,Installed Capacity,2050,368.19535976,MW,1.0,1.0,EE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES01Z2DR,Installed Capacity,2050,119.53587893,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES02Z2DR,Installed Capacity,2050,379.00329669,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES03Z2DR,Installed Capacity,2050,448.39924598,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES04Z2DR,Installed Capacity,2050,802.10923963,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES05Z2DR,Installed Capacity,2050,664.39456862,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES06Z2DR,Installed Capacity,2050,480.66786576,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES07Z2DR,Installed Capacity,2050,77.61221377,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES08Z2DR,Installed Capacity,2050,177.43158373,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ES11Z2DR,Installed Capacity,2050,459.13031639,MW,1.0,1.0,ES
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FI01Z2DR,Installed Capacity,2050,400.61702852,MW,1.0,1.0,FI
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR01Z2DR,Installed Capacity,2050,621.34037059,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR02Z2DR,Installed Capacity,2050,518.2028397,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR03Z2DR,Installed Capacity,2050,562.38011863,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR04Z2DR,Installed Capacity,2050,669.15794558,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR05Z2DR,Installed Capacity,2050,536.98453154,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR06Z2DR,Installed Capacity,2050,579.84337711,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR07Z2DR,Installed Capacity,2050,477.16496625,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR08Z2DR,Installed Capacity,2050,896.87616753,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR09Z2DR,Installed Capacity,2050,615.70096274,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR10Z2DR,Installed Capacity,2050,1034.48704957,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR11Z2DR,Installed Capacity,2050,482.8311606,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR12Z2DR,Installed Capacity,2050,550.9550322,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR13Z2DR,Installed Capacity,2050,335.56143769,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR14Z2DR,Installed Capacity,2050,271.3672845,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,FR15Z2DR,Installed Capacity,2050,4.48384825,MW,1.0,1.0,FR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,GR01Z2DR,Installed Capacity,2050,87.05505668,MW,1.0,1.0,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,GR03Z2DR,Installed Capacity,2050,615.60334209,MW,1.0,1.0,GR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HR01Z2DR,Installed Capacity,2050,183.47761506,MW,1.0,1.0,HR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HR02Z2DR,Installed Capacity,2050,207.50912178,MW,1.0,1.0,HR
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HU01Z2DR,Installed Capacity,2050,95.258996,MW,1.0,1.0,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HU02Z2DR,Installed Capacity,2050,360.02661041,MW,1.0,1.0,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,HU03Z2DR,Installed Capacity,2050,132.94776984,MW,1.0,1.0,HU
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ITN1Z2DR,Installed Capacity,2050,438.58911224,MW,1.0,1.0,IT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,LT00Z2DR,Installed Capacity,2050,132.99353505,MW,1.0,1.0,LT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,LV00Z2DR,Installed Capacity,2050,206.45508695,MW,1.0,1.0,LV
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,ME00Z2DR,Installed Capacity,2050,313.27130444,MW,1.0,1.0,ME
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,MT00Z2DR,Installed Capacity,2050,151.36865244,MW,1.0,1.0,MT
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,NL01Z2DR,Installed Capacity,2050,149.4564335,MW,1.0,1.0,NL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,NL02Z2DR,Installed Capacity,2050,267.30552031,MW,1.0,1.0,NL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,NL04Z2DR,Installed Capacity,2050,314.19252162,MW,1.0,1.0,NL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,PL01Z2DR,Installed Capacity,2050,932.35283813,MW,1.0,1.0,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,PL02Z2DR,Installed Capacity,2050,619.36056439,MW,1.0,1.0,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,PL04Z2DR,Installed Capacity,2050,1069.56880125,MW,1.0,1.0,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,PL05Z2DR,Installed Capacity,2050,955.59887249,MW,1.0,1.0,PL
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,RO01Z2DR,Installed Capacity,2050,116.46419621,MW,1.0,1.0,RO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,RO02Z2DR,Installed Capacity,2050,120.52418054,MW,1.0,1.0,RO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,RO03Z2DR,Installed Capacity,2050,343.75151072,MW,1.0,1.0,RO
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,SE02Z2DR,Installed Capacity,2050,303.30994469,MW,1.0,1.0,SE
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,SI00Z2DR,Installed Capacity,2050,108.44332356,MW,1.0,1.0,SI
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,SK00Z2DR,Installed Capacity,2050,255.8228721,MW,1.0,1.0,SK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UA01Z2DR,Installed Capacity,2050,256.99691607,MW,1.0,1.0,UA
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK01Z2DR,Installed Capacity,2050,591.97998655,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK02Z2DR,Installed Capacity,2050,549.98087108,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK03Z2DR,Installed Capacity,2050,617.81978314,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK04Z2DR,Installed Capacity,2050,572.89869897,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UK05Z2DR,Installed Capacity,2050,708.82373498,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Electrolyser,Zone 2 Dedicated RES,UKNIZ2DR,Installed Capacity,2050,520.64108508,MW,1.0,1.0,UK
+TJ Dispatch_Future_Nuclear+,Gas Plants,SMR,NOS1 SMR,Installed Capacity,2050,183288.73687594238,MW,,,NO
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,FR05Z2MK White H2,Installed Capacity,2050,34.9041095890411,MW,1.0,1.0,FR

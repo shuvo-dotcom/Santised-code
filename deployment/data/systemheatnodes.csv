@@ -1,0 +1,559 @@
+model_name,collection_name,category_name,child_name,property_name,date_string,value,unit_name,interval_id,period_value
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,AT01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,AT01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,AT01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,AT02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,AT02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,AT02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,AT03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,AT03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,AT03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BE01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BE01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4956877059733693,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BE01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4956877059733693,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BE02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BE02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4956877059733693,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BE02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4956877059733693,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BE03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BE03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4956877059733693,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BE03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4956877059733693,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BG01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BG01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0334216616651,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BG01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0334216616651,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BG02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BG02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0334216616651,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,BG02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0334216616651,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,CZ01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,CZ01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.19963486753646373,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,CZ01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.19963486753646373,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,CZ02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,CZ02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.19963486753646373,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,CZ02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.19963486753646373,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE04 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE04 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE04 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE05 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE05 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE05 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE06 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE06 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE06 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE07 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE07 CH4 Hybrid Heating Residential,Heat Injection,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DE07 CH4 Hybrid Heating Residential,Heat Demand,2050,0.4439488101670972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DKE1 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DKE1 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DKE1 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DKW1 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DKW1 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,DKW1 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,EE00 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,EE00 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,EE00 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES04 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES04 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES04 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES05 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES05 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES05 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES06 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES06 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES06 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES07 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES07 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES07 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES08 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES08 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES08 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES09 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES09 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES09 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES10 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES10 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES10 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES11 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES11 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ES11 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FI01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FI01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FI01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FI02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FI02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FI02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR01 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR01 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR02 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR02 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR03 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR03 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR04 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR04 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR04 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR05 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR05 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR05 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR06 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR06 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR06 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR07 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR07 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR07 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR08 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR08 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR08 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR09 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR09 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR09 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR10 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR10 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR10 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR11 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR11 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR11 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR12 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR12 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR12 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR13 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR13 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR13 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR14 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR14 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR14 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR15 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR15 CH4 Hybrid Heating Residential,Heat Injection,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,FR15 CH4 Hybrid Heating Residential,Heat Demand,2050,1.6893963056531864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,GR01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,GR01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.09010012293183066,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,GR01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.09010012293183066,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,GR02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,GR02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.09010012293183066,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,GR02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.09010012293183066,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,GR03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,GR03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.09010012293183066,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,GR03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.09010012293183066,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HR01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HR01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.07686948226780273,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HR01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.07686948226780273,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HR02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HR02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.07686948226780273,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HR02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.07686948226780273,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HU01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HU01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.26990737237377266,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HU01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.26990737237377266,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HU02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HU02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.26990737237377266,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HU02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.26990737237377266,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HU03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HU03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.26990737237377266,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,HU03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.26990737237377266,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,IE00 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,IE00 CH4 Hybrid Heating Residential,Heat Injection,2050,0.07652145746403329,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,IE00 CH4 Hybrid Heating Residential,Heat Demand,2050,0.07652145746403329,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITCA CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITCA CH4 Hybrid Heating Residential,Heat Injection,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITCA CH4 Hybrid Heating Residential,Heat Demand,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITCN CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITCN CH4 Hybrid Heating Residential,Heat Injection,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITCN CH4 Hybrid Heating Residential,Heat Demand,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITCS CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITCS CH4 Hybrid Heating Residential,Heat Injection,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITCS CH4 Hybrid Heating Residential,Heat Demand,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITN1 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITN1 CH4 Hybrid Heating Residential,Heat Injection,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITN1 CH4 Hybrid Heating Residential,Heat Demand,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITS1 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITS1 CH4 Hybrid Heating Residential,Heat Injection,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITS1 CH4 Hybrid Heating Residential,Heat Demand,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITSA CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITSA CH4 Hybrid Heating Residential,Heat Injection,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITSA CH4 Hybrid Heating Residential,Heat Demand,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITSI CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITSI CH4 Hybrid Heating Residential,Heat Injection,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,ITSI CH4 Hybrid Heating Residential,Heat Demand,2050,1.366574111681878,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,LT00 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,LT00 CH4 Hybrid Heating Residential,Heat Injection,2050,0.04543808200823059,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,LT00 CH4 Hybrid Heating Residential,Heat Demand,2050,0.04543808200823059,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,LUG1 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,LUG1 CH4 Hybrid Heating Residential,Heat Injection,2050,0.022421296692161113,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,LUG1 CH4 Hybrid Heating Residential,Heat Demand,2050,0.022421296692161113,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,LV00 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,LV00 CH4 Hybrid Heating Residential,Heat Injection,2050,0.03991020472605555,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,LV00 CH4 Hybrid Heating Residential,Heat Demand,2050,0.03991020472605555,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.40098006836245537,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.40098006836245537,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.40098006836245537,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.40098006836245537,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.40098006836245537,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.40098006836245537,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL04 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL04 CH4 Hybrid Heating Residential,Heat Injection,2050,0.40098006836245537,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,NL04 CH4 Hybrid Heating Residential,Heat Demand,2050,0.40098006836245537,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL04 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL04 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL04 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL05 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL05 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PL05 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8334619188264025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PT01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PT01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.030121385554824995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PT01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.030121385554824995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PT02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PT02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.030121385554824995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,PT02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.030121385554824995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,RO01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,RO01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.2176683014479805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,RO01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.2176683014479805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,RO02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,RO02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.2176683014479805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,RO02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.2176683014479805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,RO03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,RO03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.2176683014479805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,RO03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.2176683014479805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.16428589904947222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.16428589904947222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.16428589904947222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.16428589904947222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.16428589904947222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.16428589904947222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE04 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE04 CH4 Hybrid Heating Residential,Heat Injection,2050,0.16428589904947222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SE04 CH4 Hybrid Heating Residential,Heat Demand,2050,0.16428589904947222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SI00 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SI00 CH4 Hybrid Heating Residential,Heat Injection,2050,0.026870034845722222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SI00 CH4 Hybrid Heating Residential,Heat Demand,2050,0.026870034845722222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SK00 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SK00 CH4 Hybrid Heating Residential,Heat Injection,2050,0.07585100179765558,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,SK00 CH4 Hybrid Heating Residential,Heat Demand,2050,0.07585100179765558,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK01 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK01 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK01 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK02 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK02 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK02 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK03 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK03 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK03 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK04 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK04 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK04 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK05 CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK05 CH4 Hybrid Heating Residential,Heat Injection,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UK05 CH4 Hybrid Heating Residential,Heat Demand,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UKNI CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UKNI CH4 Hybrid Heating Residential,Heat Injection,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,CH4 Hybrid Heating Residential,UKNI CH4 Hybrid Heating Residential,Heat Demand,2050,0.8354617509905917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,AT01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,AT01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,AT01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,AT02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,AT02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,AT02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,AT03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,AT03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,AT03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BE01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BE01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.497195010752977,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BE01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.497195010752977,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BE02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BE02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.497195010752977,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BE02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.497195010752977,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BE03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BE03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.497195010752977,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BE03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.497195010752977,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BG01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BG01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.03347709453181385,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BG01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.03347709453181385,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BG02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BG02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.03347709453181385,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,BG02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.03347709453181385,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,CZ01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,CZ01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.2000467576503886,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,CZ01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.2000467576503886,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,CZ02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,CZ02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.2000467576503886,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,CZ02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.2000467576503886,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE04 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE04 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE04 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE05 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE05 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE05 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE06 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE06 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE06 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE07 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE07 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DE07 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.44511246515222785,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DKE1 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DKE1 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DKE1 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DKW1 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DKW1 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,DKW1 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,EE00 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,EE00 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,EE00 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES04 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES04 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES04 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES05 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES05 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES05 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES06 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES06 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES06 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES07 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES07 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES07 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES08 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES08 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES08 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES09 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES09 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES09 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES10 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES10 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES10 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES11 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES11 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ES11 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FI01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FI01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FI01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FI02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FI02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FI02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR04 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR04 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR04 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR05 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR05 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR05 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR06 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR06 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR06 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR07 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR07 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR07 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR08 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR08 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR08 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR09 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR09 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR09 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR10 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR10 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR10 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR11 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR11 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR11 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR12 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR12 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR12 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR13 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR13 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR13 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR14 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR14 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR14 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR15 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR15 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,FR15 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.6918372484121307,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,GR01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,GR01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.09022808319071668,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,GR01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.09022808319071668,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,GR02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,GR02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.09022808319071668,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,GR02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.09022808319071668,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,GR03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,GR03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.09022808319071668,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,GR03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.09022808319071668,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HR01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HR01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.07695619050659726,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HR01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.07695619050659726,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HR02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HR02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.07695619050659726,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HR02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.07695619050659726,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HU01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HU01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.2705251897618308,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HU01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.2705251897618308,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HU02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HU02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.2705251897618308,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HU02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.2705251897618308,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HU03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HU03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.2705251897618308,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,HU03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.2705251897618308,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,IE00 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,IE00 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.07681767610950285,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,IE00 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.07681767610950285,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITCA Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITCA Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITCA Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITCN Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITCN Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITCN Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITCS Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITCS Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITCS Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITN1 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITN1 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITN1 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITS1 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITS1 Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITS1 Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITSA Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITSA Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITSA Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITSI Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITSI Water CH4 Hybrid Heating Residential,Heat Injection,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,ITSI Water CH4 Hybrid Heating Residential,Heat Demand,2050,1.3690219650755682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,LT00 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,LT00 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.04555940992271938,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,LT00 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.04555940992271938,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,LUG1 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,LUG1 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.02245239676303337,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,LUG1 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.02245239676303337,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,LV00 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,LV00 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.040017838789480564,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,LV00 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.040017838789480564,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.40272082632132183,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.40272082632132183,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.40272082632132183,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.40272082632132183,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.40272082632132183,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.40272082632132183,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL04 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL04 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.40272082632132183,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,NL04 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.40272082632132183,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL04 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL04 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL04 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL05 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL05 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PL05 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8359231666041953,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PT01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PT01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.030175228906161106,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PT01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.030175228906161106,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PT02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PT02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.030175228906161106,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,PT02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.030175228906161106,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,RO01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,RO01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.21812291180830515,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,RO01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.21812291180830515,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,RO02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,RO02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.21812291180830515,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,RO02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.21812291180830515,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,RO03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,RO03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.21812291180830515,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,RO03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.21812291180830515,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.16499984484121677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.16499984484121677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.16499984484121677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.16499984484121677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.16499984484121677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.16499984484121677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE04 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE04 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.16499984484121677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SE04 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.16499984484121677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SI00 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SI00 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.026921270167194467,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SI00 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.026921270167194467,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SK00 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SK00 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.0760562753424805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,SK00 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.0760562753424805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK01 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK01 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK01 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK02 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK02 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK02 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK03 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK03 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK03 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK04 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK04 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK04 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK05 Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK05 Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UK05 Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UKNI Water CH4 Hybrid Heating Residential,Heat Withdrawal,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UKNI Water CH4 Hybrid Heating Residential,Heat Injection,2050,0.8386958680145119,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Heat Node,Water CH4 Hybrid Heating Residential,UKNI Water CH4 Hybrid Heating Residential,Heat Demand,2050,0.8386958680145119,GWh,1,1

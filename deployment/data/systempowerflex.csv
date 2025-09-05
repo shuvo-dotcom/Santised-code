@@ -1,0 +1,277 @@
+model_name,collection_name,category_name,child_name,property_name,date_string,value,unit_name,interval_id,period_value,Country
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,AT00HPCL,Generation,2050,0.0,GWh,1,1,AT
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,BE00HPCL,Generation,2050,0.0,GWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,BG00HPCL,Generation,2050,109.31787698412002,GWh,1,1,BG
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,CH00HPCL,Generation,2050,78.11999999999999,GWh,1,1,CH
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,CZ00HPCL,Generation,2050,0.0,GWh,1,1,CZ
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,DE00HPCL,Generation,2050,160.78891691923,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,ES00HPCL,Generation,2050,0.0,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,FR00HPCL,Generation,2050,5.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,GR00HPCL,Generation,2050,1.75,GWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,IE00HPCL,Generation,2050,0.8600000000000001,GWh,1,1,IE
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,ITCAHPCL,Generation,2050,5.0,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,ITCSHPCL,Generation,2050,6.95,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,ITN1HPCL,Generation,2050,14.71138907,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,ITS1HPCL,Generation,2050,1.7999999999999998,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,ITSAHPCL,Generation,2050,7.9,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,ITSIHPCL,Generation,2050,3.7,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,LT00HPCL,Generation,2050,0.0,GWh,1,1,LT
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,LUV1HPCL,Generation,2050,0.0,GWh,1,1,LU
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,PL00HPCL,Generation,2050,0.0,GWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,RS00HPCL,Generation,2050,116.2527349,GWh,1,1,RS
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,SI00HPCL,Generation,2050,1.298,GWh,1,1,SI
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,SK00HPCL,Generation,2050,0.0,GWh,1,1,SK
+TJ Dispatch_Future_Nuclear+,Generator,Pump Storage - closed loop,UK00HPCL,Generation,2050,13.19,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Generator,DSR Industry,CY00 DSR,Generation,2050,0.0,GWh,1,1,CY
+TJ Dispatch_Future_Nuclear+,Generator,DSR Industry,HR01 DSR,Generation,2050,0.0,GWh,1,1,HR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Industry,HR02 DSR,Generation,2050,0.0,GWh,1,1,HR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,BE01 DSR,Generation,2050,51.28894116923001,GWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,BE02 DSR,Generation,2050,54.06434863606999,GWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,BE03 DSR,Generation,2050,25.95861503552,GWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,DE01 DSR,Generation,2050,1931.113147742525,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,DE02 DSR,Generation,2050,12.903058681809998,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,DE03 DSR,Generation,2050,3341.8498100827296,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,DE04 DSR,Generation,2050,653.891346263749,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,DE05 DSR,Generation,2050,1281.053687830891,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,DE06 DSR,Generation,2050,1017.8672530799382,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,DE07 DSR,Generation,2050,1169.6048990423494,GWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,EE00 DSR,Generation,2050,0.0,GWh,1,1,EE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES01 DSR,Generation,2050,127.20679631944006,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES02 DSR,Generation,2050,170.04111777394988,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES03 DSR,Generation,2050,192.19428463042004,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES04 DSR,Generation,2050,854.1445184569204,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES05 DSR,Generation,2050,2.52708128127,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES06 DSR,Generation,2050,221.74700709084027,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES07 DSR,Generation,2050,838.07274758009,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES08 DSR,Generation,2050,217.95482604820984,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES09 DSR,Generation,2050,739.9442937580894,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES10 DSR,Generation,2050,513.8819578032993,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ES11 DSR,Generation,2050,711.9485172882598,GWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FI01 DSR,Generation,2050,2431.26405039856,GWh,1,1,FI
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FI02 DSR,Generation,2050,12241.862893527466,GWh,1,1,FI
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR01 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR02 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR03 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR04 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR05 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR06 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR07 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR08 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR09 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR10 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR11 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR12 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR13 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,FR14 DSR,Generation,2050,0.0,GWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ITCA DSR,Generation,2050,340.7039999999995,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ITCN DSR,Generation,2050,1642.057266027958,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ITCS DSR,Generation,2050,1606.7730701150765,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ITN1 DSR,Generation,2050,9917.355417273217,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ITS1 DSR,Generation,2050,162.02184639467004,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ITSA DSR,Generation,2050,176.89002449374948,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,ITSI DSR,Generation,2050,741.9364074534014,GWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,LT00 DSR,Generation,2050,247.50182276358052,GWh,1,1,LT
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,LUG1 DSR,Generation,2050,0.0,GWh,1,1,LU
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,LV00 DSR,Generation,2050,40.76953572649998,GWh,1,1,LV
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,NL01 DSR,Generation,2050,0.0,GWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,NL02 DSR,Generation,2050,0.0,GWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,NL03 DSR,Generation,2050,0.0,GWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,NL04 DSR,Generation,2050,0.0,GWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,NOM1 DSR,Generation,2050,2838.8302400330185,GWh,1,1,NO
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,NON1 DSR,Generation,2050,2269.7549844521504,GWh,1,1,NO
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,NOS1 DSR,Generation,2050,0.0,GWh,1,1,NO
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,NOS2 DSR,Generation,2050,0.0,GWh,1,1,NO
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,NOS3 DSR,Generation,2050,0.0,GWh,1,1,NO
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,SE01 DSR,Generation,2050,1037.992036474639,GWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,SE02 DSR,Generation,2050,112.99367684291,GWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,SE03 DSR,Generation,2050,2932.593535712403,GWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,SE04 DSR,Generation,2050,702.8069106073181,GWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Generator,DSR Tertiary,UKNI DSR,Generation,2050,2.34570533591,GWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,AT01 Home Charging,Generation,2050,3592878.544040931,MWh,1,1,AT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,AT02 Home Charging,Generation,2050,4668712.834265651,MWh,1,1,AT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,AT03 Home Charging,Generation,2050,4413626.526996831,MWh,1,1,AT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,BE01 Home Charging,Generation,2050,178974.5724764824,MWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,BE02 Home Charging,Generation,2050,2704084.9518897254,MWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,BE03 Home Charging,Generation,2050,2187826.794540236,MWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,BG01 Home Charging,Generation,2050,6428156.160270608,MWh,1,1,BG
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,BG02 Home Charging,Generation,2050,2814793.984115339,MWh,1,1,BG
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,CY00 Home Charging,Generation,2050,1687870.172030917,MWh,1,1,CY
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,CZ01 Home Charging,Generation,2050,2581769.088854776,MWh,1,1,CZ
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,CZ02 Home Charging,Generation,2050,1350828.3448646793,MWh,1,1,CZ
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,DE01 Home Charging,Generation,2050,1315131.6337581736,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,DE02 Home Charging,Generation,2050,775799.4048575326,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,DE03 Home Charging,Generation,2050,1044562.0925657653,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,DE04 Home Charging,Generation,2050,930861.4429836008,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,DE05 Home Charging,Generation,2050,1341269.8466633582,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,DE06 Home Charging,Generation,2050,1938561.2782996383,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,DE07 Home Charging,Generation,2050,2237257.132964713,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,DKE1 Home Charging,Generation,2050,143024.74985695095,MWh,1,1,DK
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,DKW1 Home Charging,Generation,2050,78503.9436499713,MWh,1,1,DK
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,EE00 Home Charging,Generation,2050,125053.12030273616,MWh,1,1,EE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES01 Home Charging,Generation,2050,466583.2293552415,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES02 Home Charging,Generation,2050,749596.5292900222,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES03 Home Charging,Generation,2050,430044.9060790612,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES04 Home Charging,Generation,2050,280498.69705400214,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES05 Home Charging,Generation,2050,1471907.7735752186,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES06 Home Charging,Generation,2050,3477924.614702661,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES07 Home Charging,Generation,2050,1815838.2415597504,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES08 Home Charging,Generation,2050,1271185.9013990562,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES09 Home Charging,Generation,2050,3520167.017894669,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES10 Home Charging,Generation,2050,3000287.959202718,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ES11 Home Charging,Generation,2050,1392326.1452334744,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FI01 Home Charging,Generation,2050,593409.2808116009,MWh,1,1,FI
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FI02 Home Charging,Generation,2050,1706546.1908547943,MWh,1,1,FI
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR01 Home Charging,Generation,2050,2985132.8222207483,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR02 Home Charging,Generation,2050,2283673.3622467164,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR03 Home Charging,Generation,2050,3155195.830003702,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR04 Home Charging,Generation,2050,1212691.2608533988,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR05 Home Charging,Generation,2050,634694.6482701147,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR06 Home Charging,Generation,2050,917417.0094080532,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR07 Home Charging,Generation,2050,3446060.391862411,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR08 Home Charging,Generation,2050,799317.1990294337,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR09 Home Charging,Generation,2050,633254.2413610369,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR10 Home Charging,Generation,2050,1890401.2895941732,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR11 Home Charging,Generation,2050,994708.4896049388,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR12 Home Charging,Generation,2050,2838758.9101859885,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR13 Home Charging,Generation,2050,601608.238974428,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR14 Home Charging,Generation,2050,667600.448668729,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,FR15 Home Charging,Generation,2050,321652.7904873218,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,GR01 Home Charging,Generation,2050,2521404.530981435,MWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,GR02 Home Charging,Generation,2050,5133425.1299623605,MWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,GR03 Home Charging,Generation,2050,882730.0213265687,MWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,HR01 Home Charging,Generation,2050,813267.934084746,MWh,1,1,HR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,HR02 Home Charging,Generation,2050,1250341.5886401413,MWh,1,1,HR
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,HU01 Home Charging,Generation,2050,2028560.608229336,MWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,HU02 Home Charging,Generation,2050,1068128.5511255837,MWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,HU03 Home Charging,Generation,2050,2496270.4295511907,MWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,IE00 Home Charging,Generation,2050,9366868.930077456,MWh,1,1,IE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ITCA Home Charging,Generation,2050,648793.9999027611,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ITCN Home Charging,Generation,2050,1733754.9316992732,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ITCS Home Charging,Generation,2050,4050361.451427404,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ITN1 Home Charging,Generation,2050,5151659.716885283,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ITS1 Home Charging,Generation,2050,2631480.905448493,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ITSA Home Charging,Generation,2050,723027.2793419078,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,ITSI Home Charging,Generation,2050,1659787.8983252556,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,LT00 Home Charging,Generation,2050,379633.8867977342,MWh,1,1,LT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,LUG1 Home Charging,Generation,2050,804552.526140769,MWh,1,1,LU
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,LV00 Home Charging,Generation,2050,232814.43733247495,MWh,1,1,LV
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,MT00 Home Charging,Generation,2050,585598.4964475872,MWh,1,1,MT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,NL01 Home Charging,Generation,2050,3649850.691082309,MWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,NL02 Home Charging,Generation,2050,3063524.493975509,MWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,NL03 Home Charging,Generation,2050,5065538.052992757,MWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,NL04 Home Charging,Generation,2050,3335677.762021762,MWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,PL01 Home Charging,Generation,2050,2796051.6845577466,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,PL02 Home Charging,Generation,2050,1712762.7478365318,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,PL03 Home Charging,Generation,2050,2648020.4222955923,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,PL04 Home Charging,Generation,2050,2465445.380256896,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,PL05 Home Charging,Generation,2050,2114894.159730481,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,PT01 Home Charging,Generation,2050,1764931.393650724,MWh,1,1,PT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,PT02 Home Charging,Generation,2050,2377778.2646293943,MWh,1,1,PT
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,RO01 Home Charging,Generation,2050,1805919.343364963,MWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,RO02 Home Charging,Generation,2050,2010557.7650695448,MWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,RO03 Home Charging,Generation,2050,1924874.851176499,MWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,SE01 Home Charging,Generation,2050,865769.4981488555,MWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,SE02 Home Charging,Generation,2050,624763.3579105447,MWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,SE03 Home Charging,Generation,2050,1512206.846341604,MWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,SE04 Home Charging,Generation,2050,458322.8690409285,MWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,SI00 Home Charging,Generation,2050,2946599.0601174035,MWh,1,1,SI
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,SK00 Home Charging,Generation,2050,2133626.074821834,MWh,1,1,SK
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,UK01 Home Charging,Generation,2050,4574196.435609797,MWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,UK02 Home Charging,Generation,2050,1608336.3476813172,MWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,UK03 Home Charging,Generation,2050,1648899.419136299,MWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,UK04 Home Charging,Generation,2050,837414.8843393368,MWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Home Charging,UK05 Home Charging,Generation,2050,570347.3306880465,MWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,AT01 Street Charging,Generation,2050,0.0,MWh,1,1,AT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,AT02 Street Charging,Generation,2050,0.0,MWh,1,1,AT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,AT03 Street Charging,Generation,2050,0.0,MWh,1,1,AT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,BE01 Street Charging,Generation,2050,0.0,MWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,BE02 Street Charging,Generation,2050,0.0,MWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,BE03 Street Charging,Generation,2050,0.0,MWh,1,1,BE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,BG01 Street Charging,Generation,2050,0.0,MWh,1,1,BG
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,BG02 Street Charging,Generation,2050,0.0,MWh,1,1,BG
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,CY00 Street Charging,Generation,2050,0.0,MWh,1,1,CY
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,CZ01 Street Charging,Generation,2050,0.0,MWh,1,1,CZ
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,CZ02 Street Charging,Generation,2050,0.0,MWh,1,1,CZ
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,DE01 Street Charging,Generation,2050,0.0,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,DE02 Street Charging,Generation,2050,0.0,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,DE03 Street Charging,Generation,2050,0.0,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,DE04 Street Charging,Generation,2050,0.0,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,DE05 Street Charging,Generation,2050,0.0,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,DE06 Street Charging,Generation,2050,0.0,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,DE07 Street Charging,Generation,2050,0.0,MWh,1,1,DE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,DKE1 Street Charging,Generation,2050,0.0,MWh,1,1,DK
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,DKW1 Street Charging,Generation,2050,0.0,MWh,1,1,DK
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,EE00 Street Charging,Generation,2050,0.0,MWh,1,1,EE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES01 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES02 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES03 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES04 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES05 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES06 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES07 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES08 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES09 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES10 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ES11 Street Charging,Generation,2050,0.0,MWh,1,1,ES
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FI01 Street Charging,Generation,2050,0.0,MWh,1,1,FI
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FI02 Street Charging,Generation,2050,0.0,MWh,1,1,FI
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR01 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR02 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR03 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR04 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR05 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR06 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR07 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR08 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR09 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR10 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR11 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR12 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR13 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR14 Street Charging,Generation,2050,0.0,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,FR15 Street Charging,Generation,2050,39141.84037878982,MWh,1,1,FR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,GR01 Street Charging,Generation,2050,0.0,MWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,GR02 Street Charging,Generation,2050,0.0,MWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,GR03 Street Charging,Generation,2050,2290.2676290001305,MWh,1,1,GR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,HR01 Street Charging,Generation,2050,0.0,MWh,1,1,HR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,HR02 Street Charging,Generation,2050,0.0,MWh,1,1,HR
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,HU01 Street Charging,Generation,2050,0.0,MWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,HU02 Street Charging,Generation,2050,0.0,MWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,HU03 Street Charging,Generation,2050,0.0,MWh,1,1,HU
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,IE00 Street Charging,Generation,2050,4825072.0409728335,MWh,1,1,IE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ITCA Street Charging,Generation,2050,736592.7106737046,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ITCN Street Charging,Generation,2050,0.0,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ITCS Street Charging,Generation,2050,0.0,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ITN1 Street Charging,Generation,2050,0.0,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ITS1 Street Charging,Generation,2050,0.0,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ITSA Street Charging,Generation,2050,0.0,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,ITSI Street Charging,Generation,2050,0.0,MWh,1,1,IT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,LT00 Street Charging,Generation,2050,0.0,MWh,1,1,LT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,LUG1 Street Charging,Generation,2050,0.0,MWh,1,1,LU
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,LV00 Street Charging,Generation,2050,0.0,MWh,1,1,LV
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,MT00 Street Charging,Generation,2050,0.0,MWh,1,1,MT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,NL01 Street Charging,Generation,2050,0.0,MWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,NL02 Street Charging,Generation,2050,0.0,MWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,NL03 Street Charging,Generation,2050,0.0,MWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,NL04 Street Charging,Generation,2050,0.0,MWh,1,1,NL
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,PL01 Street Charging,Generation,2050,0.0,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,PL02 Street Charging,Generation,2050,0.0,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,PL03 Street Charging,Generation,2050,0.0,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,PL04 Street Charging,Generation,2050,0.0,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,PL05 Street Charging,Generation,2050,0.0,MWh,1,1,PL
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,PT01 Street Charging,Generation,2050,0.0,MWh,1,1,PT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,PT02 Street Charging,Generation,2050,0.0,MWh,1,1,PT
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,RO01 Street Charging,Generation,2050,0.0,MWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,RO02 Street Charging,Generation,2050,0.0,MWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,RO03 Street Charging,Generation,2050,0.0,MWh,1,1,RO
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,SE01 Street Charging,Generation,2050,80869.6154971643,MWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,SE02 Street Charging,Generation,2050,0.0,MWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,SE03 Street Charging,Generation,2050,0.0,MWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,SE04 Street Charging,Generation,2050,0.0,MWh,1,1,SE
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,SI00 Street Charging,Generation,2050,0.0,MWh,1,1,SI
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,SK00 Street Charging,Generation,2050,0.0,MWh,1,1,SK
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,UK01 Street Charging,Generation,2050,0.0,MWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,UK02 Street Charging,Generation,2050,0.0,MWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,UK03 Street Charging,Generation,2050,0.0,MWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,UK04 Street Charging,Generation,2050,0.0,MWh,1,1,UK
+TJ Dispatch_Future_Nuclear+,Vehicle,Street Charging,UK05 Street Charging,Generation,2050,0.0,MWh,1,1,UK

@@ -1,0 +1,1778 @@
+model_name,collection_name,category_name,child_name,property_name,date_string,value,unit_name,interval_id,period_value
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AL00,Load,2050,16424.51228584309,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AL00,Native Load,2050,11101.435786941263,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AL00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AL00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AL00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AL00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AL00,Price,2050,107.82558757705873,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AL00,Peak Load,2050,2321.64750371,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AT00,Load,2050,135687.87163813604,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AT00,Native Load,2050,103622.59084616597,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AT00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AT00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AT00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AT00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AT00,Price,2050,150.78666822712438,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,AT00,Peak Load,2050,18061.47285121,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BA00,Load,2050,13890.100249260868,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BA00,Native Load,2050,13832.40429914731,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BA00,Unserved Energy Hours,2050,1.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BA00,Unserved Energy,2050,0.03833201802,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BA00,Max Unserved Energy,2050,38.33201802,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BA00,Cost of Unserved Energy,2050,114.99605405366,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BA00,Price,2050,255.6599474176964,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BA00,Peak Load,2050,2386.2995819,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BE00,Load,2050,199754.34672577996,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BE00,Native Load,2050,139725.08597477782,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BE00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BE00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BE00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BE00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BE00,Price,2050,139.31218658099567,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BE00,Peak Load,2050,23093.79643531,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BG00,Load,2050,89394.85380183486,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BG00,Native Load,2050,29260.502050002804,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BG00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BG00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BG00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BG00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BG00,Price,2050,28.994289871967457,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,BG00,Peak Load,2050,5041.87515198,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CH00,Load,2050,70867.87324739153,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CH00,Native Load,2050,69106.03957335884,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CH00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CH00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CH00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CH00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CH00,Price,2050,149.19931927795471,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CH00,Peak Load,2050,11743.54915998,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CY00,Load,2050,9003.11555653114,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CY00,Native Load,2050,4429.49238275154,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CY00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CY00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CY00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CY00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CY00,Price,2050,37.445923282931616,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CY00,Peak Load,2050,857.85159728,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CZ00,Load,2050,119713.71972234233,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CZ00,Native Load,2050,101858.45109524622,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CZ00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CZ00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CZ00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CZ00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CZ00,Price,2050,166.25497985922775,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,CZ00,Peak Load,2050,18213.69716693,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DBUK,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DBUK,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DBUK,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DBUK,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DBUK,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DBUK,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DBUK,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DE00,Load,2050,853430.8452128058,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DE00,Native Load,2050,740381.8022753241,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DE00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DE00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DE00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DE00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DE00,Price,2050,273.22700643874,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DE00,Peak Load,2050,131000.52693396,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DEKF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DEKF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DEKF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DEKF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DEKF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DEKF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DEKF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKE1,Load,2050,14876.699793398684,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKE1,Native Load,2050,8163.7548849826935,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKE1,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKE1,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKE1,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKE1,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKE1,Price,2050,252.85526067277144,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKE1,Peak Load,2050,1432.79391381,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKKF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKKF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKKF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKKF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKKF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKKF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKKF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKW1,Load,2050,19904.660375451527,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKW1,Native Load,2050,11537.44800817841,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKW1,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKW1,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKW1,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKW1,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKW1,Price,2050,279.9154416312872,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,DKW1,Peak Load,2050,1938.50870193,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,EE00,Load,2050,20574.73914018142,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,EE00,Native Load,2050,7351.490550443562,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,EE00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,EE00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,EE00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,EE00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,EE00,Price,2050,67.57367981645884,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,EE00,Peak Load,2050,1335.84378056,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ES00,Load,2050,496091.56814287085,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ES00,Native Load,2050,250134.41050631716,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ES00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ES00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ES00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ES00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ES00,Price,2050,122.1798689662946,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ES00,Peak Load,2050,47690.10233923,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FI00,Load,2050,280785.0179917371,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FI00,Native Load,2050,167134.38161519877,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FI00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FI00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FI00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FI00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FI00,Price,2050,88.89128556247373,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FI00,Peak Load,2050,26890.84840092,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR00,Load,2050,599551.8691451782,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR00,Native Load,2050,361861.01570909424,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR00,Unserved Energy Hours,2050,2927.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR00,Unserved Energy,2050,2231.23653098011,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR00,Max Unserved Energy,2050,3397.13884746,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR00,Cost of Unserved Energy,2050,6693709.592940307,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR00,Price,2050,103.02194279874968,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR00,Peak Load,2050,65952.49943659,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR15,Load,2050,2933.1046473471024,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR15,Native Load,2050,710.0728241403004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR15,Unserved Energy Hours,2050,8736.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR15,Unserved Energy,2050,358.79446507615984,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR15,Max Unserved Energy,2050,524.26973621,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR15,Cost of Unserved Energy,2050,1076383.3952285312,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR15,Price,2050,443.45898878682993,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,FR15,Peak Load,2050,236.53656821,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR00,Load,2050,80817.15154042676,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR00,Native Load,2050,33132.27587958498,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR00,Price,2050,61.283430287807015,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR00,Peak Load,2050,6066.05854136,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR03,Load,2050,12924.688286841845,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR03,Native Load,2050,3872.7900924271025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR03,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR03,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR03,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR03,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR03,Price,2050,109.93229122503097,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,GR03,Peak Load,2050,723.37521651,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HR00,Load,2050,25423.50787596256,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HR00,Native Load,2050,14366.726980424623,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HR00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HR00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HR00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HR00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HR00,Price,2050,76.66227610399996,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HR00,Peak Load,2050,2583.24577036,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HU00,Load,2050,89588.79749411313,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HU00,Native Load,2050,70332.51919154738,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HU00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HU00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HU00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HU00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HU00,Price,2050,70.55251662931367,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,HU00,Peak Load,2050,11473.96363335,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,IE00,Load,2050,101837.31007054611,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,IE00,Native Load,2050,29714.310645121117,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,IE00,Unserved Energy Hours,2050,2682.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,IE00,Unserved Energy,2050,984.6166149042597,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,IE00,Max Unserved Energy,2050,1265.83681982,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,IE00,Cost of Unserved Energy,2050,2953849.8447128017,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,IE00,Price,2050,181.19118062643287,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,IE00,Peak Load,2050,6445.09408174,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCA,Load,2050,8642.143201355573,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCA,Native Load,2050,4336.784731843778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCA,Unserved Energy Hours,2050,34.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCA,Unserved Energy,2050,1.7629002529700002,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCA,Max Unserved Energy,2050,144.06448905,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCA,Cost of Unserved Energy,2050,5288.70075893782,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCA,Price,2050,308.2776317677772,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCA,Peak Load,2050,945.30803093,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCN,Load,2050,51578.08388997066,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCN,Native Load,2050,43354.11866918412,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCN,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCN,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCN,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCN,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCN,Price,2050,207.74171277983564,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCN,Peak Load,2050,7170.84652063,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCS,Load,2050,81596.79970947983,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCS,Native Load,2050,63971.1533730758,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCS,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCS,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCS,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCS,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCS,Price,2050,205.54089152517267,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITCS,Peak Load,2050,11434.54531026,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITN1,Load,2050,163089.37723278668,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITN1,Native Load,2050,111118.51868989742,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITN1,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITN1,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITN1,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITN1,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITN1,Price,2050,168.86087340670846,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITN1,Peak Load,2050,20909.7974527,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITS1,Load,2050,44229.531901074704,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITS1,Native Load,2050,35061.094156271996,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITS1,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITS1,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITS1,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITS1,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITS1,Price,2050,204.92898402258035,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITS1,Peak Load,2050,5689.57213675,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSA,Load,2050,33642.68251369113,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSA,Native Load,2050,29334.62159425126,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSA,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSA,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSA,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSA,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSA,Price,2050,202.73641260781858,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSA,Peak Load,2050,4325.13957326,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSI,Load,2050,46182.347179991775,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSI,Native Load,2050,38513.46052189652,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSI,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSI,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSI,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSI,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSI,Price,2050,205.62726489602852,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ITSI,Peak Load,2050,6251.73183431,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LT00,Load,2050,23287.74225772575,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LT00,Native Load,2050,12255.132166497162,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LT00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LT00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LT00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LT00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LT00,Price,2050,84.25141282252926,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LT00,Peak Load,2050,2043.47563852,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUG1,Load,2050,9353.63273216783,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUG1,Native Load,2050,5343.280448600112,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUG1,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUG1,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUG1,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUG1,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUG1,Price,2050,90.88558669150245,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUG1,Peak Load,2050,1029.8885001,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUV1,Load,2050,1744.41500171093,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUV1,Native Load,2050,1671.699536121163,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUV1,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUV1,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUV1,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUV1,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUV1,Price,2050,82.36534011986508,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LUV1,Peak Load,2050,306.00013895,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LV00,Load,2050,13207.479585157658,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LV00,Native Load,2050,7378.7787852646825,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LV00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LV00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LV00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LV00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LV00,Price,2050,92.68466075867376,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,LV00,Peak Load,2050,1326.42014699,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MA00,Load,2050,20760.345282753286,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MA00,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MA00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MA00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MA00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MA00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MA00,Price,2050,1.6776375852336414,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MA00,Peak Load,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ME00,Load,2050,9142.376264029346,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ME00,Native Load,2050,5435.845635298799,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ME00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ME00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ME00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ME00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ME00,Price,2050,65.58571048297948,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,ME00,Peak Load,2050,998.00369983,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MK00,Load,2050,11395.20971673733,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MK00,Native Load,2050,10002.790910132055,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MK00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MK00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MK00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MK00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MK00,Price,2050,125.77339861953695,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MK00,Peak Load,2050,1762.30864026,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MT00,Load,2050,5111.464772826131,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MT00,Native Load,2050,3268.740640219703,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MT00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MT00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MT00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MT00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MT00,Price,2050,56.6102409023019,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,MT00,Peak Load,2050,603.73191235,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NL00,Load,2050,310749.43683370354,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NL00,Native Load,2050,241386.11422603368,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NL00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NL00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NL00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NL00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NL00,Price,2050,49.32333875495005,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NL00,Peak Load,2050,43717.81692986,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOM1,Load,2050,16671.488566487704,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOM1,Native Load,2050,16671.488566487704,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOM1,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOM1,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOM1,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOM1,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOM1,Price,2050,196.42480636055458,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOM1,Peak Load,2050,2654.55484157,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NON1,Load,2050,14666.452791078169,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NON1,Native Load,2050,14666.452791078169,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NON1,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NON1,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NON1,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NON1,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NON1,Price,2050,192.0051437204297,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NON1,Peak Load,2050,2402.68078434,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOS0,Load,2050,218780.25148419544,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOS0,Native Load,2050,122564.27546016462,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOS0,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOS0,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOS0,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOS0,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOS0,Price,2050,106.19221966904306,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,NOS0,Peak Load,2050,23451.14552115,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PL00,Load,2050,324025.3191815196,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PL00,Native Load,2050,186961.6058628966,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PL00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PL00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PL00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PL00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PL00,Price,2050,72.16993692590181,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PL00,Peak Load,2050,32159.99814925,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PT00,Load,2050,86937.864215226,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PT00,Native Load,2050,38738.607251557936,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PT00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PT00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PT00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PT00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PT00,Price,2050,86.12495977660598,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,PT00,Peak Load,2050,6565.86261682,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RO00,Load,2050,82133.09778022717,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RO00,Native Load,2050,60341.57802320075,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RO00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RO00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RO00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RO00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RO00,Price,2050,118.26059245832431,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RO00,Peak Load,2050,10757.41932904,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RS00,Load,2050,51214.72873367313,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RS00,Native Load,2050,46987.637366739706,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RS00,Unserved Energy Hours,2050,228.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RS00,Unserved Energy,2050,112.47877704867,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RS00,Max Unserved Energy,2050,2547.35765584,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RS00,Cost of Unserved Energy,2050,337436.33114606526,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RS00,Price,2050,244.17264231759032,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,RS00,Peak Load,2050,8173.04623303,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE01,Load,2050,102191.42116941327,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE01,Native Load,2050,95876.02827754304,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE01,Unserved Energy Hours,2050,2604.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE01,Unserved Energy,2050,4412.645131186391,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE01,Max Unserved Energy,2050,7601.59349579,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE01,Cost of Unserved Energy,2050,13237935.393559145,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE01,Price,2050,1524.6142272101408,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE01,Peak Load,2050,15789.9668516,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE02,Load,2050,10751.30570303496,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE02,Native Load,2050,5412.1656336398455,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE02,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE02,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE02,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE02,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE02,Price,2050,78.21824041611613,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE02,Peak Load,2050,942.0597911,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE03,Load,2050,95509.83438452469,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE03,Native Load,2050,86922.9987303394,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE03,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE03,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE03,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE03,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE03,Price,2050,200.42501572561326,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE03,Peak Load,2050,15590.18208656,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE04,Load,2050,18811.093947931677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE04,Native Load,2050,16763.61593496317,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE04,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE04,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE04,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE04,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE04,Price,2050,190.67814487663486,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SE04,Peak Load,2050,3010.55263104,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SI00,Load,2050,18186.02343783201,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SI00,Native Load,2050,10815.493969965515,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SI00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SI00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SI00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SI00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SI00,Price,2050,43.060529987611865,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SI00,Peak Load,2050,1859.43075042,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SK00,Load,2050,48606.799460241265,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SK00,Native Load,2050,35090.193928117005,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SK00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SK00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SK00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SK00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SK00,Price,2050,96.14903699091717,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,SK00,Peak Load,2050,6415.58412309,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TN00,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TN00,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TN00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TN00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TN00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TN00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TN00,Price,2050,32.182223613297886,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TR00,Load,2050,544487.9724905166,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TR00,Native Load,2050,540518.8915047233,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TR00,Unserved Energy Hours,2050,973.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TR00,Unserved Energy,2050,3026.09034099804,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TR00,Max Unserved Energy,2050,16136.69914188,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TR00,Cost of Unserved Energy,2050,9078271.022994118,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TR00,Price,2050,587.2435629563043,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,TR00,Peak Load,2050,90687.21256876,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UA01,Load,2050,17177.75715558957,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UA01,Native Load,2050,7693.453068172973,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UA01,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UA01,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UA01,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UA01,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UA01,Price,2050,66.9634045239563,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UA01,Peak Load,2050,1507.04467974,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UK00,Load,2050,592878.498607838,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UK00,Native Load,2050,362317.333941643,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UK00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UK00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UK00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UK00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UK00,Price,2050,87.74713391520183,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UK00,Peak Load,2050,70772.61463494,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UKNI,Load,2050,32277.858982099227,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UKNI,Native Load,2050,24357.3854943978,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UKNI,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UKNI,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UKNI,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UKNI,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UKNI,Price,2050,56.93401129456395,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,UKNI,Peak Load,2050,3666.67017574,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,XK00,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,XK00,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,XK00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,XK00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,XK00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,XK00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Electricity,XK00,Price,2050,92.03719270102327,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,AL00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,AL00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,AL00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,AL00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,AL00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,AL00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,AL00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BA00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BA00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BA00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BA00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BA00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BA00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BA00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BE01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BE01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BE01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BE01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BE01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BE01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BE01_OFF,Price,2050,20.593320091157292,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BG01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BG01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BG01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BG01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BG01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BG01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,BG01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,CY00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,CY00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,CY00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,CY00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,CY00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,CY00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,CY00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE011_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE011_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE011_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE011_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE011_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE011_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE011_OFF,Price,2050,26.20341987561814,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE012_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE012_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE012_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE012_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE012_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE012_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE012_OFF,Price,2050,27.52930859486264,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE013_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE013_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE013_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE013_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE013_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE013_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE013_OFF,Price,2050,24.957599393228005,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE02_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE02_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE02_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE02_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE02_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE02_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DE02_OFF,Price,2050,31.206673105863118,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKE1_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKE1_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKE1_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKE1_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKE1_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKE1_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKE1_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKW1_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKW1_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKW1_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKW1_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKW1_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKW1_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,DKW1_OFF,Price,2050,26.789927778293286,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,EE00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,EE00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,EE00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,EE00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,EE00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,EE00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,EE00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES02_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES02_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES02_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES02_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES02_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES02_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES02_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES04_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES04_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES04_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES04_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES04_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES04_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES04_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES06_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES06_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES06_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES06_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES06_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES06_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES06_OFF,Price,2050,12.722388060905452,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES09_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES09_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES09_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES09_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES09_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES09_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES09_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES10_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES10_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES10_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES10_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES10_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES10_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES10_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES11_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES11_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES11_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES11_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES11_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES11_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ES11_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI02_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI02_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI02_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI02_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI02_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI02_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FI02_OFF,Price,2050,27.621446254106,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR02_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR02_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR02_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR02_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR02_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR02_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR02_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR03_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR03_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR03_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR03_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR03_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR03_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR03_OFF,Price,2050,24.258920161519,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR04_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR04_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR04_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR04_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR04_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR04_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR04_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR08_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR08_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR08_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR08_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR08_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR08_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR08_OFF,Price,2050,20.327136487153172,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR09_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR09_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR09_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR09_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR09_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR09_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR09_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR13_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR13_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR13_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR13_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR13_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR13_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,FR13_OFF,Price,2050,20.589366909447104,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR02_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR02_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR02_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR02_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR02_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR02_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR02_OFF,Price,2050,27.025442777936153,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR03_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR03_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR03_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR03_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR03_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR03_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,GR03_OFF,Price,2050,99.08235507832423,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,HR01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,HR01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,HR01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,HR01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,HR01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,HR01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,HR01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,IE00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,IE00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,IE00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,IE00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,IE00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,IE00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,IE00_OFF,Price,2050,19.00664328625344,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCN_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCN_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCN_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCN_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCN_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCN_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCN_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCS_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCS_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCS_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCS_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCS_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCS_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITCS_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITN1_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITN1_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITN1_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITN1_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITN1_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITN1_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITN1_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITS1_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITS1_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITS1_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITS1_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITS1_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITS1_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITS1_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSA_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSA_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSA_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSA_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSA_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSA_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSA_OFF,Price,2050,24.26805826494734,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSI_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSI_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSI_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSI_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSI_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSI_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ITSI_OFF,Price,2050,24.275674336666675,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LT00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LT00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LT00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LT00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LT00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LT00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LT00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LV00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LV00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LV00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LV00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LV00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LV00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,LV00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ME00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ME00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ME00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ME00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ME00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ME00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,ME00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,MT00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,MT00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,MT00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,MT00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,MT00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,MT00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,MT00_OFF,Price,2050,42.77946003692079,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL011_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL011_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL011_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL011_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL011_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL011_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL011_OFF,Price,2050,24.064980205468174,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL02_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL02_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL02_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL02_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL02_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL02_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL02_OFF,Price,2050,26.55043205034111,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL031_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL031_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL031_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL031_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL031_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL031_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL031_OFF,Price,2050,25.840427041862416,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL033_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL033_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL033_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL033_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL033_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL033_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NL033_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOM1_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOM1_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOM1_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOM1_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOM1_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOM1_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOM1_OFF,Price,2050,25.704176494012145,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NON1_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NON1_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NON1_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NON1_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NON1_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NON1_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NON1_OFF,Price,2050,23.316727339949626,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS21_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS21_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS21_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS21_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS21_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS21_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS21_OFF,Price,2050,26.78863064195742,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS3_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS3_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS3_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS3_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS3_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS3_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,NOS3_OFF,Price,2050,25.710937809696667,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL04_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL04_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL04_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL04_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL04_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL04_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL04_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL05_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL05_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL05_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL05_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL05_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL05_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PL05_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT02_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT02_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT02_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT02_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT02_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT02_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,PT02_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,RO03_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,RO03_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,RO03_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,RO03_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,RO03_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,RO03_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,RO03_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE02_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE02_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE02_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE02_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE02_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE02_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE02_OFF,Price,2050,29.701689847827403,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE03_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE03_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE03_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE03_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE03_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE03_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE03_OFF,Price,2050,31.205046017581274,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE04_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE04_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE04_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE04_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE04_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE04_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SE04_OFF,Price,2050,31.20582864728479,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SI00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SI00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SI00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SI00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SI00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SI00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,SI00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TN00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TN00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TN00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TN00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TN00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TN00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TN00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TR00_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TR00_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TR00_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TR00_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TR00_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TR00_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,TR00_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UA01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UA01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UA01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UA01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UA01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UA01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UA01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK01_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK01_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK01_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK01_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK01_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK01_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK01_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK02_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK02_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK02_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK02_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK02_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK02_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK02_OFF,Price,2050,22.301086053421468,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK031_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK031_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK031_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK031_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK031_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK031_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK031_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK032_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK032_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK032_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK032_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK032_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK032_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK032_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK041_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK041_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK041_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK041_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK041_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK041_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK041_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK042_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK042_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK042_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK042_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK042_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK042_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK042_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK043_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK043_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK043_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK043_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK043_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK043_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK043_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK051_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK051_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK051_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK051_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK051_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK051_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UK051_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UKNI_OFF,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UKNI_OFF,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UKNI_OFF,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UKNI_OFF,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UKNI_OFF,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UKNI_OFF,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Offshore Grid,UKNI_OFF,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AL00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AL00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AL00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AL00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AL00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AL00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AL00RORX,Price,2050,26.961011067529743,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AT00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AT00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AT00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AT00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AT00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AT00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,AT00RORX,Price,2050,28.9526177718876,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BA00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BA00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BA00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BA00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BA00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BA00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BA00RORX,Price,2050,111.62575802864802,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BE00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BE00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BE00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BE00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BE00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BE00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BE00RORX,Price,2050,25.09104237497137,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BG00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BG00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BG00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BG00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BG00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BG00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,BG00RORX,Price,2050,25.369198212474807,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CH00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CH00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CH00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CH00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CH00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CH00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CH00RORX,Price,2050,37.06130028818563,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CZ00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CZ00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CZ00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CZ00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CZ00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CZ00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,CZ00RORX,Price,2050,31.041951612337453,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,DE00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,DE00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,DE00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,DE00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,DE00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,DE00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,DE00RORX,Price,2050,30.478694842335145,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ES00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ES00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ES00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ES00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ES00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ES00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ES00RORX,Price,2050,12.741475367738094,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR00RORX,Price,2050,17.659728288431776,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR15RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR15RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR15RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR15RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR15RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR15RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,FR15RORX,Price,2050,415.34479957502094,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,GR00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,GR00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,GR00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,GR00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,GR00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,GR00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,GR00RORX,Price,2050,27.01465104195514,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HR00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HR00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HR00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HR00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HR00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HR00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HR00RORX,Price,2050,26.773215823278377,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HU00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HU00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HU00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HU00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HU00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HU00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,HU00RORX,Price,2050,44.76296588737409,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,IE00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,IE00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,IE00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,IE00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,IE00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,IE00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,IE00RORX,Price,2050,23.455927380346857,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCARORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCARORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCARORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCARORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCARORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCARORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCARORX,Price,2050,44.71242909609202,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCNRORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCNRORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCNRORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCNRORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCNRORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCNRORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCNRORX,Price,2050,46.1126387800664,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCSRORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCSRORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCSRORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCSRORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCSRORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCSRORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITCSRORX,Price,2050,46.090025623043736,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITN1RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITN1RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITN1RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITN1RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITN1RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITN1RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITN1RORX,Price,2050,43.304526146000434,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSARORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSARORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSARORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSARORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSARORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSARORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSARORX,Price,2050,40.30386540762935,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSIRORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSIRORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSIRORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSIRORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSIRORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSIRORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ITSIRORX,Price,2050,44.679567150421256,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LT00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LT00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LT00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LT00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LT00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LT00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LT00RORX,Price,2050,30.298923600156805,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LUG1RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LUG1RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LUG1RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LUG1RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LUG1RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LUG1RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LUG1RORX,Price,2050,26.38376250658881,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LV00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LV00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LV00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LV00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LV00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LV00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,LV00RORX,Price,2050,29.42970814328182,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ME00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ME00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ME00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ME00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ME00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ME00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,ME00RORX,Price,2050,29.0883178963519,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,MK00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,MK00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,MK00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,MK00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,MK00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,MK00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,MK00RORX,Price,2050,27.061962996227074,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,NL00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,NL00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,NL00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,NL00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,NL00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,NL00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,NL00RORX,Price,2050,26.791228063777453,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PL00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PL00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PL00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PL00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PL00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PL00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PL00RORX,Price,2050,30.690422782137144,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PT00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PT00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PT00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PT00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PT00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PT00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,PT00RORX,Price,2050,12.638971409763052,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RO00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RO00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RO00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RO00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RO00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RO00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RO00RORX,Price,2050,28.651873492700318,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RS00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RS00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RS00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RS00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RS00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RS00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,RS00RORX,Price,2050,112.52790989881304,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SI00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SI00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SI00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SI00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SI00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SI00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SI00RORX,Price,2050,26.827807077051297,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SK00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SK00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SK00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SK00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SK00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SK00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,SK00RORX,Price,2050,30.991190499488305,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,TR00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,TR00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,TR00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,TR00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,TR00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,TR00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,TR00RORX,Price,2050,337.8994723333815,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UA01RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UA01RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UA01RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UA01RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UA01RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UA01RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UA01RORX,Price,2050,9.622241557248154,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UK00RORX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UK00RORX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UK00RORX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UK00RORX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UK00RORX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UK00RORX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,RoR and Pondage,UK00RORX,Price,2050,24.815205993161612,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AL00RESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AL00RESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AL00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AL00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AL00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AL00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AL00RESX,Price,2050,26.961011067529743,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AT00RESX,Load,2050,-1.99e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AT00RESX,Native Load,2050,-1.99e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AT00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AT00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AT00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AT00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,AT00RESX,Price,2050,27.63305381858057,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BA00RESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BA00RESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BA00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BA00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BA00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BA00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BA00RESX,Price,2050,111.62575802864802,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BG00RESX,Load,2050,-1.47e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BG00RESX,Native Load,2050,-1.47e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BG00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BG00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BG00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BG00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,BG00RESX,Price,2050,25.365496561719333,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,CZ00RESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,CZ00RESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,CZ00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,CZ00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,CZ00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,CZ00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,CZ00RESX,Price,2050,31.035086216563645,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,DE00RESX,Load,2050,-4.7e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,DE00RESX,Native Load,2050,-4.7e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,DE00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,DE00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,DE00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,DE00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,DE00RESX,Price,2050,30.483023460239217,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ES00RESX,Load,2050,-3.5800000000000005e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ES00RESX,Native Load,2050,-3.5800000000000005e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ES00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ES00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ES00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ES00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ES00RESX,Price,2050,12.732389848344782,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FI00RESX,Load,2050,-6.999999999999997e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FI00RESX,Native Load,2050,-6.999999999999997e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FI00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FI00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FI00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FI00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FI00RESX,Price,2050,29.660851517839973,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR00RESX,Load,2050,9e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR00RESX,Native Load,2050,9e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR00RESX,Price,2050,17.654317118460394,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR15RESX,Load,2050,-2.9e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR15RESX,Native Load,2050,-2.9e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR15RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR15RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR15RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR15RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,FR15RESX,Price,2050,415.34331605853754,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,GR00RESX,Load,2050,-5.400000000000001e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,GR00RESX,Native Load,2050,-5.400000000000001e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,GR00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,GR00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,GR00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,GR00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,GR00RESX,Price,2050,27.015460947952164,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,HR00RESX,Load,2050,-8.899999999999997e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,HR00RESX,Native Load,2050,-8.899999999999997e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,HR00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,HR00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,HR00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,HR00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,HR00RESX,Price,2050,26.796470632132557,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCARESX,Load,2050,-1.0000000000000001e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCARESX,Native Load,2050,-1.0000000000000001e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCARESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCARESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCARESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCARESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCARESX,Price,2050,44.71242909609202,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCNRESX,Load,2050,-1.0900000000000002e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCNRESX,Native Load,2050,-1.0900000000000002e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCNRESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCNRESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCNRESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCNRESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCNRESX,Price,2050,46.1126387800664,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCSRESX,Load,2050,-1.8500000000000002e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCSRESX,Native Load,2050,-1.8500000000000002e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCSRESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCSRESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCSRESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCSRESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITCSRESX,Price,2050,46.090025623043736,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITN1RESX,Load,2050,7.4e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITN1RESX,Native Load,2050,7.4e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITN1RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITN1RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITN1RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITN1RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITN1RESX,Price,2050,43.304526146000434,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITS1RESX,Load,2050,-1.34e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITS1RESX,Native Load,2050,-1.34e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITS1RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITS1RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITS1RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITS1RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITS1RESX,Price,2050,44.57025597033311,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSARESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSARESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSARESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSARESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSARESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSARESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSARESX,Price,2050,40.30337090213485,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSIRESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSIRESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSIRESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSIRESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSIRESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSIRESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ITSIRESX,Price,2050,44.679567150421256,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ME00RESX,Load,2050,-1.2899999999999999e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ME00RESX,Native Load,2050,-1.2899999999999999e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ME00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ME00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ME00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ME00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,ME00RESX,Price,2050,29.0883178963519,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,MK00RESX,Load,2050,-1.06e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,MK00RESX,Native Load,2050,-1.06e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,MK00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,MK00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,MK00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,MK00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,MK00RESX,Price,2050,27.061962996227074,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PL00RESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PL00RESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PL00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PL00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PL00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PL00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PL00RESX,Price,2050,30.693556464607372,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PT00RESX,Load,2050,-1.0000000000000001e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PT00RESX,Native Load,2050,-1.0000000000000001e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PT00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PT00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PT00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PT00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,PT00RESX,Price,2050,12.640283762740385,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RO00RESX,Load,2050,-5.6e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RO00RESX,Native Load,2050,-5.6e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RO00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RO00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RO00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RO00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RO00RESX,Price,2050,28.65281152056434,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RS00RESX,Load,2050,2.9000000000000014e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RS00RESX,Native Load,2050,2.9000000000000014e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RS00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RS00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RS00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RS00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,RS00RESX,Price,2050,94.07538028840659,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE01RESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE01RESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE01RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE01RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE01RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE01RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE01RESX,Price,2050,1231.4519404586854,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE02RESX,Load,2050,-1.06e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE02RESX,Native Load,2050,-1.06e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE02RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE02RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE02RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE02RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE02RESX,Price,2050,29.690601305459037,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE03RESX,Load,2050,-1.08e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE03RESX,Native Load,2050,-1.08e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE03RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE03RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE03RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE03RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE03RESX,Price,2050,32.28741927972642,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE04RESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE04RESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE04RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE04RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE04RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE04RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SE04RESX,Price,2050,31.934017381412545,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SK00RESX,Load,2050,-2.82e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SK00RESX,Native Load,2050,-2.82e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SK00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SK00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SK00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SK00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,SK00RESX,Price,2050,31.04734809504577,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,TR00RESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,TR00RESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,TR00RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,TR00RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,TR00RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,TR00RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,TR00RESX,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UA01RESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UA01RESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UA01RESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UA01RESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UA01RESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UA01RESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UA01RESX,Price,2050,26.72321046747482,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UKNIRESX,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UKNIRESX,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UKNIRESX,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UKNIRESX,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UKNIRESX,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UKNIRESX,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Reservoir,UKNIRESX,Price,2050,24.08981943160258,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,AT00HPOL,Load,2050,-3.89e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,AT00HPOL,Native Load,2050,-3.89e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,AT00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,AT00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,AT00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,AT00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,AT00HPOL,Price,2050,28.044305424631418,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BA00HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BA00HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BA00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BA00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BA00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BA00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BA00HPOL,Price,2050,111.62575802864802,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BG00HPOL,Load,2050,-4.8e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BG00HPOL,Native Load,2050,-4.8e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BG00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BG00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BG00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BG00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,BG00HPOL,Price,2050,25.365496561719333,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CH00HPOL,Load,2050,-8.000000000000001e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CH00HPOL,Native Load,2050,-8.000000000000001e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CH00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CH00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CH00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CH00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CH00HPOL,Price,2050,37.06130028818563,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CZ00HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CZ00HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CZ00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CZ00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CZ00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CZ00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,CZ00HPOL,Price,2050,31.12495040180403,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,DE00HPOL,Load,2050,-2.13e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,DE00HPOL,Native Load,2050,-2.13e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,DE00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,DE00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,DE00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,DE00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,DE00HPOL,Price,2050,30.485484031256874,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ES00HPOL,Load,2050,4.9999999999999995e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ES00HPOL,Native Load,2050,4.9999999999999995e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ES00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ES00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ES00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ES00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ES00HPOL,Price,2050,12.733829602942993,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,FR00HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,FR00HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,FR00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,FR00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,FR00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,FR00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,FR00HPOL,Price,2050,17.657739987146307,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,GR00HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,GR00HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,GR00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,GR00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,GR00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,GR00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,GR00HPOL,Price,2050,27.0107198260703,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,HR00HPOL,Load,2050,-4.1e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,HR00HPOL,Native Load,2050,-4.1e-10,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,HR00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,HR00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,HR00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,HR00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,HR00HPOL,Price,2050,26.790345567578985,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITCSHPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITCSHPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITCSHPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITCSHPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITCSHPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITCSHPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITCSHPOL,Price,2050,46.090025623043736,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITN1HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITN1HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITN1HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITN1HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITN1HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITN1HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITN1HPOL,Price,2050,43.304526146000434,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITSIHPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITSIHPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITSIHPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITSIHPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITSIHPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITSIHPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,ITSIHPOL,Price,2050,44.679567150421256,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOM1HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOM1HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOM1HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOM1HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOM1HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOM1HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOM1HPOL,Price,2050,21.600567330734872,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NON1HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NON1HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NON1HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NON1HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NON1HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NON1HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NON1HPOL,Price,2050,22.890731637434747,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOS0HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOS0HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOS0HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOS0HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOS0HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOS0HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,NOS0HPOL,Price,2050,25.47770804566734,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PL00HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PL00HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PL00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PL00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PL00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PL00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PL00HPOL,Price,2050,30.76832721031708,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PT00HPOL,Load,2050,1.0000000000000001e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PT00HPOL,Native Load,2050,1.0000000000000001e-11,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PT00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PT00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PT00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PT00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,PT00HPOL,Price,2050,12.64315803518315,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,RO00HPOL,Load,2050,2.4400000000000007e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,RO00HPOL,Native Load,2050,2.4400000000000007e-09,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,RO00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,RO00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,RO00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,RO00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,RO00HPOL,Price,2050,28.655919575524283,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,SK00HPOL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,SK00HPOL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,SK00HPOL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,SK00HPOL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,SK00HPOL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,SK00HPOL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - open loop,SK00HPOL,Price,2050,31.04734809504577,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,AT00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,AT00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,AT00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,AT00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,AT00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,AT00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,AT00HPCL,Price,2050,29.31291736569253,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BE00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BE00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BE00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BE00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BE00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BE00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BE00HPCL,Price,2050,25.09455829903731,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BG00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BG00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BG00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BG00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BG00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BG00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,BG00HPCL,Price,2050,25.365496561719333,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CH00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CH00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CH00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CH00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CH00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CH00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CH00HPCL,Price,2050,37.06130028818563,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CZ00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CZ00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CZ00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CZ00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CZ00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CZ00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,CZ00HPCL,Price,2050,31.126184945773794,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,DE00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,DE00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,DE00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,DE00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,DE00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,DE00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,DE00HPCL,Price,2050,30.484106137260763,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ES00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ES00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ES00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ES00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ES00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ES00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ES00HPCL,Price,2050,12.745073517353477,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,FR00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,FR00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,FR00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,FR00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,FR00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,FR00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,FR00HPCL,Price,2050,17.664356494795115,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,GR00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,GR00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,GR00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,GR00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,GR00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,GR00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,GR00HPCL,Price,2050,27.010956505258704,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,IE00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,IE00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,IE00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,IE00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,IE00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,IE00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,IE00HPCL,Price,2050,23.932866605405234,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCAHPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCAHPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCAHPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCAHPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCAHPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCAHPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCAHPCL,Price,2050,44.71242909609202,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCSHPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCSHPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCSHPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCSHPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCSHPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCSHPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITCSHPCL,Price,2050,46.090025623043736,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITN1HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITN1HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITN1HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITN1HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITN1HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITN1HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITN1HPCL,Price,2050,43.304526146000434,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITS1HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITS1HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITS1HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITS1HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITS1HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITS1HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITS1HPCL,Price,2050,44.57025597033311,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSAHPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSAHPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSAHPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSAHPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSAHPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSAHPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSAHPCL,Price,2050,40.30337090213485,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSIHPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSIHPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSIHPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSIHPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSIHPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSIHPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,ITSIHPCL,Price,2050,44.679567150421256,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LT00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LT00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LT00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LT00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LT00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LT00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LT00HPCL,Price,2050,30.298923600156805,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LUV1HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LUV1HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LUV1HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LUV1HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LUV1HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LUV1HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,LUV1HPCL,Price,2050,0.0,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,PL00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,PL00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,PL00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,PL00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,PL00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,PL00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,PL00HPCL,Price,2050,30.695520633672164,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,RS00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,RS00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,RS00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,RS00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,RS00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,RS00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,RS00HPCL,Price,2050,97.22895186084477,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SI00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SI00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SI00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SI00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SI00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SI00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SI00HPCL,Price,2050,26.827807077051297,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SK00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SK00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SK00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SK00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SK00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SK00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,SK00HPCL,Price,2050,31.04734809504577,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,UK00HPCL,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,UK00HPCL,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,UK00HPCL,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,UK00HPCL,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,UK00HPCL,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,UK00HPCL,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,Pump Storage - closed loop,UK00HPCL,Price,2050,24.244057726317532,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,DZ00,Load,2050,21543.623600182505,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,DZ00,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,DZ00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,DZ00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,DZ00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,DZ00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,DZ00,Price,2050,5.541014750101723,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,DZ00,Peak Load,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,EG00,Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,EG00,Native Load,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,EG00,Unserved Energy Hours,2050,0.0,h,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,EG00,Unserved Energy,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,EG00,Max Unserved Energy,2050,0.0,MW,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,EG00,Cost of Unserved Energy,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Region,H2 Imports,EG00,Price,2050,0.0,$/MWh,1,1

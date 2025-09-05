@@ -1,0 +1,946 @@
+model_name,collection_name,category_name,child_name,property_name,date_string,value,unit_name,interval_id,period_value
+TJ Dispatch_Future_Nuclear+,Gas Field,-,Non - EU Fields,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,-,Non - EU Fields,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,-,Non - EU Fields,Price,2050,0.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,-,Non - EU Fields,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,-,Non - EU Fields,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,H2 Imports,Ammonia,Initial Volume,2050,480.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,H2 Imports,Ammonia,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,H2 Imports,Ammonia,Price,2050,124.99999999949961,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,H2 Imports,Ammonia,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,H2 Imports,Ammonia,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,ES07Z2MK White H2,Initial Volume,2050,6.66,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,ES07Z2MK White H2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,ES07Z2MK White H2,Price,2050,66.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,ES07Z2MK White H2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,ES07Z2MK White H2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,FR05Z2MK White H2,Initial Volume,2050,306.36,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,FR05Z2MK White H2,Production,2050,305.76,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,FR05Z2MK White H2,Price,2050,66.0,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,FR05Z2MK White H2,Variable Cost,2050,20180160.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,White Hydrogen,FR05Z2MK White H2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT01 Biogenic CO2,Initial Volume,2050,0.15857926933333333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT01 Biogenic CO2,Production,2050,0.06776069661171939,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT01 Biogenic CO2,Price,2050,60.263221551000235,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT01 Biogenic CO2,Variable Cost,2050,4083.477872314148,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT02 Biogenic CO2,Initial Volume,2050,0.15857926933333333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT02 Biogenic CO2,Production,2050,0.03836393191194728,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT02 Biogenic CO2,Price,2050,60.263221551000235,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT02 Biogenic CO2,Variable Cost,2050,2311.934128349924,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT03 Biogenic CO2,Initial Volume,2050,0.15857926933333333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT03 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT03 Biogenic CO2,Price,2050,60.263221551000235,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT03 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,AT03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE01 Biogenic CO2,Initial Volume,2050,0.166391056,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE01 Biogenic CO2,Production,2050,0.16639105600000276,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE01 Biogenic CO2,Price,2050,54.72748763100046,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE01 Biogenic CO2,Variable Cost,2050,9106.164459076903,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE02 Biogenic CO2,Initial Volume,2050,0.166391056,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE02 Biogenic CO2,Production,2050,0.1663910560000028,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE02 Biogenic CO2,Price,2050,54.72748763100046,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE02 Biogenic CO2,Variable Cost,2050,9106.164459076803,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE03 Biogenic CO2,Initial Volume,2050,0.166391056,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE03 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE03 Biogenic CO2,Price,2050,54.72748763100046,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE03 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BE03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG01 Biogenic CO2,Initial Volume,2050,0.22650041019444445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG01 Biogenic CO2,Production,2050,0.05718801516525287,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG01 Biogenic CO2,Price,2050,49.62853216049972,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG01 Biogenic CO2,Variable Cost,2050,2838.157249825822,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG02 Biogenic CO2,Initial Volume,2050,0.22650041019444445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG02 Biogenic CO2,Production,2050,0.057595774141566664,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG02 Biogenic CO2,Price,2050,49.62853216049972,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG02 Biogenic CO2,Variable Cost,2050,2858.393729294051,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,BG02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CY00 Biogenic CO2,Initial Volume,2050,0.02278217573888889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CY00 Biogenic CO2,Production,2050,0.022782175738888893,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CY00 Biogenic CO2,Price,2050,55.14887300699964,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CY00 Biogenic CO2,Variable Cost,2050,1256.411316650481,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CY00 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ01 Biogenic CO2,Initial Volume,2050,0.1829121914722222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ01 Biogenic CO2,Production,2050,0.1824644512762548,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ01 Biogenic CO2,Price,2050,54.12523364549999,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ01 Biogenic CO2,Variable Cost,2050,9875.931057205918,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ02 Biogenic CO2,Initial Volume,2050,0.1829121914722222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ02 Biogenic CO2,Production,2050,0.1829121914717169,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ02 Biogenic CO2,Price,2050,54.12523364549999,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ02 Biogenic CO2,Variable Cost,2050,9900.165099901284,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,CZ02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE01 Biogenic CO2,Initial Volume,2050,0.31075505694444444,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE01 Biogenic CO2,Production,2050,0.21999091907833096,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE01 Biogenic CO2,Price,2050,56.77284222149953,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE01 Biogenic CO2,Variable Cost,2050,12489.509738885123,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE02 Biogenic CO2,Initial Volume,2050,0.31075505694444444,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE02 Biogenic CO2,Production,2050,0.1637169881506943,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE02 Biogenic CO2,Price,2050,56.77284222149953,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE02 Biogenic CO2,Variable Cost,2050,9294.678737176579,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE03 Biogenic CO2,Initial Volume,2050,0.31075505694444444,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE03 Biogenic CO2,Production,2050,0.29433147184720615,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE03 Biogenic CO2,Price,2050,56.77284222149953,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE03 Biogenic CO2,Variable Cost,2050,16710.034211858267,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE04 Biogenic CO2,Initial Volume,2050,0.31075505694444444,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE04 Biogenic CO2,Production,2050,0.10210761486644446,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE04 Biogenic CO2,Price,2050,56.77284222149953,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE04 Biogenic CO2,Variable Cost,2050,5796.939508372593,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE04 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE05 Biogenic CO2,Initial Volume,2050,0.31075505694444444,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE05 Biogenic CO2,Production,2050,0.16988692481230255,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE05 Biogenic CO2,Price,2050,56.77284222149953,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE05 Biogenic CO2,Variable Cost,2050,9644.96357777879,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE05 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE06 Biogenic CO2,Initial Volume,2050,0.31075505694444444,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE06 Biogenic CO2,Production,2050,0.1979434001311387,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE06 Biogenic CO2,Price,2050,56.77284222149953,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE06 Biogenic CO2,Variable Cost,2050,11237.809424334959,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE06 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE07 Biogenic CO2,Initial Volume,2050,0.31075505694444444,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE07 Biogenic CO2,Production,2050,0.21463031535951385,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE07 Biogenic CO2,Price,2050,56.77284222149953,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE07 Biogenic CO2,Variable Cost,2050,12185.1730297499,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DE07 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKE1 Biogenic CO2,Initial Volume,2050,0.30465968,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKE1 Biogenic CO2,Production,2050,0.19644753330910256,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKE1 Biogenic CO2,Price,2050,55.17581088450044,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKE1 Biogenic CO2,Variable Cost,2050,10839.151946709828,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKE1 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKW1 Biogenic CO2,Initial Volume,2050,0.30465968,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKW1 Biogenic CO2,Production,2050,0.2303721690900339,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKW1 Biogenic CO2,Price,2050,55.17581088450044,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKW1 Biogenic CO2,Variable Cost,2050,12710.97123490113,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,DKW1 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,EE00 Biogenic CO2,Initial Volume,2050,0.10612757975,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,EE00 Biogenic CO2,Production,2050,0.06222712542856964,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,EE00 Biogenic CO2,Price,2050,51.69890049449953,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,EE00 Biogenic CO2,Variable Cost,2050,3217.0739656086,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,EE00 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES01 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES01 Biogenic CO2,Production,2050,0.26606854157777493,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES01 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES01 Biogenic CO2,Variable Cost,2050,14232.589913778993,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES02 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES02 Biogenic CO2,Production,2050,0.2660247539749802,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES02 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES02 Biogenic CO2,Variable Cost,2050,14230.247618856769,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES03 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES03 Biogenic CO2,Production,2050,0.2632631992055533,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES03 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES03 Biogenic CO2,Variable Cost,2050,14082.525996733651,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES04 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES04 Biogenic CO2,Production,2050,0.26604207346944697,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES04 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES04 Biogenic CO2,Variable Cost,2050,14231.174076605492,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES04 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES05 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES05 Biogenic CO2,Production,2050,0.26615136651111376,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES05 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES05 Biogenic CO2,Variable Cost,2050,14237.020401140373,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES05 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES06 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES06 Biogenic CO2,Production,2050,0.2657764635666556,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES06 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES06 Biogenic CO2,Variable Cost,2050,14216.966020287146,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES06 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES07 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES07 Biogenic CO2,Production,2050,0.2658319730277743,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES07 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES07 Biogenic CO2,Variable Cost,2050,14219.935343122677,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES07 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES08 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES08 Biogenic CO2,Production,2050,0.26307331016363045,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES08 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES08 Biogenic CO2,Variable Cost,2050,14072.36841535728,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES08 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES09 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES09 Biogenic CO2,Production,2050,0.26623063386110496,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES09 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES09 Biogenic CO2,Variable Cost,2050,14241.260585565671,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES09 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES10 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES10 Biogenic CO2,Production,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES10 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES10 Biogenic CO2,Variable Cost,2050,14241.260585565364,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES10 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES11 Biogenic CO2,Initial Volume,2050,0.2662306338611111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES11 Biogenic CO2,Production,2050,0.2658098722333308,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES11 Biogenic CO2,Price,2050,53.49219351299983,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES11 Biogenic CO2,Variable Cost,2050,14218.753123149392,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ES11 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI01 Biogenic CO2,Initial Volume,2050,0.3398292436111111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI01 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI01 Biogenic CO2,Price,2050,54.75442550850014,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI01 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI02 Biogenic CO2,Initial Volume,2050,0.3398292436111111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI02 Biogenic CO2,Production,2050,0.339728943768458,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI02 Biogenic CO2,Price,2050,54.75442550850014,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI02 Biogenic CO2,Variable Cost,2050,18601.663144659542,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FI02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR01 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR01 Biogenic CO2,Production,2050,0.3501478360807971,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR01 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR01 Biogenic CO2,Variable Cost,2050,17658.94287130064,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR02 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR02 Biogenic CO2,Production,2050,0.15270231378318058,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR02 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR02 Biogenic CO2,Variable Cost,2050,7701.20833986754,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR03 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR03 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR03 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR03 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR04 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR04 Biogenic CO2,Production,2050,0.3009854876017867,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR04 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR04 Biogenic CO2,Variable Cost,2050,15179.546988329017,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR04 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR05 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR05 Biogenic CO2,Production,2050,0.1768776212681525,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR05 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR05 Biogenic CO2,Variable Cost,2050,8920.437276283528,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR05 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR06 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR06 Biogenic CO2,Production,2050,0.0734904894771416,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR06 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR06 Biogenic CO2,Variable Cost,2050,3706.3326444825507,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR06 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR07 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR07 Biogenic CO2,Production,2050,0.35715313302298873,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR07 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR07 Biogenic CO2,Variable Cost,2050,18012.239752649355,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR07 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR08 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR08 Biogenic CO2,Production,2050,0.179485711241689,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR08 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR08 Biogenic CO2,Variable Cost,2050,9051.970609064541,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR08 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR09 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR09 Biogenic CO2,Production,2050,0.17808221722790832,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR09 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR09 Biogenic CO2,Variable Cost,2050,8981.188447773968,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR09 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR10 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR10 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR10 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR10 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR10 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR11 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR11 Biogenic CO2,Production,2050,0.08707835133554163,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR11 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR11 Biogenic CO2,Variable Cost,2050,4391.606838907074,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR11 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR12 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR12 Biogenic CO2,Production,2050,0.28977340879353614,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR12 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR12 Biogenic CO2,Variable Cost,2050,14614.090233377767,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR12 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR13 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR13 Biogenic CO2,Production,2050,0.32153526314405484,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR13 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR13 Biogenic CO2,Variable Cost,2050,16215.930124038727,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR13 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR14 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR14 Biogenic CO2,Production,2050,0.07065454354971673,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR14 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR14 Biogenic CO2,Variable Cost,2050,3563.3078933405623,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR14 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR15 Biogenic CO2,Initial Volume,2050,0.42183648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR15 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR15 Biogenic CO2,Price,2050,50.43282023100025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR15 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,FR15 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR01 Biogenic CO2,Initial Volume,2050,0.22341709866666667,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR01 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR01 Biogenic CO2,Price,2050,56.441891149499725,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR01 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR02 Biogenic CO2,Initial Volume,2050,0.22341709866666667,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR02 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR02 Biogenic CO2,Price,2050,56.441891149499725,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR02 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR03 Biogenic CO2,Initial Volume,2050,0.22341709866666667,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR03 Biogenic CO2,Production,2050,0.22329881873638321,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR03 Biogenic CO2,Price,2050,56.441891149499725,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR03 Biogenic CO2,Variable Cost,2050,12603.40762081561,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,GR03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU01 Biogenic CO2,Initial Volume,2050,0.1480313288888889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU01 Biogenic CO2,Production,2050,0.012955117835758277,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU01 Biogenic CO2,Price,2050,52.50126443100014,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU01 Biogenic CO2,Variable Cost,2050,680.1600672291078,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU02 Biogenic CO2,Initial Volume,2050,0.1480313288888889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU02 Biogenic CO2,Production,2050,0.012510687986111062,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU02 Biogenic CO2,Price,2050,52.50126443100014,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU02 Biogenic CO2,Variable Cost,2050,656.8269381716925,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU03 Biogenic CO2,Initial Volume,2050,0.1480313288888889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU03 Biogenic CO2,Production,2050,0.016302759849922188,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU03 Biogenic CO2,Price,2050,52.50126443100014,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU03 Biogenic CO2,Variable Cost,2050,855.9155058382894,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,HU03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,IE00 Biogenic CO2,Initial Volume,2050,0.30585367666666663,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,IE00 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,IE00 Biogenic CO2,Price,2050,50.94271577850032,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,IE00 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,IE00 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCA Biogenic CO2,Initial Volume,2050,0.48554416111111115,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCA Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCA Biogenic CO2,Price,2050,53.53260032999952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCA Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCA Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCN Biogenic CO2,Initial Volume,2050,0.48554416111111115,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCN Biogenic CO2,Production,2050,0.48546409237019644,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCN Biogenic CO2,Price,2050,53.53260032999952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCN Biogenic CO2,Variable Cost,2050,25988.15523134752,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCN Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCS Biogenic CO2,Initial Volume,2050,0.48554416111111115,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCS Biogenic CO2,Production,2050,0.48537184682497286,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCS Biogenic CO2,Price,2050,53.53260032999952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCS Biogenic CO2,Variable Cost,2050,25983.217087443678,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITCS Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITN1 Biogenic CO2,Initial Volume,2050,0.48554416111111115,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITN1 Biogenic CO2,Production,2050,0.4851812615611081,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITN1 Biogenic CO2,Price,2050,53.53260032999952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITN1 Biogenic CO2,Variable Cost,2050,25973.014562683777,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITN1 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITS1 Biogenic CO2,Initial Volume,2050,0.48554416111111115,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITS1 Biogenic CO2,Production,2050,0.4854846013788363,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITS1 Biogenic CO2,Price,2050,53.53260032999952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITS1 Biogenic CO2,Variable Cost,2050,25989.253131912374,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITS1 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSA Biogenic CO2,Initial Volume,2050,0.48554416111111115,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSA Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSA Biogenic CO2,Price,2050,53.53260032999952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSA Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSA Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSI Biogenic CO2,Initial Volume,2050,0.48554416111111115,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSI Biogenic CO2,Production,2050,0.4854796828616753,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSI Biogenic CO2,Price,2050,53.53260032999952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSI Biogenic CO2,Variable Cost,2050,25988.989830897408,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,ITSI Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LT00 Biogenic CO2,Initial Volume,2050,0.10099225019444445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LT00 Biogenic CO2,Production,2050,0.06305629894546934,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LT00 Biogenic CO2,Price,2050,50.20000000050015,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LT00 Biogenic CO2,Variable Cost,2050,3165.4262070607256,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LT00 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LV00 Biogenic CO2,Initial Volume,2050,0.11177672902777779,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LV00 Biogenic CO2,Production,2050,0.08689340938558623,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LV00 Biogenic CO2,Price,2050,50.43474436500025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LV00 Biogenic CO2,Variable Cost,2050,4382.446889369457,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,LV00 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,MT00 Biogenic CO2,Initial Volume,2050,0.015199824747222222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,MT00 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,MT00 Biogenic CO2,Price,2050,53.5653106095003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,MT00 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,MT00 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL01 Biogenic CO2,Initial Volume,2050,0.2636478,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL01 Biogenic CO2,Production,2050,0.1521691373020609,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL01 Biogenic CO2,Price,2050,54.53315008200033,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL01 Biogenic CO2,Variable Cost,2050,8298.262402412092,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL02 Biogenic CO2,Initial Volume,2050,0.2636478,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL02 Biogenic CO2,Production,2050,0.26316265490277213,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL02 Biogenic CO2,Price,2050,54.53315008200033,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL02 Biogenic CO2,Variable Cost,2050,14351.088555912569,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL03 Biogenic CO2,Initial Volume,2050,0.2636478,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL03 Biogenic CO2,Production,2050,0.26364779999998883,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL03 Biogenic CO2,Price,2050,54.53315008200033,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL03 Biogenic CO2,Variable Cost,2050,14377.545046311168,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL04 Biogenic CO2,Initial Volume,2050,0.2636478,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL04 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL04 Biogenic CO2,Price,2050,54.53315008200033,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL04 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,NL04 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL01 Biogenic CO2,Initial Volume,2050,0.2587263743888889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL01 Biogenic CO2,Production,2050,0.09503483496332238,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL01 Biogenic CO2,Price,2050,50.20962067050015,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL01 Biogenic CO2,Variable Cost,2050,4771.66301400913,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL02 Biogenic CO2,Initial Volume,2050,0.2587263743888889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL02 Biogenic CO2,Production,2050,0.05721488071484434,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL02 Biogenic CO2,Price,2050,50.20962067050015,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL02 Biogenic CO2,Variable Cost,2050,2872.737457409828,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL03 Biogenic CO2,Initial Volume,2050,0.2587263743888889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL03 Biogenic CO2,Production,2050,0.12332778592243052,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL03 Biogenic CO2,Price,2050,50.20962067050015,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL03 Biogenic CO2,Variable Cost,2050,6192.241349321662,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL04 Biogenic CO2,Initial Volume,2050,0.2587263743888889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL04 Biogenic CO2,Production,2050,0.06506587287951114,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL04 Biogenic CO2,Price,2050,50.20962067050015,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL04 Biogenic CO2,Variable Cost,2050,3266.9327958887184,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL04 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL05 Biogenic CO2,Initial Volume,2050,0.2587263743888889,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL05 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL05 Biogenic CO2,Price,2050,50.20962067050015,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL05 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PL05 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT01 Biogenic CO2,Initial Volume,2050,0.23227093025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT01 Biogenic CO2,Production,2050,0.23096215011111654,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT01 Biogenic CO2,Price,2050,53.542220999999515,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT01 Biogenic CO2,Variable Cost,2050,12366.226484011127,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT02 Biogenic CO2,Initial Volume,2050,0.23227093025,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT02 Biogenic CO2,Production,2050,0.2313757611204748,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT02 Biogenic CO2,Price,2050,53.542220999999515,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT02 Biogenic CO2,Variable Cost,2050,12388.372136083684,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,PT02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO01 Biogenic CO2,Initial Volume,2050,0.33897819333333334,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO01 Biogenic CO2,Production,2050,0.17394559568892493,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO01 Biogenic CO2,Price,2050,51.18900494850019,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO01 Biogenic CO2,Variable Cost,2050,8904.101958363697,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO02 Biogenic CO2,Initial Volume,2050,0.33897819333333334,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO02 Biogenic CO2,Production,2050,0.17970949591035568,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO02 Biogenic CO2,Price,2050,51.18900494850019,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO02 Biogenic CO2,Variable Cost,2050,9199.150275319314,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO03 Biogenic CO2,Initial Volume,2050,0.33897819333333334,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO03 Biogenic CO2,Production,2050,0.14317266120491118,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO03 Biogenic CO2,Price,2050,51.18900494850019,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO03 Biogenic CO2,Variable Cost,2050,7328.866062803314,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,RO03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE01 Biogenic CO2,Initial Volume,2050,0.2086988511111111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE01 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE01 Biogenic CO2,Price,2050,55.06036283700036,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE01 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE02 Biogenic CO2,Initial Volume,2050,0.2086988511111111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE02 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE02 Biogenic CO2,Price,2050,55.06036283700036,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE02 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE03 Biogenic CO2,Initial Volume,2050,0.2086988511111111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE03 Biogenic CO2,Production,2050,0.20869885111111122,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE03 Biogenic CO2,Price,2050,55.06036283700036,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE03 Biogenic CO2,Variable Cost,2050,11491.034465785067,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE04 Biogenic CO2,Initial Volume,2050,0.2086988511111111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE04 Biogenic CO2,Production,2050,0.20857006414169435,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE04 Biogenic CO2,Price,2050,55.06036283700036,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE04 Biogenic CO2,Variable Cost,2050,11483.943408519215,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SE04 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SI00 Biogenic CO2,Initial Volume,2050,0.072649616,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SI00 Biogenic CO2,Production,2050,0.04128651674574997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SI00 Biogenic CO2,Price,2050,53.605717426499915,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SI00 Biogenic CO2,Variable Cost,2050,2213.1933502265633,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SI00 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SK00 Biogenic CO2,Initial Volume,2050,0.21001151622222222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SK00 Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SK00 Biogenic CO2,Price,2050,54.9660802635003,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SK00 Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,SK00 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK01 Biogenic CO2,Initial Volume,2050,0.2777777777777778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK01 Biogenic CO2,Production,2050,0.27743400170279153,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK01 Biogenic CO2,Price,2050,55.102693788000025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK01 Biogenic CO2,Variable Cost,2050,15287.360842150632,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK01 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK02 Biogenic CO2,Initial Volume,2050,0.2777777777777778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK02 Biogenic CO2,Production,2050,0.2776986238739719,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK02 Biogenic CO2,Price,2050,55.102693788000025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK02 Biogenic CO2,Variable Cost,2050,15301.942236619057,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK02 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK03 Biogenic CO2,Initial Volume,2050,0.2777777777777778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK03 Biogenic CO2,Production,2050,0.27758250920277217,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK03 Biogenic CO2,Price,2050,55.102693788000025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK03 Biogenic CO2,Variable Cost,2050,15295.544005449012,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK03 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK04 Biogenic CO2,Initial Volume,2050,0.2777777777777778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK04 Biogenic CO2,Production,2050,0.2775601293777834,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK04 Biogenic CO2,Price,2050,55.102693788000025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK04 Biogenic CO2,Variable Cost,2050,15294.310816804615,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK04 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK05 Biogenic CO2,Initial Volume,2050,0.2777777777777778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK05 Biogenic CO2,Production,2050,0.27770090901668093,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK05 Biogenic CO2,Price,2050,55.102693788000025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK05 Biogenic CO2,Variable Cost,2050,15302.06815413809,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UK05 Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UKNI Biogenic CO2,Initial Volume,2050,0.2777777777777778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UKNI Biogenic CO2,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UKNI Biogenic CO2,Price,2050,55.102693788000025,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UKNI Biogenic CO2,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biogenic CO2,UKNI Biogenic CO2,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT01XCH4 bio,Initial Volume,2050,3.077787748,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT01XCH4 bio,Production,2050,0.2312605010913,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT01XCH4 bio,Price,2050,161.23636363649916,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT01XCH4 bio,Variable Cost,2050,37287.602248684474,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT02XCH4 bio,Initial Volume,2050,9.233363244000001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT02XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT02XCH4 bio,Price,2050,161.23636363649916,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT02XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT03XCH4 bio,Initial Volume,2050,3.077787748,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT03XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT03XCH4 bio,Price,2050,161.23636363649916,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT03XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,AT03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE01XCH4 bio,Initial Volume,2050,6.210390207691667,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE01XCH4 bio,Production,2050,6.210390207691664,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE01XCH4 bio,Price,2050,108.9272727269994,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE01XCH4 bio,Variable Cost,2050,676480.8678960142,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE02XCH4 bio,Initial Volume,2050,4.968312166152778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE02XCH4 bio,Production,2050,4.9683121661527885,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE02XCH4 bio,Price,2050,108.9272727269994,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE02XCH4 bio,Variable Cost,2050,541184.694316751,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE03XCH4 bio,Initial Volume,2050,4.968312166152778,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE03XCH4 bio,Production,2050,4.931551580306618,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE03XCH4 bio,Price,2050,108.9272727269994,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE03XCH4 bio,Variable Cost,2050,537180.463956672,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BE03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG01XCH4 bio,Initial Volume,2050,2.930690710975,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG01XCH4 bio,Production,2050,2.9306907109743223,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG01XCH4 bio,Price,2050,60.745454545499975,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG01XCH4 bio,Variable Cost,2050,178026.13937027642,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG02XCH4 bio,Initial Volume,2050,11.722762843897224,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG02XCH4 bio,Production,2050,11.722762843897277,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG02XCH4 bio,Price,2050,60.745454545499975,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG02XCH4 bio,Variable Cost,2050,712104.5574811054,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,BG02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CY00XCH4 bio,Initial Volume,2050,0.7369469084027779,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CY00XCH4 bio,Production,2050,0.7342520771140895,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CY00XCH4 bio,Price,2050,112.9090909094999,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CY00XCH4 bio,Variable Cost,2050,82903.73452506325,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CY00XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ01XCH4 bio,Initial Volume,2050,6.762006807997222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ01XCH4 bio,Production,2050,6.762006807996636,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ01XCH4 bio,Price,2050,103.23636363599911,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ01XCH4 bio,Variable Cost,2050,698084.9937419071,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ02XCH4 bio,Initial Volume,2050,5.071505105997222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ02XCH4 bio,Production,2050,5.07150510599747,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ02XCH4 bio,Price,2050,103.23636363599911,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ02XCH4 bio,Variable Cost,2050,523563.74530643027,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,CZ02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE01XCH4 bio,Initial Volume,2050,16.753592887330555,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE01XCH4 bio,Production,2050,10.708013210513887,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE01XCH4 bio,Price,2050,128.25454545450035,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE01XCH4 bio,Variable Cost,2050,1373351.367035727,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE02XCH4 bio,Initial Volume,2050,10.0521557324,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE02XCH4 bio,Production,2050,10.052155732400005,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE02XCH4 bio,Price,2050,128.25454545450035,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE02XCH4 bio,Variable Cost,2050,1289234.664297266,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE03XCH4 bio,Initial Volume,2050,10.0521557324,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE03XCH4 bio,Production,2050,3.8648625867472193,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE03XCH4 bio,Price,2050,128.25454545450035,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE03XCH4 bio,Variable Cost,2050,495686.1943075433,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE04XCH4 bio,Initial Volume,2050,3.3507185774666666,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE04XCH4 bio,Production,2050,3.350718577466665,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE04XCH4 bio,Price,2050,128.25454545450035,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE04XCH4 bio,Variable Cost,2050,429744.8880990884,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE04XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE05XCH4 bio,Initial Volume,2050,10.0521557324,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE05XCH4 bio,Production,2050,9.526367430496112,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE05XCH4 bio,Price,2050,128.25454545450035,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE05XCH4 bio,Variable Cost,2050,1221799.9246312643,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE05XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE06XCH4 bio,Initial Volume,2050,10.0521557324,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE06XCH4 bio,Production,2050,10.052155732399164,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE06XCH4 bio,Price,2050,128.25454545450035,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE06XCH4 bio,Variable Cost,2050,1289234.664297158,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE06XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE07XCH4 bio,Initial Volume,2050,10.0521557324,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE07XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE07XCH4 bio,Price,2050,128.25454545450035,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE07XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DE07XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKE1XCH4 bio,Initial Volume,2050,8.447130342858333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKE1XCH4 bio,Production,2050,8.447130342857148,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKE1XCH4 bio,Price,2050,113.16363636300058,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKE1XCH4 bio,Variable Cost,2050,955907.9864353248,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKE1XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKW1XCH4 bio,Initial Volume,2050,11.262840457141667,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKW1XCH4 bio,Production,2050,11.262840457142781,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKW1XCH4 bio,Price,2050,113.16363636300058,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKW1XCH4 bio,Variable Cost,2050,1274543.9819137584,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,DKW1XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,EE00XCH4 bio,Initial Volume,2050,3.4329641160166666,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,EE00XCH4 bio,Production,2050,3.4329641160174,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,EE00XCH4 bio,Price,2050,80.30909090849929,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,EE00XCH4 bio,Variable Cost,2050,275698.2272808879,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,EE00XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES01XCH4 bio,Initial Volume,2050,14.763258895344444,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES01XCH4 bio,Production,2050,4.437667007274203,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES01XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES01XCH4 bio,Variable Cost,2050,431583.28767108516,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES02XCH4 bio,Initial Volume,2050,4.921086298447222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES02XCH4 bio,Production,2050,3.9598556479793805,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES02XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES02XCH4 bio,Variable Cost,2050,385113.96110984916,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES03XCH4 bio,Initial Volume,2050,4.921086298447222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES03XCH4 bio,Production,2050,1.7104468367560222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES03XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES03XCH4 bio,Variable Cost,2050,166348.7296328715,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES04XCH4 bio,Initial Volume,2050,9.842172596894445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES04XCH4 bio,Production,2050,0.6995472199208056,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES04XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES04XCH4 bio,Variable Cost,2050,68034.14689738871,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES04XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES05XCH4 bio,Initial Volume,2050,14.763258895344444,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES05XCH4 bio,Production,2050,2.2960684795992363,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES05XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES05XCH4 bio,Variable Cost,2050,223303.09631593272,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES05XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES06XCH4 bio,Initial Volume,2050,19.684345193791664,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES06XCH4 bio,Production,2050,1.4125890203748468,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES06XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES06XCH4 bio,Variable Cost,2050,137380.7030906375,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES06XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES07XCH4 bio,Initial Volume,2050,4.921086298447222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES07XCH4 bio,Production,2050,4.921086298447907,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES07XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES07XCH4 bio,Variable Cost,2050,478598.01109814236,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES07XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES08XCH4 bio,Initial Volume,2050,9.842172596894445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES08XCH4 bio,Production,2050,0.6382819678717333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES08XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES08XCH4 bio,Variable Cost,2050,62075.82265719796,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES08XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES09XCH4 bio,Initial Volume,2050,9.842172596894445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES09XCH4 bio,Production,2050,3.3150247544755267,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES09XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES09XCH4 bio,Variable Cost,2050,322401.2256670835,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES09XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES10XCH4 bio,Initial Volume,2050,4.921086298447222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES10XCH4 bio,Production,2050,4.9210862984479125,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES10XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES10XCH4 bio,Variable Cost,2050,478598.01109814225,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES10XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES11XCH4 bio,Initial Volume,2050,4.921086298447222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES11XCH4 bio,Production,2050,1.3767059306062248,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES11XCH4 bio,Price,2050,97.25454545400042,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES11XCH4 bio,Variable Cost,2050,133890.9095056866,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ES11XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI01XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI01XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI01XCH4 bio,Price,2050,109.18181818200074,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI01XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI02XCH4 bio,Initial Volume,2050,21.98526719073333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI02XCH4 bio,Production,2050,10.843010346873207,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI02XCH4 bio,Price,2050,109.18181818200074,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI02XCH4 bio,Variable Cost,2050,1183859.5842358742,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FI02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR01XCH4 bio,Initial Volume,2050,6.2024383636361105,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR01XCH4 bio,Production,2050,6.202438363636364,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR01XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR01XCH4 bio,Variable Cost,2050,423908.4692528925,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR02XCH4 bio,Initial Volume,2050,6.2024383636361105,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR02XCH4 bio,Production,2050,6.2024383636363725,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR02XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR02XCH4 bio,Variable Cost,2050,423908.46925289265,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR03XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR03XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR03XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR03XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR04XCH4 bio,Initial Volume,2050,24.809753454544442,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR04XCH4 bio,Production,2050,5.247653928096524,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR04XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR04XCH4 bio,Variable Cost,2050,358653.2930129953,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR04XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR05XCH4 bio,Initial Volume,2050,24.809753454544442,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR05XCH4 bio,Production,2050,24.80975345454549,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR05XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR05XCH4 bio,Variable Cost,2050,1695633.8770115725,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR05XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR06XCH4 bio,Initial Volume,2050,6.2024383636361105,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR06XCH4 bio,Production,2050,6.202438363636375,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR06XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR06XCH4 bio,Variable Cost,2050,423908.46925289294,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR06XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR07XCH4 bio,Initial Volume,2050,6.2024383636361105,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR07XCH4 bio,Production,2050,6.102736044256399,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR07XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR07XCH4 bio,Variable Cost,2050,417094.26891563344,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR07XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR08XCH4 bio,Initial Volume,2050,31.012191818180558,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR08XCH4 bio,Production,2050,3.3951670413836013,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR08XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR08XCH4 bio,Variable Cost,2050,232044.2347011083,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR08XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR09XCH4 bio,Initial Volume,2050,24.809753454544442,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR09XCH4 bio,Production,2050,24.8097534545454,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR09XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR09XCH4 bio,Variable Cost,2050,1695633.877011567,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR09XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR10XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR10XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR10XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR10XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR10XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR11XCH4 bio,Initial Volume,2050,18.607315090908333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR11XCH4 bio,Production,2050,18.607315090909093,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR11XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR11XCH4 bio,Variable Cost,2050,1271725.4077586792,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR11XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR12XCH4 bio,Initial Volume,2050,18.607315090908333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR12XCH4 bio,Production,2050,18.60731509090909,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR12XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR12XCH4 bio,Variable Cost,2050,1271725.407758678,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR12XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR13XCH4 bio,Initial Volume,2050,18.607315090908333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR13XCH4 bio,Production,2050,18.607315090909093,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR13XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR13XCH4 bio,Variable Cost,2050,1271725.4077586771,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR13XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR14XCH4 bio,Initial Volume,2050,18.607315090908333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR14XCH4 bio,Production,2050,18.607315090909104,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR14XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR14XCH4 bio,Variable Cost,2050,1271725.407758679,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR14XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR15XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR15XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR15XCH4 bio,Price,2050,68.34545454599998,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR15XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,FR15XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR01XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR01XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR01XCH4 bio,Price,2050,125.12727272699985,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR01XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR02XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR02XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR02XCH4 bio,Price,2050,125.12727272699985,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR02XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR03XCH4 bio,Initial Volume,2050,21.68096788,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR03XCH4 bio,Production,2050,0.9677060499875285,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR03XCH4 bio,Price,2050,125.12727272699985,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR03XCH4 bio,Variable Cost,2050,121086.4188366257,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,GR03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR01XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR01XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR01XCH4 bio,Price,2050,80.03636363699951,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR01XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR02XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR02XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR02XCH4 bio,Price,2050,80.03636363699951,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR02XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HR02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU01XCH4 bio,Initial Volume,2050,4.788446521669445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU01XCH4 bio,Production,2050,4.788446521669452,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU01XCH4 bio,Price,2050,87.89090909100041,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU01XCH4 bio,Variable Cost,2050,420860.9179227297,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU02XCH4 bio,Initial Volume,2050,4.788446521669445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU02XCH4 bio,Production,2050,4.788446521668492,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU02XCH4 bio,Price,2050,87.89090909100041,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU02XCH4 bio,Variable Cost,2050,420860.917922645,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU03XCH4 bio,Initial Volume,2050,4.788446521669445,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU03XCH4 bio,Production,2050,4.788446521668487,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU03XCH4 bio,Price,2050,87.89090909100041,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU03XCH4 bio,Variable Cost,2050,420860.91792264493,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,HU03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,IE00XCH4 bio,Initial Volume,2050,9.89360823096111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,IE00XCH4 bio,Production,2050,9.893608230960895,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,IE00XCH4 bio,Price,2050,73.16363636400044,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,IE00XCH4 bio,Variable Cost,2050,723852.3549343033,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,IE00XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCAXCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCAXCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCAXCH4 bio,Price,2050,97.63636363649952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCAXCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCAXCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCNXCH4 bio,Initial Volume,2050,21.98860993037222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCNXCH4 bio,Production,2050,21.98860993037135,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCNXCH4 bio,Price,2050,97.63636363649952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCNXCH4 bio,Variable Cost,2050,2146887.9150198903,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCNXCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCSXCH4 bio,Initial Volume,2050,21.98860993037222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCSXCH4 bio,Production,2050,21.988609930371346,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCSXCH4 bio,Price,2050,97.63636363649952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCSXCH4 bio,Variable Cost,2050,2146887.915019892,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITCSXCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITN1XCH4 bio,Initial Volume,2050,21.98860993037222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITN1XCH4 bio,Production,2050,21.98860993037133,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITN1XCH4 bio,Price,2050,97.63636363649952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITN1XCH4 bio,Variable Cost,2050,2146887.915019891,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITN1XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITS1XCH4 bio,Initial Volume,2050,21.98860993037222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITS1XCH4 bio,Production,2050,21.988609930371275,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITS1XCH4 bio,Price,2050,97.63636363649952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITS1XCH4 bio,Variable Cost,2050,2146887.91501989,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITS1XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSAXCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSAXCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSAXCH4 bio,Price,2050,97.63636363649952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSAXCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSAXCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSIXCH4 bio,Initial Volume,2050,21.98860993037222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSIXCH4 bio,Production,2050,21.88984404093573,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSIXCH4 bio,Price,2050,97.63636363649952,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSIXCH4 bio,Variable Cost,2050,2137244.772724087,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,ITSIXCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LT00XCH4 bio,Initial Volume,2050,3.266848934686111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LT00XCH4 bio,Production,2050,3.266848934686248,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LT00XCH4 bio,Price,2050,66.14545454549982,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LT00XCH4 bio,Variable Cost,2050,216087.20771615562,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LT00XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LUG1XCH4 bio,Initial Volume,2050,0.5518791824,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LUG1XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LUG1XCH4 bio,Price,2050,150.96363636300066,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LUG1XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LUG1XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LV00XCH4 bio,Initial Volume,2050,3.6157000910694443,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LV00XCH4 bio,Production,2050,3.6157000910697192,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LV00XCH4 bio,Price,2050,68.36363636400031,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LV00XCH4 bio,Variable Cost,2050,247182.40622585724,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,LV00XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,MT00XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,MT00XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,MT00XCH4 bio,Price,2050,97.94545454549926,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,MT00XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,MT00XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL01XCH4 bio,Initial Volume,2050,11.371137000000001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL01XCH4 bio,Production,2050,11.371137,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL01XCH4 bio,Price,2050,107.09090909100044,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL01XCH4 bio,Variable Cost,2050,1217745.3987272726,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL02XCH4 bio,Initial Volume,2050,11.371137000000001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL02XCH4 bio,Production,2050,11.371137000000006,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL02XCH4 bio,Price,2050,107.09090909100044,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL02XCH4 bio,Variable Cost,2050,1217745.3987272726,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL03XCH4 bio,Initial Volume,2050,11.371137000000001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL03XCH4 bio,Production,2050,11.37113699999999,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL03XCH4 bio,Price,2050,107.09090909100044,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL03XCH4 bio,Variable Cost,2050,1217745.398727273,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL04XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL04XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL04XCH4 bio,Price,2050,107.09090909100044,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL04XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,NL04XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL01XCH4 bio,Initial Volume,2050,6.9742973600000004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL01XCH4 bio,Production,2050,6.9742973600000004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL01XCH4 bio,Price,2050,66.23636363699957,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL01XCH4 bio,Variable Cost,2050,461952.096045091,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL02XCH4 bio,Initial Volume,2050,6.9742973600000004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL02XCH4 bio,Production,2050,6.723066596760648,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL02XCH4 bio,Price,2050,66.23636363699957,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL02XCH4 bio,Variable Cost,2050,445311.48385452776,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL03XCH4 bio,Initial Volume,2050,6.9742973600000004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL03XCH4 bio,Production,2050,6.974297359999995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL03XCH4 bio,Price,2050,66.23636363699957,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL03XCH4 bio,Variable Cost,2050,461952.096045091,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL04XCH4 bio,Initial Volume,2050,20.92289208,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL04XCH4 bio,Production,2050,20.922892080000008,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL04XCH4 bio,Price,2050,66.23636363699957,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL04XCH4 bio,Variable Cost,2050,1385856.2881352725,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL04XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL05XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL05XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL05XCH4 bio,Price,2050,66.23636363699957,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL05XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PL05XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT01XCH4 bio,Initial Volume,2050,5.008925864236112,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT01XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT01XCH4 bio,Price,2050,97.72727272799973,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT01XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT02XCH4 bio,Initial Volume,2050,10.017851728472223,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT02XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT02XCH4 bio,Price,2050,97.72727272799973,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT02XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,PT02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO01XCH4 bio,Initial Volume,2050,10.965104233527777,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO01XCH4 bio,Production,2050,10.96510423352861,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO01XCH4 bio,Price,2050,75.49090909049993,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO01XCH4 bio,Variable Cost,2050,827765.6868656509,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO02XCH4 bio,Initial Volume,2050,10.965104233527777,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO02XCH4 bio,Production,2050,10.965104233528596,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO02XCH4 bio,Price,2050,75.49090909049993,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO02XCH4 bio,Variable Cost,2050,827765.6868656495,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO03XCH4 bio,Initial Volume,2050,10.965104233527777,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO03XCH4 bio,Production,2050,10.965104233528596,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO03XCH4 bio,Price,2050,75.49090909049993,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO03XCH4 bio,Variable Cost,2050,827765.68686565,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,RO03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE01XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE01XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE01XCH4 bio,Price,2050,112.07272727250052,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE01XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE01XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE02XCH4 bio,Initial Volume,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE02XCH4 bio,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE02XCH4 bio,Price,2050,112.07272727250052,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE02XCH4 bio,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE02XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE03XCH4 bio,Initial Volume,2050,13.501780942422222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE03XCH4 bio,Production,2050,13.501780942421911,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE03XCH4 bio,Price,2050,112.07272727250052,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE03XCH4 bio,Variable Cost,2050,1513181.4132561593,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE03XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE04XCH4 bio,Initial Volume,2050,13.501780942422222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE04XCH4 bio,Production,2050,13.501780942421913,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE04XCH4 bio,Price,2050,112.07272727250052,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE04XCH4 bio,Variable Cost,2050,1513181.4132561577,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SE04XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SI00XCH4 bio,Initial Volume,2050,2.3500349799999998,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SI00XCH4 bio,Production,2050,2.3500349800000024,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SI00XCH4 bio,Price,2050,98.32727272799971,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SI00XCH4 bio,Variable Cost,2050,231072.530397091,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SI00XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SK00XCH4 bio,Initial Volume,2050,6.793351933455555,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SK00XCH4 bio,Production,2050,6.793351933454621,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SK00XCH4 bio,Price,2050,111.18181818150035,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SK00XCH4 bio,Variable Cost,2050,755297.2195104543,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Biomethane,SK00XCH4 bio,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,BAng,Initial Volume,2050,0.9722222222222222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,BAng,Production,2050,0.9722222222222194,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,BAng,Price,2050,61.55999999999958,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,BAng,Variable Cost,2050,59850.000000000015,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,BAng,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,MEng,Initial Volume,2050,0.9722222222222222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,MEng,Production,2050,0.9722222222222222,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,MEng,Price,2050,30.96000000000002,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,MEng,Variable Cost,2050,30100.000000000022,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,MEng,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,NOng,Initial Volume,2050,223.38,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,NOng,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,NOng,Price,2050,47.987999999999786,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,NOng,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,NOng,FO&M Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,RSng,Initial Volume,2050,4.861111111111111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,RSng,Production,2050,0.0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,RSng,Price,2050,38.87999999999974,€/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,RSng,Variable Cost,2050,0.0,$000,1,1
+TJ Dispatch_Future_Nuclear+,Gas Field,Natural Gas,RSng,FO&M Cost,2050,0.0,$000,1,1

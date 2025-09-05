@@ -1,0 +1,571 @@
+model_name,collection_name,category_name,child_name,property_name,date_string,value,unit_name,interval_id,period_value
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,H2 Imports,DZ - ITSIZ2MK,Flow In,2050,15.09231552,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,H2 Imports,MA - ES09Z2MK,Flow In,2050,14.5322417,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,H2 Imports,NO - BE01Z2MK,Flow In,2050,30.86533636,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,H2 Imports,NO - DE01Z2MK,Flow In,2050,31.23321697,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,ME00Z2MK - BA00Z2MK 26 inch,Flow In,2050,1.137213702,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,FR01Z2MK - ES04Z2MK 26 inch,Flow In,2050,0.722750388,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,FI02Z2MK - FI01Z2MK 26 inch,Flow In,2050,0.281901379,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,FI01Z2MK - SE01Z2MK 26 inch,Flow In,2050,22.73668518,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,FR01Z2MK - FR02Z2MK 26 inch,Flow In,2050,0.01856462,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,ITCSZ2MK - ITSAZ2MK 26 inch,Flow In,2050,4.215909931,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,ITS1Z2MK - ITCAZ2MK 26 inch,Flow In,2050,1.092453127,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,ITSIZ2MK - ITCAZ2MK 26 inch,Flow In,2050,3.2154827,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,ME00Z2MK - AL00Z2MK 26 inch,Flow In,2050,0.655546543,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,NOS1Z2MK - NOS2Z2MK 26 inch,Flow In,2050,30.7286144,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,NOS1Z2MK - NOS3Z2MK 26 inch,Flow In,2050,31.36993893,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,NOS3Z2MK - NOS2Z2MK 26 inch,Flow In,2050,31.264477,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,SE02Z2MK - SE01Z2MK 26 inch,Flow In,2050,3.477730548,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,SE03Z2MK - SE02Z2MK 26 inch,Flow In,2050,1.708363523,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market 26,FI02Z2MK - SE03Z2MK 26 inch,Flow In,2050,12.11709847,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,GR01Z2MK - AL00Z2MK_rp,Flow In,2050,18.09031767,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,AT02Z2MK - AT01Z2MK_rp,Flow In,2050,41.04058111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,AT01Z2MK - ITN1Z2MK_rp,Flow In,2050,27.64402723,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,AT02Z2MK - AT03Z2MK_rp,Flow In,2050,25.79792152,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,AT02Z2MK - SI00Z2MK_rp,Flow In,2050,4.743958541,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,AT03Z2MK - HU02Z2MK_rp,Flow In,2050,8.011296487,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,AT03Z2MK - SK00Z2MK_rp,Flow In,2050,14.34232658,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,BE01Z2MK - BE02Z2MK_rp,Flow In,2050,21.24077012,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,BE01Z2MK - NL03Z2MK_rp,Flow In,2050,25.33943277,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,BE01Z2MK - NL04Z2MK_rp,Flow In,2050,34.85956142,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE03Z2MK - BE02Z2MK_rp,Flow In,2050,0.334549001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,BG01Z2MK - BG02Z2MK_rp,Flow In,2050,3.469744215,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,BG01Z2MK - TR00Z2MK_rp,Flow In,2050,14.21052756,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,BG02Z2MK - GR01Z2MK_rp,Flow In,2050,8.652110864,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,MK00Z2MK - BG02Z2MK_rp,Flow In,2050,0.841804036,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,CZ01Z2MK - CZ02Z2MK_rp,Flow In,2050,30.34872274,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,CZ02Z2MK - PL03Z2MK_rp,Flow In,2050,17.2079681,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE01Z2MK - DE02Z2MK_rp,Flow In,2050,39.39159792,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE01Z2MK - DE03Z2MK_rp,Flow In,2050,6.178301664,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,NOS2Z2MK - DE01Z2MK_rp,Flow In,2050,67.24572129,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE04Z2MK - DE02Z2MK_rp,Flow In,2050,6.129483164,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE05Z2MK - DE03Z2MK_rp,Flow In,2050,21.19108698,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE04Z2MK - CZ01Z2MK_rp,Flow In,2050,42.03797854,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE05Z2MK - DE04Z2MK_rp,Flow In,2050,53.79084775,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE05Z2MK - DE07Z2MK_rp,Flow In,2050,122.0298686,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,CH00Z2MK - DE06Z2MK_rp,Flow In,2050,27.68038154,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE06Z2MK - DE07Z2MK_rp,Flow In,2050,0.121095506,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE07Z2MK - AT02Z2MK_rp,Flow In,2050,80.31121559,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE07Z2MK - CZ01Z2MK_rp,Flow In,2050,2.655087863,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DKE1Z2MK - SE04Z2MK_rp,Flow In,2050,10.09958249,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE01Z2MK - DKW1Z2MK_rp,Flow In,2050,15.48018533,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DKW1Z2MK - DKE1Z2MK_rp,Flow In,2050,12.18714756,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FI02Z2MK - EE00Z2MK_rp,Flow In,2050,0.92151608,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES01Z2MK - PT01Z2MK_rp,Flow In,2050,8.281037539,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES03Z2MK - ES02Z2MK_rp,Flow In,2050,0.161178582,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES04Z2MK - ES03Z2MK_rp,Flow In,2050,13.96123969,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES03Z2MK - ES07Z2MK_rp,Flow In,2050,32.38850656,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES04Z2MK - FR01Z2MK_rp,Flow In,2050,6.935779382,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES06Z2MK - ES05Z2MK_rp,Flow In,2050,4.585369174,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES11Z2MK - ES06Z2MK_rp,Flow In,2050,15.52150384,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES07Z2MK - ES08Z2MK_rp,Flow In,2050,22.6427576,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES08Z2MK - ES10Z2MK_rp,Flow In,2050,25.43390913,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PT02Z2MK - ES08Z2MK_rp,Flow In,2050,10.62884478,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES10Z2MK - ES09Z2MK_rp,Flow In,2050,2.042112007,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ES10Z2MK - ES11Z2MK_rp,Flow In,2050,5.328672148,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR04Z2MK - FR01Z2MK_rp,Flow In,2050,5.047324432,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR02Z2MK - FR03Z2MK_rp,Flow In,2050,2.034590348,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR06Z2MK - FR03Z2MK_rp,Flow In,2050,2.075252837,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR05Z2MK - FR04Z2MK_rp,Flow In,2050,11.98461149,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR04Z2MK - FR08Z2MK_rp,Flow In,2050,0.279537766,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR05Z2MK - FR09Z2MK_rp,Flow In,2050,4.550459994,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR05Z2MK - FR10Z2MK_rp,Flow In,2050,218.3964282,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR05Z2MK - FR11Z2MK_rp,Flow In,2050,83.64899086,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR07Z2MK - FR06Z2MK_rp,Flow In,2050,3.707487667,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR11Z2MK - FR07Z2MK_rp,Flow In,2050,14.42172871,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR09Z2MK - FR13Z2MK_rp,Flow In,2050,1.085767573,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR10Z2MK - FR14Z2MK_rp,Flow In,2050,223.5694419,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR11Z2MK - FR12Z2MK_rp,Flow In,2050,65.2217943,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR12Z2MK - CH00Z2MK_rp,Flow In,2050,27.68038154,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR12Z2MK - DE05Z2MK_rp,Flow In,2050,224.6495897,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR14Z2MK - FR12Z2MK_rp,Flow In,2050,196.6585558,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR13Z2MK - BE01Z2MK_rp,Flow In,2050,59.07081721,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,FR14Z2MK - FR13Z2MK_rp,Flow In,2050,22.40534196,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,GR02Z2MK - GR01Z2MK_rp,Flow In,2050,0.394922149,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,HR02Z2MK - HR01Z2MK_rp,Flow In,2050,2.808209915,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,SI00Z2MK - HR02Z2MK_rp,Flow In,2050,2.486192,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,HU02Z2MK - HU01Z2MK_rp,Flow In,2050,4.398824092,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,HU03Z2MK - HU01Z2MK_rp,Flow In,2050,0.019390468,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,HU02Z2MK - HU03Z2MK_rp,Flow In,2050,0.018026137,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,RS00Z2MK - HU03Z2MK_rp,Flow In,2050,3.924451055,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ITCNZ2MK - ITCSZ2MK_rp,Flow In,2050,10.9393333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ITS1Z2MK - ITCSZ2MK_rp,Flow In,2050,8.861639139,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ITN1Z2MK - ITCNZ2MK_rp,Flow In,2050,26.28397007,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,AL00Z2MK - ITS1Z2MK_rp,Flow In,2050,22.42225574,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,ITS1Z2MK - ITSIZ2MK_rp,Flow In,2050,0.541119736,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,LV00Z2MK - LT00Z2MK_rp,Flow In,2050,8.676512339,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE05Z2MK - LUG1Z2MK_rp,Flow In,2050,0.424883325,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,EE00Z2MK - LV00Z2MK_rp,Flow In,2050,7.643597762,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,NL01Z2MK - DE01Z2MK_rp,Flow In,2050,0.811736715,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,NL01Z2MK - NL02Z2MK_rp,Flow In,2050,3.688606572,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,NL01Z2MK - NL03Z2MK_rp,Flow In,2050,7.38683157,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,DE03Z2MK - NL02Z2MK_rp,Flow In,2050,3.554786062,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,NL03Z2MK - NL02Z2MK_rp,Flow In,2050,12.19366733,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,NL04Z2MK - DE03Z2MK_rp,Flow In,2050,15.21906735,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PL01Z2MK - LT00Z2MK_rp,Flow In,2050,1.243713485,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PL01Z2MK - PL02Z2MK_rp,Flow In,2050,6.355493495,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PL05Z2MK - PL01Z2MK_rp,Flow In,2050,12.24462409,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PL03Z2MK - PL02Z2MK_rp,Flow In,2050,0.695720845,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PL02Z2MK - SK00Z2MK_rp,Flow In,2050,1.540434218,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PL02Z2MK - UA01Z2MK_rp,Flow In,2050,10.30490602,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PL04Z2MK - PL03Z2MK_rp,Flow In,2050,5.769226144,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PL05Z2MK - PL04Z2MK_rp,Flow In,2050,8.054097748,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,PT01Z2MK - PT02Z2MK_rp,Flow In,2050,10.66699202,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,RO01Z2MK - RO02Z2MK_rp,Flow In,2050,4.382476875,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,RO03Z2MK - BG01Z2MK_rp,Flow In,2050,2.940458114,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,BA00Z2MK - RS00Z2MK_rp,Flow In,2050,1.137213702,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,SE04Z2MK - SE03Z2MK_rp,Flow In,2050,4.719546626,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,SK00Z2MK - HU03Z2MK_rp,Flow In,2050,1.427736462,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,SK00Z2MK - UA01Z2MK_rp,Flow In,2050,4.282006101,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,UA01Z2MK - RO01Z2MK_rp,Flow In,2050,14.01303792,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,UA01Z2MK - RO03Z2MK_rp,Flow In,2050,6.788547751,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,BE01Z2MK - UK01Z2MK_rp,Flow In,2050,6.308869219,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,UK01Z2MK - NL03Z2MK_rp,Flow In,2050,62.4834704,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,UK03Z2MK - UK01Z2MK_rp,Flow In,2050,76.37641311,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,UK02Z2MK - UK03Z2MK_rp,Flow In,2050,39.59715281,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,UK04Z2MK - UK03Z2MK_rp,Flow In,2050,20.91646659,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,UK05Z2MK - UK04Z2MK_rp,Flow In,2050,36.64858423,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,IE00Z2MK - UK05Z2MK_rp,Flow In,2050,27.79916654,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Hydrogen Market Retrofit,IE00Z2MK - UKNIZ2MK_rp,Flow In,2050,3.651928347,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,AL00XCH4 - GR01XCH4,Flow In,2050,18.9670632,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,AT01XCH4 - ITN1XCH4,Flow In,2050,0.06368721,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,AT03XCH4 - AT02XCH4,Flow In,2050,18.02179486,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,AT02XCH4 - SI00XCH4,Flow In,2050,9.216032151,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,HU02XCH4 - AT03XCH4,Flow In,2050,8.48564657,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,SK00XCH4 - AT03XCH4,Flow In,2050,11.18837235,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ME00CH4M - BA00CH4M,Flow In,2050,2.128911242,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,RS00CH4M - BA00CH4M,Flow In,2050,25.2944831,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,BE02XCH4 - BE01XCH4,Flow In,2050,7.777777726,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,NL03XCH4 - BE01XCH4,Flow In,2050,18.93181692,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,NL04XCH4 - BE01XCH4,Flow In,2050,12.39866059,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE03XCH4 - BE02XCH4,Flow In,2050,12.69806599,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,BE02XCH4 - NL04XCH4,Flow In,2050,3.747480278,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,BG02XCH4 - BG01XCH4,Flow In,2050,19.89084563,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,BG01XCH4 - TR00XCH4,Flow In,2050,10.67956932,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,GR01XCH4 - BG02XCH4,Flow In,2050,10.84428682,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,BG02XCH4 - MK00XCH4,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,CZ02XCH4 - CZ01XCH4,Flow In,2050,26.11898961,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,PL03XCH4 - CZ02XCH4,Flow In,2050,25.42923214,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE01XCH4 - DE02XCH4,Flow In,2050,6.424336827,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE01XCH4 - DE03XCH4,Flow In,2050,15.30501345,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE01XCH4 - NOS2XCH4,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE02XCH4 - DE04XCH4,Flow In,2050,3.16192834,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE05XCH4 - DE03XCH4,Flow In,2050,26.05065139,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,CZ01XCH4 - DE04XCH4,Flow In,2050,9.972419024,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE04XCH4 - DE05XCH4,Flow In,2050,10.77502759,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE06XCH4 - DE05XCH4,Flow In,2050,6.453140868,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE07XCH4 - DE05XCH4,Flow In,2050,11.53907722,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,CH00XCH4 - DE06XCH4,Flow In,2050,14.00462388,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE06XCH4 - DE07XCH4,Flow In,2050,6.266969887,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,AT02XCH4 - DE07XCH4,Flow In,2050,5.258082643,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,CZ01XCH4 - DE07XCH4,Flow In,2050,14.05736983,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,SE04XCH4 - DKE1XCH4,Flow In,2050,17.26724709,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DKW1XCH4 - DE01XCH4,Flow In,2050,29.06526181,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DKE1XCH4 - DKW1XCH4,Flow In,2050,22.28880424,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FI02XCH4 - EE00XCH4,Flow In,2050,7.595732308,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES01XCH4 - PT01XCH4,Flow In,2050,3.318688652,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES02XCH4 - ES03XCH4,Flow In,2050,2.424634441,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES03XCH4 - ES04XCH4,Flow In,2050,0.935645483,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES03XCH4 - ES07XCH4,Flow In,2050,2.133105995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR01XCH4 - ES04XCH4,Flow In,2050,0.691960296,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES05XCH4 - ES06XCH4,Flow In,2050,1.607008243,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES11XCH4 - ES06XCH4,Flow In,2050,0.021511237,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES07XCH4 - ES08XCH4,Flow In,2050,5.280239124,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES08XCH4 - ES10XCH4,Flow In,2050,0.194561908,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES08XCH4 - PT02XCH4,Flow In,2050,4.734595459,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES09XCH4 - ES10XCH4,Flow In,2050,1.852196333,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ES10XCH4 - ES11XCH4,Flow In,2050,4.553713218,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR02XCH4 - FR03XCH4,Flow In,2050,1.728828109,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR06XCH4 - FR03XCH4,Flow In,2050,5.076531484,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR04XCH4 - FR05XCH4,Flow In,2050,0.202032083,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR08XCH4 - FR04XCH4,Flow In,2050,1.232509176,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR05XCH4 - FR09XCH4,Flow In,2050,27.21955327,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR11XCH4 - FR05XCH4,Flow In,2050,6.762832535,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR07XCH4 - FR06XCH4,Flow In,2050,1.067839543,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR11XCH4 - FR07XCH4,Flow In,2050,4.29135872,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR09XCH4 - FR10XCH4,Flow In,2050,3.231046288,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR09XCH4 - FR13XCH4,Flow In,2050,44.14649516,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR11XCH4 - FR10XCH4,Flow In,2050,4.429634294,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR12XCH4 - CH00XCH4,Flow In,2050,14.00462388,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR13XCH4 - BE01XCH4,Flow In,2050,47.87174847,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR13XCH4 - BE02XCH4,Flow In,2050,26.06350622,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,FR14XCH4 - FR13XCH4,Flow In,2050,16.28254777,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,GR01XCH4 - GR02XCH4,Flow In,2050,5.506056148,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,HR02XCH4 - HR01XCH4,Flow In,2050,4.017210197,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,SI00XCH4 - HR02XCH4,Flow In,2050,8.099614675,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,HU01XCH4 - HU02XCH4,Flow In,2050,5.013876699,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,HU03XCH4 - HU01XCH4,Flow In,2050,6.841599972,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,HU03XCH4 - HU02XCH4,Flow In,2050,5.863726819,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,RO01XCH4 - HU03XCH4,Flow In,2050,8.170366249,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,RS00XCH4 - HU03XCH4,Flow In,2050,1.712142517,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ITCNXCH4 - ITCSXCH4,Flow In,2050,0.70773788,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ITS1XCH4 - ITCSXCH4,Flow In,2050,0.378347164,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ITCNXCH4 - ITN1XCH4,Flow In,2050,6.998645756,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ITS1XCH4 - AL00XCH4,Flow In,2050,18.96789653,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,ITSIXCH4 - ITS1XCH4,Flow In,2050,9.17264234,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,LV00XCH4 - LT00XCH4,Flow In,2050,13.22225826,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE05XCH4 - LUG1XCH4,Flow In,2050,2.477664963,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,EE00XCH4 - LV00XCH4,Flow In,2050,9.982799967,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,AL00CH4M - ME00CH4M,Flow In,2050,1.15668902,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE01XCH4 - NL01XCH4,Flow In,2050,22.39689519,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,NL01XCH4 - NL02XCH4,Flow In,2050,15.69819179,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,NL01XCH4 - NL03XCH4,Flow In,2050,23.95609706,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE03XCH4 - NL02XCH4,Flow In,2050,1.519394561,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,NL02XCH4 - NL03XCH4,Flow In,2050,9.516825801,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,NL02XCH4 - NL04XCH4,Flow In,2050,9.382745415,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,NL04XCH4 - NL03XCH4,Flow In,2050,3.203343232,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,DE03XCH4 - NL04XCH4,Flow In,2050,12.50655853,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,LT00XCH4 - PL01XCH4,Flow In,2050,14.46146317,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,PL02XCH4 - PL01XCH4,Flow In,2050,4.233595875,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,PL01XCH4 - PL05XCH4,Flow In,2050,17.17659375,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,PL02XCH4 - PL03XCH4,Flow In,2050,8.849388855,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,PL02XCH4 - SK00XCH4,Flow In,2050,6.509759414,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,UA01XCH4 - PL02XCH4,Flow In,2050,15.20173238,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,PL04XCH4 - PL03XCH4,Flow In,2050,28.30638592,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,PL05XCH4 - PL04XCH4,Flow In,2050,11.97713496,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,PT01XCH4 - PT02XCH4,Flow In,2050,0.154106062,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,RO02XCH4 - RO01XCH4,Flow In,2050,1.559369412,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,BG01XCH4 - RO03XCH4,Flow In,2050,7.374663828,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,BA00XCH4 - RS00XCH4,Flow In,2050,28.39561657,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,SE03XCH4 - SE04XCH4,Flow In,2050,5.41883508,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,SK00XCH4 - HU03XCH4,Flow In,2050,0.055731945,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,UA01XCH4 - SK00XCH4,Flow In,2050,7.699043351,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,RO01XCH4 - UA01XCH4,Flow In,2050,0.073835697,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,RO03XCH4 - UA01XCH4,Flow In,2050,14.85743649,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,BE01XCH4 - UK01XCH4,Flow In,2050,83.931436,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,NL03XCH4 - UK01XCH4,Flow In,2050,5.713787113,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,UK01XCH4 - UK03XCH4,Flow In,2050,61.58844616,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,UK03XCH4 - UK02XCH4,Flow In,2050,10.15494038,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,UK03XCH4 - UK04XCH4,Flow In,2050,34.04479285,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,UK04XCH4 - UK05XCH4,Flow In,2050,14.98692655,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,IE00XCH4 - UK05XCH4,Flow In,2050,12.47663523,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,UK05XCH4 - UKNIXCH4,Flow In,2050,17.64381366,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,CH4 Interconnection,UKNIXCH4 - IE00XCH4,Flow In,2050,12.6009575,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,AT01 - AT02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,AT01 - ITN1 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,AT02 - AT03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,AT02 - SI00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,AT03 - HU01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,BE01 - BE02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,BE01 - UK01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,BE02 - BE03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,BE02 - NL01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,BE03 - DE03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,BG01 - GR01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,CZ01 - CZ02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,CZ02 - AT03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,CZ02 - PL03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE01 - DE02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE01 - DE03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE01 - DE05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE01 - DE06 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE01 - DE07 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE01 - DKE1 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE01 - DKW1 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE01 - SE04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE02 - DE04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE02 - PL04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE03 - DE05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE04 - CZ01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE04 - DE05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE04 - DE07 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE04 - PL04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE05 - DE06 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE05 - DE07 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE06 - AT01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE06 - DE07 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE07 - AT01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE07 - AT02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DE07 - CZ01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DKE1 - DKW1 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DKE1 - SE04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DKW1 - NL01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DKW1 - SE03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,DKW1 - UK01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,EE00 - FI02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,EE00 - LV00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES01 - ES02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES02 - ES03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES02 - ES04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES02 - ES08 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES02 - PT01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES03 - ES04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES03 - ES05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES03 - ES07 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES03 - ES11 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES04 - ES05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES04 - FR01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES05 - ES06 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES05 - ES11 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES05 - FR01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES06 - ES11 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES06 - FR02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES06 - ITCS e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES07 - ES08 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES07 - ES11 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES08 - ES09 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES08 - ES10 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES08 - PT02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES09 - ES10 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES09 - PT02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ES10 - ES11 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FI01 - FI02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FI01 - SE01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FI01 - SE02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FI01 - SE03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR01 - FR02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR01 - FR04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR01 - FR05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR02 - FR03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR02 - FR05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR03 - FR06 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR03 - FR07 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR04 - FR05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR04 - FR08 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR04 - FR09 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR05 - FR06 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR05 - FR10 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR05 - FR11 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR06 - FR07 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR06 - FR11 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR07 - FR11 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR07 - FR12 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR07 - ITN1 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR08 - FR09 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR08 - IE00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR09 - FR10 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR09 - FR13 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR09 - UK01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR10 - FR11 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR10 - FR12 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR10 - FR13 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR10 - FR14 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR11 - FR12 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR12 - BE03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR12 - DE05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR12 - DE06 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR12 - FR14 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR13 - BE01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR13 - FR14 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR13 - UK01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,FR14 - BE02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,GR01 - GR02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,GR01 - ITS1 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,HR02 - HU01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,HU01 - HR02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,HU01 - HU02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,HU01 - RO01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,HU02 - SI00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ITCN - ITCS e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ITCN - ITN1 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ITCS - ITN1 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ITCS - ITS1 e_kerosene,Flow In,2050,2.78E-14,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ITCS - ITSA e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ITN1 - SI00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ITS1 - ITCA e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ITSI - ITCA e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,ITSI - MT00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,LT00 - LV00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,LT00 - SE04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,LV00 - EE00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,NL01 - DE01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,NL01 - DE03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,NL01 - UK01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PL01 - LT00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PL01 - PL02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PL01 - PL03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PL01 - PL04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PL01 - PL05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PL01 - SE04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PL02 - PL03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PL03 - PL04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PL04 - PL05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,PT01 - PT02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,RO01 - RO02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,RO01 - RO03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,RO02 - BG01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,RO02 - RO03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,RO03 - BG01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,SE01 - SE02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,SE02 - SE03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,SE03 - SE04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,SI00 - HR01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,SI00 - HR02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,SI00 - HU01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UK01 - UK02 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UK01 - UK03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UK02 - UK03 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UK03 - IE00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UK03 - UK04 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UK04 - DE01 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UK04 - IE00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UK04 - UK05 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UK04 - UKNI e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_kerosene,UKNI - IE00 e_kerosene,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,AT01 - AT02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,AT01 - ITN1 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,AT02 - AT03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,AT02 - SI00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,AT03 - HU01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,BE01 - BE02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,BE01 - UK01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,BE02 - BE03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,BE02 - NL01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,BE03 - DE03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,BG01 - GR01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,CZ01 - CZ02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,CZ02 - AT03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,CZ02 - PL03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE01 - DE02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE01 - DE03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE01 - DE05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE01 - DE06 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE01 - DE07 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE01 - DKE1 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE01 - DKW1 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE01 - SE04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE02 - DE04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE02 - PL04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE03 - DE05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE04 - CZ01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE04 - DE05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE04 - DE07 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE04 - PL04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE06 e_m - DE05ethonol,Flow In,2050,2.78E-15,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE05 - DE07 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE06 - AT01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE06 - DE07 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE07 - AT01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE07 - AT02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DE07 - CZ01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DKE1 - DKW1 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DKE1 - SE04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DKW1 - NL01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DKW1 - SE03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,DKW1 - UK01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,EE00 - FI02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,EE00 - LV00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES01 - ES02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES02 - ES03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES02 - ES04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES02 - ES08 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES02 - PT01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES03 - ES04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES03 - ES05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES03 - ES07 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES03 - ES11 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES04 - ES05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES04 - FR01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES05 - ES06 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES05 - ES11 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES05 - FR01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES06 - ES11 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES06 - FR02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES06 - ITCS e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES07 - ES08 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES07 - ES11 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES08 - ES09 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES08 - ES10 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES08 - PT02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES09 - ES10 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES09 - PT02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ES10 - ES11 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FI01 - FI02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FI01 - SE01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FI01 - SE02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FI01 - SE03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR01 - FR02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR01 - FR04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR01 - FR05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR02 - FR03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR02 - FR05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR03 - FR06 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR03 - FR07 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR04 - FR05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR04 - FR08 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR04 - FR09 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR05 - FR06 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR05 - FR10 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR05 - FR11 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR06 - FR07 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR06 - FR11 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR07 - FR11 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR07 - FR12 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR07 - ITN1 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR08 - FR09 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR08 - IE00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR09 - FR10 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR09 - FR13 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR09 - UK01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR10 - FR11 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR10 - FR12 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR10 - FR13 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR10 - FR14 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR11 - FR12 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR12 - BE03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR12 - DE05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR12 - DE06 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR12 - FR14 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR13 - BE01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR13 - FR14 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR13 - UK01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,FR14 - BE02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,GR01 - GR02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,GR01 - ITS1 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,HR02 - HU01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,HU01 - HR02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,HU01 - HU02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,HU01 - RO01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,HU02 - SI00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ITCN - ITCS e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ITCN - ITN1 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ITCS - ITN1 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ITCS - ITS1 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ITCS - ITSA e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ITN1 - SI00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ITS1 - ITCA e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ITSI - ITCA e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,ITSI - MT00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,LT00 - LV00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,LT00 - SE04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,LV00 - EE00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,NL01 - DE01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,NL01 - DE03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,NL01 - UK01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PL01 - LT00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PL01 - PL02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PL01 - PL03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PL01 - PL04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PL01 - PL05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PL01 - SE04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PL02 - PL03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PL03 - PL04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PL04 - PL05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,PT01 - PT02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,RO01 - RO02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,RO01 - RO03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,RO02 - BG01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,RO02 - RO03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,RO03 - BG01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,SE01 - SE02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,SE02 - SE03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,SE03 - SE04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,SI00 - HR01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,SI00 - HR02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,SI00 - HU01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UK01 - UK02 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UK01 - UK03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UK02 - UK03 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UK03 - IE00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UK03 - UK04 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UK04 - DE01 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UK04 - IE00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UK04 - UK05 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UK04 - UKNI e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,e_methonol,UKNI - IE00 e_methonol,Flow In,2050,0,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Natural Gas,BE01NTGS - NOS3Z2MK,Flow In,2050,1.58E-12,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Natural Gas,DE01NTGS - NOS3Z2MK,Flow In,2050,1.77E-12,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Natural Gas,NOS3Z2MK - FI02NTGS,Flow In,2050,5.28E-14,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Natural Gas,NOS3Z2MK - NOS2NTGS,Flow In,2050,2.94E-12,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Natural Gas,PL01NTGS - NOS3Z2MK,Flow In,2050,2.64E-13,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Gas Pipeline,Natural Gas,NOS3Z2MK - UK01NTGS,Flow In,2050,0.105461923,GWh,1,1

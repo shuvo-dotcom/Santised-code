@@ -1,0 +1,1691 @@
+model_name,collection_name,category_name,child_name,property_name,date_string,value,unit_name,interval_id,period_value
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Load,2050,21543.623600182505,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Capacity Factor,2050,41.99293606945186,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Max Load,2050,5872.59277603,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Production Volume,2050,15.080536520127538,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Efficiency,2050,69.99999999999898,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,VO&M Cost,2050,49550.33428041958,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,FO&M Cost,2050,70278.04176903675,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Production Cost,2050,168923.8704196704,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Total Production Cost,2050,168923.8704196704,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Total System Cost,2050,168923.8704196704,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Price Paid,2050,5.541014750101723,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Net Revenue,2050,-168923.8704196704,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,DZ00,Installed Capacity,2050,5872.59277603,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Load,2050,20760.345282753286,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Capacity Factor,2050,41.175475379910985,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Max Load,2050,5771.42857143,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Production Volume,2050,14.532241697927299,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Efficiency,2050,69.99999999999974,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,VO&M Cost,2050,47748.79415033271,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,FO&M Cost,2050,69067.39726029073,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Production Cost,2050,82577.12967910757,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Total Production Cost,2050,82577.12967910757,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Total System Cost,2050,82577.12967910757,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Price Paid,2050,1.6776375852336414,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Net Revenue,2050,-82577.12967910757,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,H2 Imports,MA00,Installed Capacity,2050,5771.42857143,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Load,2050,5251.987895801512,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Capacity Factor,2050,70.4278729646673,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Max Load,2050,853.62380735,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Production Volume,2050,3.6763915270610816,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Efficiency,2050,70.00000000000058,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,VO&M Cost,2050,6092.3059591294905,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,FO&M Cost,2050,10215.42134384776,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Production Cost,2050,120863.29932648511,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Total Production Cost,2050,120863.29932648511,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Total System Cost,2050,120863.29932648511,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Price Paid,2050,21.852867075170597,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Net Revenue,2050,-120863.29932648511,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AL00Z2MK,Installed Capacity,2050,853.62380735,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Load,2050,9378.008149614714,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Capacity Factor,2050,34.0985537990182,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Max Load,2050,3148.19786843,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Production Volume,2050,6.564605704730212,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Efficiency,2050,69.99999999999906,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,VO&M Cost,2050,26727.32322640167,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,FO&M Cost,2050,37674.872025485565,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Production Cost,2050,208204.23867982865,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Total Production Cost,2050,208204.23867982865,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Total System Cost,2050,208204.23867982865,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Price Paid,2050,19.35132840131757,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Net Revenue,2050,-208204.23867982865,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,AT03Z2MK,Installed Capacity,2050,3148.19786843,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Load,2050,28117.641981788456,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Capacity Factor,2050,63.89794955202619,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Max Load,2050,5037.08580911,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Production Volume,2050,19.682349387252533,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Efficiency,2050,70.00000000000234,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,VO&M Cost,2050,98130.57051644102,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,FO&M Cost,2050,60279.42688819728,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Production Cost,2050,739813.1341874057,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Total Production Cost,2050,739813.1341874057,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Total System Cost,2050,739813.1341874057,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Price Paid,2050,22.82135052742253,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Net Revenue,2050,-739813.1341874057,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BE03Z2MK,Installed Capacity,2050,5037.08580911,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Load,2050,27900.18821049828,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Capacity Factor,2050,65.39948440461359,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Max Load,2050,4883.37621007,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Production Volume,2050,19.53013174734861,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Efficiency,2050,69.99999999999935,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,VO&M Cost,2050,32364.218324177982,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,FO&M Cost,2050,58439.96516598928,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Production Cost,2050,640785.5760554061,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Total Production Cost,2050,640785.5760554061,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Total System Cost,2050,640785.5760554061,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Price Paid,2050,21.807070014756793,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Net Revenue,2050,-640785.5760554061,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG01Z2MK,Installed Capacity,2050,4883.37621007,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Load,2050,12669.87208540512,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Capacity Factor,2050,59.30507046579992,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Max Load,2050,2445.50062784,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Production Volume,2050,8.868910459783486,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Efficiency,2050,69.99999999999916,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,VO&M Cost,2050,14697.05161907,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,FO&M Cost,2050,29265.607513440264,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Production Cost,2050,247440.81209956596,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Total Production Cost,2050,247440.81209956596,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Total System Cost,2050,247440.81209956596,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Price Paid,2050,18.36985874139975,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Net Revenue,2050,-247440.81209956596,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,BG02Z2MK,Installed Capacity,2050,2445.50062784,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Load,2050,518.753479866538,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Capacity Factor,2050,75.48981465289032,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Max Load,2050,78.66110422,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Production Volume,2050,0.36312743590668034,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Efficiency,2050,70.00000000002,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,VO&M Cost,2050,601.7540366443485,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,FO&M Cost,2050,941.347132143602,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Production Cost,2050,10065.141637178425,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Total Production Cost,2050,10065.141637178425,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Total System Cost,2050,10065.141637178425,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Price Paid,2050,18.242552518332904,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Net Revenue,2050,-10065.141637178425,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,CY00Z2MK,Installed Capacity,2050,78.66110422,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Load,2050,10995.49115506196,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Capacity Factor,2050,30.609048855091547,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Max Load,2050,4111.99117214,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Production Volume,2050,7.696843808543421,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Efficiency,2050,70.00000000000021,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,VO&M Cost,2050,32986.47346518584,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,FO&M Cost,2050,49208.70531481622,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Production Cost,2050,244257.52518232074,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Total Production Cost,2050,244257.52518232074,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Total System Cost,2050,244257.52518232074,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Price Paid,2050,19.21433510679261,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Net Revenue,2050,-244257.52518232074,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE03Z2MK,Installed Capacity,2050,4111.99117214,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Load,2050,15146.68207769098,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Capacity Factor,2050,28.374193681053214,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Max Load,2050,6110.56482307,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Production Volume,2050,10.60267745438368,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Efficiency,2050,70.00000000000003,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,VO&M Cost,2050,43168.04392141907,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,FO&M Cost,2050,73125.88259498736,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Production Cost,2050,362087.52627438976,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Total Production Cost,2050,362087.52627438976,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Total System Cost,2050,362087.52627438976,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Price Paid,2050,21.055402147952666,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Net Revenue,2050,-362087.52627438976,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DE04Z2MK,Installed Capacity,2050,6110.56482307,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Load,2050,3640.4546171622187,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Capacity Factor,2050,23.855120243698742,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Max Load,2050,1746.87321598,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Production Volume,2050,2.548318232013677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Efficiency,2050,70.00000000000335,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,VO&M Cost,2050,15908.786676999218,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,FO&M Cost,2050,20905.04714356228,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Production Cost,2050,79823.70282340788,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Total Production Cost,2050,79823.70282340788,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Total System Cost,2050,79823.70282340788,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Price Paid,2050,17.55685013764329,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Net Revenue,2050,-79823.70282340788,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKE1Z2MK,Installed Capacity,2050,1746.87321598,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Load,2050,5138.462521737201,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Capacity Factor,2050,31.09060592186628,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Max Load,2050,1891.87039795,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Production Volume,2050,3.5969237652160073,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Efficiency,2050,69.99999999999908,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,VO&M Cost,2050,17933.234200862844,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,FO&M Cost,2050,22640.246296562593,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Production Cost,2050,117841.7041999027,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Total Production Cost,2050,117841.7041999027,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Total System Cost,2050,117841.7041999027,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Price Paid,2050,19.443261398988074,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Net Revenue,2050,-117841.7041999027,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,DKW1Z2MK,Installed Capacity,2050,1891.87039795,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Load,2050,10739.727339978548,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Capacity Factor,2050,80.09538474153908,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Max Load,2050,1534.87544542,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Production Volume,2050,7.517809137984856,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Efficiency,2050,69.99999999999898,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,VO&M Cost,2050,8806.576418782872,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,FO&M Cost,2050,18368.043686559864,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Production Cost,2050,296410.75353020686,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Total Production Cost,2050,296410.75353020686,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Total System Cost,2050,296410.75353020686,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Price Paid,2050,26.77946729995841,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Net Revenue,2050,-296410.75353020686,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,EE00Z2MK,Installed Capacity,2050,1534.87544542,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Load,2050,26801.393401951715,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Capacity Factor,2050,42.349129450427384,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Max Load,2050,7244.36395439,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Production Volume,2050,18.760975381366126,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Efficiency,2050,69.9999999999997,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,VO&M Cost,2050,45026.340915278844,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,FO&M Cost,2050,86694.19658294607,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Production Cost,2050,174554.8107688998,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Total Production Cost,2050,174554.8107688998,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Total System Cost,2050,174554.8107688998,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Price Paid,2050,4.8329005850937845,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Net Revenue,2050,-174554.8107688998,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES01Z2MK,Installed Capacity,2050,7244.36395439,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Load,2050,14752.746943006825,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Capacity Factor,2050,79.67594354846133,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Max Load,2050,2119.49820128,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Production Volume,2050,10.326922860104748,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Efficiency,2050,69.99999999999976,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,VO&M Cost,2050,24342.032455961547,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,FO&M Cost,2050,25364.296282714415,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Production Cost,2050,185667.8312788997,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Total Production Cost,2050,185667.8312788997,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Total System Cost,2050,185667.8312788997,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Price Paid,2050,10.935305773641744,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Net Revenue,2050,-185667.8312788997,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES02Z2MK,Installed Capacity,2050,2119.49820128,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Load,2050,44428.80973632382,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Capacity Factor,2050,57.707000901930826,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Max Load,2050,8812.99551308,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Production Volume,2050,31.100166815426768,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Efficiency,2050,70.0,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,VO&M Cost,2050,73307.53606493448,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,FO&M Cost,2050,105466.20383872263,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Production Cost,2050,413781.8863092599,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Total Production Cost,2050,413781.8863092599,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Total System Cost,2050,413781.8863092599,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Price Paid,2050,7.6633687074889725,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Net Revenue,2050,-413781.8863092599,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES03Z2MK,Installed Capacity,2050,8812.99551308,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Load,2050,44476.93213612819,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Capacity Factor,2050,49.557118099255575,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Max Load,2050,10273.44630187,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Production Volume,2050,31.133852495289915,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Efficiency,2050,70.00000000000051,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,VO&M Cost,2050,73386.93802461168,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,FO&M Cost,2050,122943.59848375016,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Production Cost,2050,354253.23920225,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Total Production Cost,2050,354253.23920225,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Total System Cost,2050,354253.23920225,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Price Paid,2050,6.314875772411775,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Net Revenue,2050,-354253.23920225,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES04Z2MK,Installed Capacity,2050,10273.44630187,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Load,2050,859.6044187080712,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Capacity Factor,2050,56.63055463255869,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Max Load,2050,173.75415505,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Production Volume,2050,0.6017230930955868,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Efficiency,2050,69.99999999999268,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,VO&M Cost,2050,1418.347290868658,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,FO&M Cost,2050,2079.337395229642,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Production Cost,2050,9894.30128886703,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Total Production Cost,2050,9894.30128886703,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Total System Cost,2050,9894.30128886703,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Price Paid,2050,9.860295984445429,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Net Revenue,2050,-9894.30128886703,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES07Z2MK,Installed Capacity,2050,173.75415505,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Load,2050,940.0359441830417,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Capacity Factor,2050,76.27666287185995,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Max Load,2050,141.07178138,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Production Volume,2050,0.6580251609280108,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Efficiency,2050,69.99999999998755,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,VO&M Cost,2050,1551.0593079022328,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,FO&M Cost,2050,1688.2234001869488,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Production Cost,2050,11964.295246619191,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Total Production Cost,2050,11964.295246619191,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Total System Cost,2050,11964.295246619191,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Price Paid,2050,11.07748698669943,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Net Revenue,2050,-11964.295246619191,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES08Z2MK,Installed Capacity,2050,141.07178138,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Load,2050,30665.921012019327,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Capacity Factor,2050,67.36837114572913,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Max Load,2050,5210.59526368,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Production Volume,2050,21.46614470841354,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Efficiency,2050,69.99999999999997,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,VO&M Cost,2050,50598.76966983191,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,FO&M Cost,2050,62355.83592261323,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Production Cost,2050,360716.92916841037,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Total Production Cost,2050,360716.92916841037,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Total System Cost,2050,360716.92916841037,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Price Paid,2050,10.112794570136334,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Net Revenue,2050,-360716.92916841037,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ES11Z2MK,Installed Capacity,2050,5210.59526368,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Load,2050,62854.46271440302,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Capacity Factor,2050,54.70109549081318,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Max Load,2050,13153.08022474,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Production Volume,2050,43.998123900082085,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Efficiency,2050,70.00000000000003,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,VO&M Cost,2050,158393.24604029587,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,FO&M Cost,2050,157404.5326620926,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Production Cost,2050,2124370.386325963,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Total Production Cost,2050,2124370.386325963,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Total System Cost,2050,2124370.386325963,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Price Paid,2050,31.278242711557947,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Net Revenue,2050,-2124370.386325963,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI01Z2MK,Installed Capacity,2050,13153.08022474,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Load,2050,41329.87050029674,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Capacity Factor,2050,37.769916747314525,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Max Load,2050,12525.79765125,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Production Volume,2050,28.930909350207525,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Efficiency,2050,69.99999999999952,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,VO&M Cost,2050,104151.27366074783,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,FO&M Cost,2050,149897.764768929,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Production Cost,2050,1350375.6941125807,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Total Production Cost,2050,1350375.6941125807,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Total System Cost,2050,1350375.6941125807,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Price Paid,2050,30.153116991810688,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Net Revenue,2050,-1350375.6941125807,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FI02Z2MK,Installed Capacity,2050,12525.79765125,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Load,2050,18518.154340031204,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Capacity Factor,2050,35.123887859785754,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Max Load,2050,6035.07250628,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Production Volume,2050,12.962708038021757,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Efficiency,2050,69.99999999999947,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,VO&M Cost,2050,37036.30868006249,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,FO&M Cost,2050,72222.45673268785,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Production Cost,2050,212242.81047065987,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Total Production Cost,2050,212242.81047065987,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Total System Cost,2050,212242.81047065987,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Price Paid,2050,9.461337159926813,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Net Revenue,2050,-212242.81047065987,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR01Z2MK,Installed Capacity,2050,6035.07250628,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Load,2050,9658.306935868895,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Capacity Factor,2050,54.030570147010295,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Max Load,2050,2046.20351892,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Production Volume,2050,6.760814855108154,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Efficiency,2050,69.99999999999926,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,VO&M Cost,2050,19316.61387173774,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,FO&M Cost,2050,24487.1697825811,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Production Cost,2050,153474.71397942692,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Total Production Cost,2050,153474.71397942692,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Total System Cost,2050,153474.71397942692,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Price Paid,2050,13.890436594995206,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Net Revenue,2050,-153474.71397942692,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR02Z2MK,Installed Capacity,2050,2046.20351892,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Load,2050,6470.259237718214,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Capacity Factor,2050,25.62669632627149,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Max Load,2050,2890.12371447,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Production Volume,2050,4.52918146640275,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Efficiency,2050,69.99999999999997,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,VO&M Cost,2050,13846.354768716992,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,FO&M Cost,2050,34586.46680768556,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Production Cost,2050,83478.8561331761,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Total Production Cost,2050,83478.8561331761,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Total System Cost,2050,83478.8561331761,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Price Paid,2050,10.761933765889669,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Net Revenue,2050,-83478.8561331761,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR04Z2MK,Installed Capacity,2050,2890.12371447,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Load,2050,33638.36391818142,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Capacity Factor,2050,22.273602576452866,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Max Load,2050,17287.48327572,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Production Volume,2050,23.54685474272688,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Efficiency,2050,69.99999999999963,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,VO&M Cost,2050,71986.09878490836,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,FO&M Cost,2050,206881.4436940959,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Production Cost,2050,410530.598996489,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Total Production Cost,2050,410530.598996489,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Total System Cost,2050,410530.598996489,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Price Paid,2050,10.064237994303824,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Net Revenue,2050,-410530.598996489,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR05Z2MK,Installed Capacity,2050,17287.48327572,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Load,2050,2940.4536513969106,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Capacity Factor,2050,25.77274435442403,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Max Load,2050,1305.9935949,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Production Volume,2050,2.0583175559778737,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Efficiency,2050,70.00000000000126,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,VO&M Cost,2050,6292.57081398952,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,FO&M Cost,2050,15628.986363077234,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Production Cost,2050,43725.80832909816,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Total Production Cost,2050,43725.80832909816,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Total System Cost,2050,43725.80832909816,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Price Paid,2050,12.730429366681372,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Net Revenue,2050,-43725.80832909816,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR09Z2MK,Installed Capacity,2050,1305.9935949,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Load,2050,5268.305035637306,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Capacity Factor,2050,17.12844964800678,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Max Load,2050,3520.79089175,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Production Volume,2050,3.68781352494615,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Efficiency,2050,70.0000000000006,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,VO&M Cost,2050,11274.17277626362,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,FO&M Cost,2050,42133.73867168271,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Production Cost,2050,43373.43764070945,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Total Production Cost,2050,43373.43764070945,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Total System Cost,2050,43373.43764070945,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Price Paid,2050,6.092901729742524,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Net Revenue,2050,-43373.43764070945,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR10Z2MK,Installed Capacity,2050,3520.79089175,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Load,2050,60349.3435892935,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Capacity Factor,2050,60.01339084835117,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Max Load,2050,11510.96569358,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Production Volume,2050,42.24454051250533,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Efficiency,2050,69.99999999999972,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,VO&M Cost,2050,129147.59528108794,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,FO&M Cost,2050,137753.14561522685,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Production Cost,2050,1492371.402108614,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Total Production Cost,2050,1492371.402108614,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Total System Cost,2050,1492371.402108614,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Price Paid,2050,22.588875466565504,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Net Revenue,2050,-1492371.402108614,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR13Z2MK,Installed Capacity,2050,11510.96569358,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Load,2050,31.07900972211011,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Capacity Factor,2050,77.05481682138878,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Max Load,2050,4.61694557,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Production Volume,2050,0.02175530680548046,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Efficiency,2050,70.00000000001172,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,VO&M Cost,2050,59.05011847155982,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,FO&M Cost,2050,55.251556847760355,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Production Cost,2050,116.69162329408006,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Total Production Cost,2050,116.69162329408006,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Total System Cost,2050,116.69162329408006,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Price Paid,2050,1.854676366387993,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Net Revenue,2050,-116.69162329408006,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,FR15Z2MK,Installed Capacity,2050,4.61694557,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Load,2050,19248.75256542236,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Capacity Factor,2050,61.93874371273656,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Max Load,2050,3557.35799038,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Production Volume,2050,13.474126795795675,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Efficiency,2050,70.00000000000014,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,VO&M Cost,2050,22328.55297589,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,FO&M Cost,2050,42571.34164925817,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Production Cost,2050,417856.83399036125,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Total Production Cost,2050,417856.83399036125,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Total System Cost,2050,417856.83399036125,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Price Paid,2050,20.548255252913435,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Net Revenue,2050,-417856.83399036125,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR01Z2MK,Installed Capacity,2050,3557.35799038,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Load,2050,13804.070907315929,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Capacity Factor,2050,60.19495240740981,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Max Load,2050,2625.03126693,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Production Volume,2050,9.66284963512117,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Efficiency,2050,70.00000000000011,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,VO&M Cost,2050,16012.722252486441,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,FO&M Cost,2050,31414.072805344105,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Production Cost,2050,285353.05424936506,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Total Production Cost,2050,285353.05424936506,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Total System Cost,2050,285353.05424936506,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Price Paid,2050,19.51165955356927,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Net Revenue,2050,-285353.05424936506,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR02Z2MK,Installed Capacity,2050,2625.03126693,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Load,2050,4163.175227780943,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Capacity Factor,2050,65.19032384724005,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Max Load,2050,731.0194409,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Production Volume,2050,2.914222659446562,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Efficiency,2050,69.99999999999766,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,VO&M Cost,2050,4829.28326422588,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,FO&M Cost,2050,8748.199774936402,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Production Cost,2050,459731.0530749399,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Total Production Cost,2050,459731.0530749399,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Total System Cost,2050,459731.0530749399,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Price Paid,2050,109.26798535289778,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Net Revenue,2050,-459731.0530749399,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,GR03Z2MK,Installed Capacity,2050,731.0194409,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Load,2050,3931.2374403473377,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Capacity Factor,2050,56.12036108750475,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Max Load,2050,801.85564924,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Production Volume,2050,2.751866208243229,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Efficiency,2050,70.00000000000233,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,VO&M Cost,2050,6604.478899783679,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,FO&M Cost,2050,9595.905413370676,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Production Cost,2050,79365.84378534862,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Total Production Cost,2050,79365.84378534862,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Total System Cost,2050,79365.84378534862,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Price Paid,2050,18.508514428255026,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Net Revenue,2050,-79365.84378534862,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HR01Z2MK,Installed Capacity,2050,801.85564924,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Load,2050,792.2577897152811,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Capacity Factor,2050,67.03231186946951,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Max Load,2050,135.29124541,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Production Volume,2050,0.5545804528008053,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Efficiency,2050,70.00000000001361,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,VO&M Cost,2050,974.477081349292,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,FO&M Cost,2050,1619.0470135658013,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Production Cost,2050,18954.635579069603,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Total Production Cost,2050,18954.635579069603,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Total System Cost,2050,18954.635579069603,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Price Paid,2050,22.694833337241896,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Net Revenue,2050,-18954.635579069603,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU01Z2MK,Installed Capacity,2050,135.29124541,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Load,2050,4092.503915716092,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Capacity Factor,2050,62.39437603729163,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Max Load,2050,750.81170102,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Production Volume,2050,2.8647527410013267,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Efficiency,2050,70.00000000000145,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,VO&M Cost,2050,5033.77981633064,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,FO&M Cost,2050,8985.056191933676,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Production Cost,2050,121019.9754297159,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Total Production Cost,2050,121019.9754297159,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Total System Cost,2050,121019.9754297159,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Price Paid,2050,28.341132470997366,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Net Revenue,2050,-121019.9754297159,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,HU02Z2MK,Installed Capacity,2050,750.81170102,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Load,2050,53448.371526987285,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Capacity Factor,2050,71.34014077550502,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Max Load,2050,8576.06156912,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Production Volume,2050,37.41386006889106,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Efficiency,2050,69.99999999999974,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,VO&M Cost,2050,98879.4873249268,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,FO&M Cost,2050,102630.78612031683,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Production Cost,2050,1332317.8820507936,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Total Production Cost,2050,1332317.8820507936,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Total System Cost,2050,1332317.8820507936,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Price Paid,2050,23.077193177028306,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Net Revenue,2050,-1332317.8820507936,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,IE00Z2MK,Installed Capacity,2050,8576.06156912,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Load,2050,24.801710861749996,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Capacity Factor,2050,55.136230793699426,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Max Load,2050,5.14910729,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Production Volume,2050,0.01736119760324166,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Efficiency,2050,70.0000000000673,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,VO&M Cost,2050,31.99420701192999,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,FO&M Cost,2050,61.620001759679695,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Production Cost,2050,636.2231499003201,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Total Production Cost,2050,636.2231499003201,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Total System Cost,2050,636.2231499003201,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Price Paid,2050,24.362389605168378,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Net Revenue,2050,-636.2231499003201,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITCAZ2MK,Installed Capacity,2050,5.14910729,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Load,2050,21398.178664050116,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Capacity Factor,2050,73.08255922354108,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Max Load,2050,3351.58653364,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Production Volume,2050,14.978725064835066,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Efficiency,2050,70.00000000000018,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,VO&M Cost,2050,8559.271465619313,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,FO&M Cost,2050,40108.84925736812,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Production Cost,2050,538442.6394529261,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Total Production Cost,2050,538442.6394529261,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Total System Cost,2050,538442.6394529261,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Price Paid,2050,24.76301260525205,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Net Revenue,2050,-538442.6394529261,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITN1Z2MK,Installed Capacity,2050,3351.58653364,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Load,2050,24.079076029679964,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Capacity Factor,2050,62.66590598396388,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Max Load,2050,4.39841162,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Production Volume,2050,0.01685535322086945,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Efficiency,2050,70.00000000038817,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,VO&M Cost,2050,39.24889392798004,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,FO&M Cost,2050,52.63633412492014,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Production Cost,2050,513.8741101000701,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Total Production Cost,2050,513.8741101000701,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Total System Cost,2050,513.8741101000701,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Price Paid,2050,19.711105840883377,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Net Revenue,2050,-513.8741101000701,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ITSAZ2MK,Installed Capacity,2050,4.39841162,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Load,2050,7260.341942820681,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Capacity Factor,2050,57.10941366433134,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Max Load,2050,1455.24712044,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Production Volume,2050,5.082239359974315,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Efficiency,2050,69.99999999999761,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,VO&M Cost,2050,10309.685558805571,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,FO&M Cost,2050,17415.121704332963,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Production Cost,2050,172128.97363812843,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Total Production Cost,2050,172128.97363812843,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Total System Cost,2050,172128.97363812843,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Price Paid,2050,22.28810837750369,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Net Revenue,2050,-172128.97363812843,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LT00Z2MK,Installed Capacity,2050,1455.24712044,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Load,2050,1192.7240735795708,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Capacity Factor,2050,27.81196427488378,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Max Load,2050,490.90301202,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Production Volume,2050,0.8349068515050173,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Efficiency,2050,69.99999999994262,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,VO&M Cost,2050,3578.1722207385633,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,FO&M Cost,2050,5874.696867133643,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Production Cost,2050,19136.24031536594,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Total Production Cost,2050,19136.24031536594,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Total System Cost,2050,19136.24031536594,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Price Paid,2050,13.044146956751545,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Net Revenue,2050,-19136.24031536594,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LUG1Z2MK,Installed Capacity,2050,490.90301202,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Load,2050,3542.9169787826254,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Capacity Factor,2050,78.72220907034213,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Max Load,2050,515.17060847,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Production Volume,2050,2.4800418851480983,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Efficiency,2050,70.00000000000676,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,VO&M Cost,2050,2905.1919226018717,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,FO&M Cost,2050,6165.110185743596,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Production Cost,2050,94589.16728438082,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Total Production Cost,2050,94589.16728438082,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Total System Cost,2050,94589.16728438082,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Price Paid,2050,25.878104372991064,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Net Revenue,2050,-94589.16728438082,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,LV00Z2MK,Installed Capacity,2050,515.17060847,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Load,2050,1578.32817655516,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Capacity Factor,2050,42.056023885693804,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Max Load,2050,429.59228533,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Production Volume,2050,1.1048297235883975,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Efficiency,2050,69.9999999999864,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,VO&M Cost,2050,2651.591336612639,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,FO&M Cost,2050,5140.983841975826,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Production Cost,2050,16166.700383956317,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Total Production Cost,2050,16166.700383956317,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Total System Cost,2050,16166.700383956317,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Price Paid,2050,8.562927056679388,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Net Revenue,2050,-16166.700383956317,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,ME00Z2MK,Installed Capacity,2050,429.59228533,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Load,2050,1202.5771938360697,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Capacity Factor,2050,52.30723112764956,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Max Load,2050,263.17134906,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Production Volume,2050,0.841804035685099,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Efficiency,2050,69.99999999998732,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,VO&M Cost,2050,1394.9895448500608,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,FO&M Cost,2050,3149.4039799840857,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Production Cost,2050,19085.457815875518,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Total Production Cost,2050,19085.457815875518,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Total System Cost,2050,19085.457815875518,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Price Paid,2050,14.710463795338734,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Net Revenue,2050,-19085.457815875518,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,MK00Z2MK,Installed Capacity,2050,263.17134906,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Load,2050,28648.128691660466,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Capacity Factor,2050,33.92715747644943,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Max Load,2050,9665.76337192,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Production Volume,2050,20.053690084162167,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Efficiency,2050,69.99999999999947,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,VO&M Cost,2050,104565.66972456065,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,FO&M Cost,2050,115671.38194122475,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Production Cost,2050,697027.855019257,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Total Production Cost,2050,697027.855019257,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Total System Cost,2050,697027.855019257,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Price Paid,2050,20.680659168749212,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Net Revenue,2050,-697027.855019257,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NL01Z2MK,Installed Capacity,2050,9665.76337192,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Load,2050,88712.21904422558,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Capacity Factor,2050,87.97463966524957,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Max Load,2050,11542.85714338,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Production Volume,2050,62.09855333096481,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Efficiency,2050,70.00000000000797,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,VO&M Cost,2050,387672.3972232655,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,FO&M Cost,2050,138134.79452058146,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Production Cost,2050,4061691.849391777,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Total Production Cost,2050,4061691.849391777,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Total System Cost,2050,4061691.849391777,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Price Paid,2050,41.415032695066685,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Net Revenue,2050,-4061691.849391777,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS1Z2MK,Installed Capacity,2050,11542.85714286,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Load,2050,7503.756979805462,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Capacity Factor,2050,29.85838209107868,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Max Load,2050,2876.73504299,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Production Volume,2050,5.252629885863992,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Efficiency,2050,70.00000000000217,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,VO&M Cost,2050,26188.11185952082,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,FO&M Cost,2050,34426.242919202625,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Production Cost,2050,182863.99712330417,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Total Production Cost,2050,182863.99712330417,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Total System Cost,2050,182863.99712330417,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Price Paid,2050,20.8796587743231,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Net Revenue,2050,-182863.99712330417,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,NOS2Z2MK,Installed Capacity,2050,2876.73504247,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Load,2050,16933.49544338436,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Capacity Factor,2050,61.69845707274399,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Max Load,2050,3141.66364421,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Production Volume,2050,11.853446810369121,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Efficiency,2050,70.00000000000038,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,VO&M Cost,2050,24045.563529605974,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,FO&M Cost,2050,37596.67615865621,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Production Cost,2050,466081.6119823831,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Total Production Cost,2050,466081.6119823831,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Total System Cost,2050,466081.6119823831,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Price Paid,2050,26.10424114328226,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Net Revenue,2050,-466081.6119823831,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL02Z2MK,Installed Capacity,2050,3141.66364421,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Load,2050,36640.49093311881,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Capacity Factor,2050,48.29540544802889,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Max Load,2050,8684.46046117,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Production Volume,2050,25.64834365318305,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Efficiency,2050,69.99999999999974,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,VO&M Cost,2050,52029.49712502858,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,FO&M Cost,2050,103928.00902572856,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Production Cost,2050,939619.037826575,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Total Production Cost,2050,939619.037826575,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Total System Cost,2050,939619.037826575,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Price Paid,2050,24.224280791479995,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Net Revenue,2050,-939619.037826575,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL03Z2MK,Installed Capacity,2050,8684.46046117,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Load,2050,28667.865480329427,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Capacity Factor,2050,61.97059054636159,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Max Load,2050,5295.37959756,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Production Volume,2050,20.06750583623041,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Efficiency,2050,69.99999999999932,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,VO&M Cost,2050,40708.36898206756,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,FO&M Cost,2050,63370.46049901868,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Production Cost,2050,726746.899207693,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Total Production Cost,2050,726746.899207693,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Total System Cost,2050,726746.899207693,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Price Paid,2050,23.93057588108026,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Net Revenue,2050,-726746.899207693,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PL05Z2MK,Installed Capacity,2050,5295.37959756,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Load,2050,20263.26715972721,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Capacity Factor,2050,52.32788131413826,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Max Load,2050,4432.65258205,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Production Volume,2050,14.184287011809195,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Efficiency,2050,70.00000000000082,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,VO&M Cost,2050,34042.28882834178,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,FO&M Cost,2050,53046.09994080513,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Production Cost,2050,180917.84701887486,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Total Production Cost,2050,180917.84701887486,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Total System Cost,2050,180917.84701887486,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Price Paid,2050,7.248365085095691,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Net Revenue,2050,-180917.84701887486,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT01Z2MK,Installed Capacity,2050,4432.65258205,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Load,2050,15764.968302190884,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Capacity Factor,2050,41.9673761480967,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Max Load,2050,4300.00201483,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Production Volume,2050,11.035477811533712,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Efficiency,2050,70.00000000000051,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,VO&M Cost,2050,26485.14674768076,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,FO&M Cost,2050,51458.654248703744,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Production Cost,2050,119268.35232968682,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Total Production Cost,2050,119268.35232968682,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Total System Cost,2050,119268.35232968682,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Price Paid,2050,5.885403877983791,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Net Revenue,2050,-119268.35232968682,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,PT02Z2MK,Installed Capacity,2050,4300.00201483,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Load,2050,3808.5259880783437,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Capacity Factor,2050,49.62285045044855,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Max Load,2050,878.54212565,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Production Volume,2050,2.665968191654784,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Efficiency,2050,69.99999999999854,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,VO&M Cost,2050,4684.486965336636,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,FO&M Cost,2050,10513.621931066775,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Production Cost,2050,73116.2891153159,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Total Production Cost,2050,73116.2891153159,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Total System Cost,2050,73116.2891153159,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Price Paid,2050,17.96805440324904,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Net Revenue,2050,-73116.2891153159,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RO02Z2MK,Installed Capacity,2050,878.54212565,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Load,2050,3981.767646673821,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Capacity Factor,2050,42.18172562313422,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Max Load,2050,1080.53526587,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Production Volume,2050,2.7872373526714807,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Efficiency,2050,69.9999999999952,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,VO&M Cost,2050,4897.574205408993,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,FO&M Cost,2050,12930.89874286394,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Production Cost,2050,56104.31932274311,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Total Production Cost,2050,56104.31932274311,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Total System Cost,2050,56104.31932274311,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Price Paid,2050,12.860304684054075,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Net Revenue,2050,-56104.31932274311,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,RS00Z2MK,Installed Capacity,2050,1080.53526583,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Load,2050,87.0963566357099,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Capacity Factor,2050,37.22972694844606,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Max Load,2050,26.77919464,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Production Volume,2050,0.06096744964501677,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Efficiency,2050,70.0000000000224,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,VO&M Cost,2050,219.48281872208034,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,FO&M Cost,2050,320.4699238031185,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Production Cost,2050,1630.433526699111,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Total Production Cost,2050,1630.433526699111,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Total System Cost,2050,1630.433526699111,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Price Paid,2050,16.199882090116265,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Net Revenue,2050,-1630.433526699111,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE01Z2MK,Installed Capacity,2050,26.77919464,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Load,2050,3419.8540581528505,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Capacity Factor,2050,23.97444361711193,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Max Load,2050,1632.85045083,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Production Volume,2050,2.3938978407070235,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Efficiency,2050,70.00000000000082,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,VO&M Cost,2050,12311.474609350264,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,FO&M Cost,2050,19540.522655413944,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Production Cost,2050,90565.37565612647,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Total Production Cost,2050,90565.37565612647,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Total System Cost,2050,90565.37565612647,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Price Paid,2050,22.882234070843094,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Net Revenue,2050,-90565.37565612647,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SE02Z2MK,Installed Capacity,2050,1632.85045083,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Load,2050,7051.7309782185885,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Capacity Factor,2050,65.9295535614497,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Max Load,2050,1224.34264152,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Production Volume,2050,4.936211684752971,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Efficiency,2050,69.99999999999923,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,VO&M Cost,2050,8673.62910320885,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,FO&M Cost,2050,14651.859337424374,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Production Cost,2050,176674.05333981573,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Total Production Cost,2050,176674.05333981573,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Total System Cost,2050,176674.05333981573,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Price Paid,2050,23.82399793122096,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Net Revenue,2050,-176674.05333981573,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,SK00Z2MK,Installed Capacity,2050,1224.34264152,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Load,2050,8182.918124677337,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Capacity Factor,2050,50.357856667835534,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Max Load,2050,1860.06595148,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Production Volume,2050,5.7280426872741526,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Efficiency,2050,70.00000000000009,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,VO&M Cost,2050,11619.743737041814,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,FO&M Cost,2050,22259.638564559766,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Production Cost,2050,149639.5599082186,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Total Production Cost,2050,149639.5599082186,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Total System Cost,2050,149639.5599082186,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Price Paid,2050,16.866821110545928,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Net Revenue,2050,-149639.5599082186,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UA01Z2MK,Installed Capacity,2050,1860.06595148,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Load,2050,75802.15919543465,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Capacity Factor,2050,76.59336612525652,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Max Load,2050,11328.64048983,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Production Volume,2050,53.06151143680425,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Efficiency,2050,70.00000000000028,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,VO&M Cost,2050,140233.99451155387,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,FO&M Cost,2050,135571.2374234977,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Production Cost,2050,1925228.9603621394,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Total Production Cost,2050,1925228.9603621394,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Total System Cost,2050,1925228.9603621394,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Price Paid,2050,23.548075474320978,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Net Revenue,2050,-1925228.9603621394,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK02Z2MK,Installed Capacity,2050,11328.64048983,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Load,2050,44382.674121855474,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Capacity Factor,2050,73.15279238902676,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Max Load,2050,6944.96292336,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Production Volume,2050,31.067871885298498,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Efficiency,2050,69.99999999999963,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,VO&M Cost,2050,82107.94712543162,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,FO&M Cost,2050,83111.22753215519,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Production Cost,2050,1086234.2837861213,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Total Production Cost,2050,1086234.2837861213,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Total System Cost,2050,1086234.2837861213,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Price Paid,2050,22.624286538116102,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Net Revenue,2050,-1086234.2837861213,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK03Z2MK,Installed Capacity,2050,6944.96292336,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Load,2050,30367.11071065118,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Capacity Factor,2050,61.12992860370447,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Max Load,2050,5686.39414383,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Production Volume,2050,21.256977497455914,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Efficiency,2050,70.00000000000037,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,VO&M Cost,2050,56179.15481470453,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,FO&M Cost,2050,68049.77978150402,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Production Cost,2050,720780.3389750994,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Total Production Cost,2050,720780.3389750994,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Total System Cost,2050,720780.3389750994,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Price Paid,2050,21.885558705039653,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Net Revenue,2050,-720780.3389750994,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UK05Z2MK,Installed Capacity,2050,5686.39414383,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Load,2050,5666.611707191488,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Capacity Factor,2050,65.3002636409384,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Max Load,2050,993.33535784,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Production Volume,2050,3.96662819503412,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Efficiency,2050,70.0000000000013,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,VO&M Cost,2050,10483.23165830463,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,FO&M Cost,2050,11887.366693274796,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Production Cost,2050,134034.53755284287,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Total Production Cost,2050,134034.53755284287,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Total System Cost,2050,134034.53755284287,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Price Paid,2050,21.803383093593595,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Net Revenue,2050,-134034.53755284287,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Hydrogen Market,UKNIZ2MK,Installed Capacity,2050,993.33535784,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Load,2050,2877.1007395881984,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Capacity Factor,2050,59.959693735038826,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Max Load,2050,549.26640566,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Production Volume,2050,2.0139705177117913,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Efficiency,2050,70.00000000000175,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,VO&M Cost,2050,10041.081581162798,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,FO&M Cost,2050,6573.138794309405,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Production Cost,2050,73951.06262800345,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Total Production Cost,2050,73951.06262800345,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Total System Cost,2050,73951.06262800345,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Price Paid,2050,22.21332752359172,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Net Revenue,2050,-73951.06262800345,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE01Z2DR,Installed Capacity,2050,549.26640566,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Load,2050,1063.9612205238006,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Capacity Factor,2050,24.8165846913671,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Max Load,2050,490.76226349,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Production Volume,2050,0.7447728543667398,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Efficiency,2050,70.00000000000719,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,VO&M Cost,2050,3713.224659627988,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,FO&M Cost,2050,5873.012512123138,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Production Cost,2050,38042.10512226491,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Total Production Cost,2050,38042.10512226491,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Total System Cost,2050,38042.10512226491,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Price Paid,2050,32.26516136155451,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Net Revenue,2050,-38042.10512226491,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE02Z2DR,Installed Capacity,2050,490.76226349,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Load,2050,1102.7822368843993,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Capacity Factor,2050,28.57896420204162,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Max Load,2050,441.70330849,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Production Volume,2050,0.7719475658192294,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Efficiency,2050,70.00000000001374,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,VO&M Cost,2050,3848.7100067264078,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,FO&M Cost,2050,5285.917949271995,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Production Cost,2050,36253.20893510281,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Total Production Cost,2050,36253.20893510281,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Total System Cost,2050,36253.20893510281,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Price Paid,2050,29.384313461491903,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Net Revenue,2050,-36253.20893510281,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BE03Z2DR,Installed Capacity,2050,441.70330849,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Load,2050,668.43888872112,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Capacity Factor,2050,25.706083714013655,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Max Load,2050,297.65498864,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Production Volume,2050,0.46790722210480573,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Efficiency,2050,70.00000000000323,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,VO&M Cost,2050,775.3891109164406,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,FO&M Cost,2050,3562.0739462453553,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Production Cost,2050,24085.355011372332,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Total Production Cost,2050,24085.355011372332,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Total System Cost,2050,24085.355011372332,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Price Paid,2050,34.87224680337377,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Net Revenue,2050,-24085.355011372332,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG01Z2DR,Installed Capacity,2050,297.65498864,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Load,2050,657.01858580439,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Capacity Factor,2050,27.138254296152258,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Max Load,2050,277.12973219,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Production Volume,2050,0.45991301006303614,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Efficiency,2050,69.99999999999437,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,VO&M Cost,2050,762.1415595331204,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,FO&M Cost,2050,3316.4456717974526,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Production Cost,2050,22920.14333145486,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Total Production Cost,2050,22920.14333145486,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Total System Cost,2050,22920.14333145486,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Price Paid,2050,33.725076049094625,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Net Revenue,2050,-22920.14333145486,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,BG02Z2DR,Installed Capacity,2050,277.12973219,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Load,2050,214.12766113724,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Capacity Factor,2050,48.613249804204685,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Max Load,2050,50.42030788,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Production Volume,2050,0.14988936279746362,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Efficiency,2050,70.00000000065229,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,VO&M Cost,2050,248.38808691964044,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,FO&M Cost,2050,603.3860406027989,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Production Cost,2050,6818.334887116015,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Total Production Cost,2050,6818.334887116015,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Total System Cost,2050,6818.334887116015,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Price Paid,2050,30.682382487639508,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Net Revenue,2050,-6818.334887116015,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CY00Z2DR,Installed Capacity,2050,50.42030788,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Load,2050,1063.2132448141099,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Capacity Factor,2050,21.414258056370343,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Max Load,2050,568.335417,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Production Volume,2050,0.7442492713697944,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Efficiency,2050,69.99999999999221,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,VO&M Cost,2050,3285.3289264755185,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,FO&M Cost,2050,6801.340003989395,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Production Cost,2050,41378.2448093931,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Total Production Cost,2050,41378.2448093931,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Total System Cost,2050,41378.2448093931,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Price Paid,2050,35.82810510376759,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Net Revenue,2050,-41378.2448093931,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ01Z2DR,Installed Capacity,2050,568.335417,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Load,2050,977.2859332095401,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Capacity Factor,2050,23.295758492147,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Max Load,2050,480.21106964,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Production Volume,2050,0.6841001532467887,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Efficiency,2050,70.00000000001131,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,VO&M Cost,2050,2785.2649096474283,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,FO&M Cost,2050,5746.745074484992,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Production Cost,2050,38663.96913348791,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Total Production Cost,2050,38663.96913348791,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Total System Cost,2050,38663.96913348791,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Price Paid,2050,36.71259659494943,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Net Revenue,2050,-38663.96913348791,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,CZ02Z2DR,Installed Capacity,2050,480.21106964,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Load,2050,242.25904742626997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Capacity Factor,2050,15.143457764529817,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Max Load,2050,183.12276164,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Production Volume,2050,0.16958133319841948,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Efficiency,2050,70.00000000001253,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,VO&M Cost,2050,1058.6720372529799,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,FO&M Cost,2050,2191.452665325551,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Production Cost,2050,4043.1088962042595,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Total Production Cost,2050,4043.1088962042595,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Total System Cost,2050,4043.1088962042595,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Price Paid,2050,12.319196705582412,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Net Revenue,2050,-4043.1088962042595,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,DKE1Z2DR,Installed Capacity,2050,183.12276164,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Load,2050,1203.2418406734612,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Capacity Factor,2050,37.40778462637211,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Max Load,2050,368.19535976,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Production Volume,2050,0.8422692884713334,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Efficiency,2050,69.99999999999257,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,VO&M Cost,2050,986.6583093522397,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,FO&M Cost,2050,4406.239264197665,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Production Cost,2050,17600.709944005925,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Total Production Cost,2050,17600.709944005925,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Total System Cost,2050,17600.709944005925,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Price Paid,2050,13.807740948697942,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Net Revenue,2050,-17600.709944005925,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,EE00Z2DR,Installed Capacity,2050,368.19535976,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Load,2050,234.06404801534993,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Capacity Factor,2050,22.414229124456423,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Max Load,2050,119.53587893,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Production Volume,2050,0.1638448336107083,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Efficiency,2050,69.99999999998441,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,VO&M Cost,2050,393.22760066569015,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,FO&M Cost,2050,1430.5006004562103,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Production Cost,2050,739.9335650966195,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Total Production Cost,2050,739.9335650966195,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Total System Cost,2050,739.9335650966195,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Price Paid,2050,1.4812439901416778,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Net Revenue,2050,-739.9335650966195,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES01Z2DR,Installed Capacity,2050,119.53587893,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Load,2050,435.03541455747984,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Capacity Factor,2050,13.139202308540268,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Max Load,2050,379.00329669,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Production Volume,2050,0.30452479019023326,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Efficiency,2050,69.99999999999932,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,VO&M Cost,2050,717.8084340199702,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,FO&M Cost,2050,4535.5791779225165,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Production Cost,2050,13165.275743583425,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Total Production Cost,2050,13165.275743583425,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Total System Cost,2050,13165.275743583425,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Price Paid,2050,28.61253795216899,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Net Revenue,2050,-13165.275743583425,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES02Z2DR,Installed Capacity,2050,379.00329669,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Load,2050,801.2710137649199,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Capacity Factor,2050,20.455115368676832,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Max Load,2050,448.39924598,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Production Volume,2050,0.560889709635403,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Efficiency,2050,69.9999999999948,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,VO&M Cost,2050,1322.0971727122712,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,FO&M Cost,2050,5366.0490587413005,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Production Cost,2050,11421.842559487735,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Total Production Cost,2050,11421.842559487735,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Total System Cost,2050,11421.842559487735,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Price Paid,2050,12.604655869578991,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Net Revenue,2050,-11421.842559487735,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES03Z2DR,Installed Capacity,2050,448.39924598,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Load,2050,3660.289182473979,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Capacity Factor,2050,52.23592070061877,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Max Load,2050,802.10923963,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Production Volume,2050,2.5622024277319775,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Efficiency,2050,70.00000000000506,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,VO&M Cost,2050,6039.477151082249,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,FO&M Cost,2050,9598.940160831831,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Production Cost,2050,41787.45275681102,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Total Production Cost,2050,41787.45275681102,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Total System Cost,2050,41787.45275681102,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Price Paid,2050,9.766434787965833,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Net Revenue,2050,-41787.45275681102,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES04Z2DR,Installed Capacity,2050,802.10923963,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Load,2050,2507.429117556789,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Capacity Factor,2050,43.200618635257584,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Max Load,2050,664.39456862,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Production Volume,2050,1.7552003822896742,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Efficiency,2050,69.9999999999969,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,VO&M Cost,2050,5014.858235113418,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,FO&M Cost,2050,7950.891714336444,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Production Cost,2050,30058.49235214122,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Total Production Cost,2050,30058.49235214122,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Total System Cost,2050,30058.49235214122,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Price Paid,2050,9.987773509398323,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Net Revenue,2050,-30058.49235214122,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES05Z2DR,Installed Capacity,2050,664.39456862,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Load,2050,986.6378300629101,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Capacity Factor,2050,23.496330854311033,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Max Load,2050,480.66786576,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Production Volume,2050,0.6906464810439633,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Efficiency,2050,69.99999999999262,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,VO&M Cost,2050,1973.2756601260203,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,FO&M Cost,2050,5752.211609970286,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Production Cost,2050,12765.172328802093,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Total Production Cost,2050,12765.172328802093,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Total System Cost,2050,12765.172328802093,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Price Paid,2050,10.938052788821151,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Net Revenue,2050,-12765.172328802093,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES06Z2DR,Installed Capacity,2050,480.66786576,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Load,2050,113.70372388958003,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Capacity Factor,2050,16.76995865379175,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Max Load,2050,77.61221377,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Production Volume,2050,0.07959260672266401,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Efficiency,2050,69.99999999996302,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,VO&M Cost,2050,187.61114441781004,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,FO&M Cost,2050,928.794930816481,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Production Cost,2050,2249.6841869139603,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Total Production Cost,2050,2249.6841869139603,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Total System Cost,2050,2249.6841869139603,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Price Paid,2050,18.135492593881455,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Net Revenue,2050,-2249.6841869139603,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES07Z2DR,Installed Capacity,2050,77.61221377,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Load,2050,345.90666150891997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Capacity Factor,2050,22.315949574904952,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Max Load,2050,177.43158373,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Production Volume,2050,0.24213466305624734,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Efficiency,2050,70.00000000000097,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,VO&M Cost,2050,570.7459914897901,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,FO&M Cost,2050,2123.345637624125,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Production Cost,2050,1364.815815099601,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Total Production Cost,2050,1364.815815099601,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Total System Cost,2050,1364.815815099601,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Price Paid,2050,2.2956187664787224,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Net Revenue,2050,-1364.815815099601,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES08Z2DR,Installed Capacity,2050,177.43158373,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Load,2050,796.2996908564891,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Capacity Factor,2050,19.853082694679603,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Max Load,2050,459.13031639,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Production Volume,2050,0.5574097835995612,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Efficiency,2050,70.00000000000223,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,VO&M Cost,2050,1313.8944899131807,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,FO&M Cost,2050,5494.469101346656,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Production Cost,2050,11431.141970890874,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Total Production Cost,2050,11431.141970890874,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Total System Cost,2050,11431.141970890874,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Price Paid,2050,12.705326395512877,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Net Revenue,2050,-11431.141970890874,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ES11Z2DR,Installed Capacity,2050,459.13031639,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Load,2050,877.2876657776412,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Capacity Factor,2050,25.06686330461216,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Max Load,2050,400.61702852,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Production Volume,2050,0.6141013660441413,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Efficiency,2050,69.9999999999768,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,VO&M Cost,2050,2210.764917758859,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,FO&M Cost,2050,4794.233371440264,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Production Cost,2050,25305.45584384894,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Total Production Cost,2050,25305.45584384894,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Total System Cost,2050,25305.45584384894,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Price Paid,2050,26.32510615046348,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Net Revenue,2050,-25305.45584384894,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FI01Z2DR,Installed Capacity,2050,400.61702852,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Load,2050,745.3095540077001,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Capacity Factor,2050,13.73075730521841,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Max Load,2050,621.34037059,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Production Volume,2050,0.5217166878053944,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Efficiency,2050,70.00000000000058,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,VO&M Cost,2050,1490.6191080154701,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,FO&M Cost,2050,7435.656818459017,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Production Cost,2050,22706.213056369426,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Total Production Cost,2050,22706.213056369426,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Total System Cost,2050,22706.213056369426,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Price Paid,2050,28.46547965777819,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Net Revenue,2050,-22706.213056369426,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR01Z2DR,Installed Capacity,2050,621.34037059,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Load,2050,1196.4690950029506,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Capacity Factor,2050,26.429507556609686,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Max Load,2050,518.2028397,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Production Volume,2050,0.8375283665018114,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Efficiency,2050,69.99999999997875,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,VO&M Cost,2050,2392.9381900058406,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,FO&M Cost,2050,6201.397270712301,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Production Cost,2050,61847.429248691886,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Total Production Cost,2050,61847.429248691886,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Total System Cost,2050,61847.429248691886,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Price Paid,2050,49.69162288185931,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Net Revenue,2050,-61847.429248691886,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR02Z2DR,Installed Capacity,2050,518.2028397,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Load,2050,1041.60042752098,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Capacity Factor,2050,21.201108328485336,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Max Load,2050,562.38011863,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Production Volume,2050,0.7291202992646161,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Efficiency,2050,69.99999999999329,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,VO&M Cost,2050,2874.817179957771,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,FO&M Cost,2050,6730.072214181666,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Production Cost,2050,54641.718175925154,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Total Production Cost,2050,54641.718175925154,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Total System Cost,2050,54641.718175925154,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Price Paid,2050,49.699385319160214,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Net Revenue,2050,-54641.718175925154,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR03Z2DR,Installed Capacity,2050,562.38011863,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Load,2050,517.30735455005,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Capacity Factor,2050,8.84926882328363,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Max Load,2050,669.15794558,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Production Volume,2050,0.3621151481850474,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Efficiency,2050,70.00000000000236,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,VO&M Cost,2050,1107.03773873725,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,FO&M Cost,2050,8007.8956336797055,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Production Cost,2050,15834.939654043723,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Total Production Cost,2050,15834.939654043723,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Total System Cost,2050,15834.939654043723,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Price Paid,2050,28.47031225395343,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Net Revenue,2050,-15834.939654043723,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR04Z2DR,Installed Capacity,2050,669.15794558,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Load,2050,430.89970827041,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Capacity Factor,2050,9.185478800333899,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Max Load,2050,536.98453154,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Production Volume,2050,0.3016297957892834,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Efficiency,2050,69.99999999999916,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,VO&M Cost,2050,922.1253756985803,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,FO&M Cost,2050,6426.160092512112,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Production Cost,2050,13635.114192064335,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Total Production Cost,2050,13635.114192064335,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Total System Cost,2050,13635.114192064335,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Price Paid,2050,29.503359070245065,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Net Revenue,2050,-13635.114192064335,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR05Z2DR,Installed Capacity,2050,536.98453154,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Load,2050,1203.2890982274898,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Capacity Factor,2050,23.754541681302012,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Max Load,2050,579.84337711,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Production Volume,2050,0.8423023687591247,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Efficiency,2050,69.99999999999027,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,VO&M Cost,2050,4295.742080672072,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,FO&M Cost,2050,6939.057181416304,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Production Cost,2050,70051.16073732947,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Total Production Cost,2050,70051.16073732947,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Total System Cost,2050,70051.16073732947,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Price Paid,2050,54.64640106315149,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Net Revenue,2050,-70051.16073732947,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR06Z2DR,Installed Capacity,2050,579.84337711,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Load,2050,791.7857170793305,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Capacity Factor,2050,18.99443973203407,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Max Load,2050,477.16496625,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Production Volume,2050,0.554250001955603,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Efficiency,2050,70.00000000000905,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,VO&M Cost,2050,2533.7142946534714,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,FO&M Cost,2050,5710.291979672305,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Production Cost,2050,40098.070951653775,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Total Production Cost,2050,40098.070951653775,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Total System Cost,2050,40098.070951653775,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Price Paid,2050,47.44257928213753,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Net Revenue,2050,-40098.070951653775,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR07Z2DR,Installed Capacity,2050,477.16496625,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Load,2050,4395.491508665468,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Capacity Factor,2050,56.099932186306226,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Max Load,2050,896.87616753,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Production Volume,2050,3.0768440560656245,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Efficiency,2050,69.99999999999532,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,VO&M Cost,2050,9406.351828543979,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,FO&M Cost,2050,10733.027670605336,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Production Cost,2050,54983.6568138298,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Total Production Cost,2050,54983.6568138298,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Total System Cost,2050,54983.6568138298,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Price Paid,2050,10.36910318116478,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Net Revenue,2050,-54983.6568138298,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR08Z2DR,Installed Capacity,2050,896.87616753,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Load,2050,626.94681993136,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Capacity Factor,2050,11.655965298565603,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Max Load,2050,615.70096274,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Production Volume,2050,0.4388627739521052,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Efficiency,2050,70.00000000002447,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,VO&M Cost,2050,1341.6661946532602,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,FO&M Cost,2050,7368.169329448261,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Production Cost,2050,18779.70787809827,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Total Production Cost,2050,18779.70787809827,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Total System Cost,2050,18779.70787809827,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Price Paid,2050,27.81422782454523,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Net Revenue,2050,-18779.70787809827,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR09Z2DR,Installed Capacity,2050,615.70096274,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Load,2050,4814.828586209247,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Capacity Factor,2050,53.27741522764289,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Max Load,2050,1034.48704957,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Production Volume,2050,3.3703800103465436,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Efficiency,2050,70.0000000000015,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,VO&M Cost,2050,10303.733174487532,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,FO&M Cost,2050,12379.834061704263,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Production Cost,2050,65767.56540223009,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Total Production Cost,2050,65767.56540223009,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Total System Cost,2050,65767.56540223009,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Price Paid,2050,11.519378360966677,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Net Revenue,2050,-65767.56540223009,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR10Z2DR,Installed Capacity,2050,1034.48704957,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Load,2050,585.7303839185902,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Capacity Factor,2050,13.886405311694118,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Max Load,2050,482.8311606,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Production Volume,2050,0.4100112687430748,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Efficiency,2050,70.00000000001054,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,VO&M Cost,2050,2091.0574705893996,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,FO&M Cost,2050,5778.100026029267,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Production Cost,2050,24814.038208995436,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Total Production Cost,2050,24814.038208995436,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Total System Cost,2050,24814.038208995436,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Price Paid,2050,38.79426671771276,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Net Revenue,2050,-24814.038208995436,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR11Z2DR,Installed Capacity,2050,482.8311606,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Load,2050,673.4706711505202,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Capacity Factor,2050,13.992325775091338,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Max Load,2050,550.9550322,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Production Volume,2050,0.4714294698054224,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Efficiency,2050,70.00000000000865,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,VO&M Cost,2050,2155.1061476817695,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,FO&M Cost,2050,6593.346796301681,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Production Cost,2050,24803.205846916142,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Total Production Cost,2050,24803.205846916142,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Total System Cost,2050,24803.205846916142,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Price Paid,2050,33.628932438206505,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Net Revenue,2050,-24803.205846916142,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR12Z2DR,Installed Capacity,2050,550.9550322,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Load,2050,769.5821836736397,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Capacity Factor,2050,26.25247981026134,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Max Load,2050,335.56143769,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Production Volume,2050,0.5387075285715055,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Efficiency,2050,69.99999999999446,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,VO&M Cost,2050,1646.9058730616687,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,FO&M Cost,2050,4015.705095423854,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Production Cost,2050,25321.701886906507,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Total Production Cost,2050,25321.701886906507,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Total System Cost,2050,25321.701886906507,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Price Paid,2050,30.76318100405075,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Net Revenue,2050,-25321.701886906507,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR13Z2DR,Installed Capacity,2050,335.56143769,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Load,2050,394.81583572907005,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Capacity Factor,2050,16.65422583031826,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Max Load,2050,271.3672845,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Production Volume,2050,0.2763710850101751,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Efficiency,2050,69.9999999999559,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,VO&M Cost,2050,1377.9072666943102,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,FO&M Cost,2050,3247.4857498538217,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Production Cost,2050,15072.34825888161,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Total Production Cost,2050,15072.34825888161,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Total System Cost,2050,15072.34825888161,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Price Paid,2050,34.68564265386895,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Net Revenue,2050,-15072.34825888161,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR14Z2DR,Installed Capacity,2050,271.3672845,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Load,2050,10.092377081040004,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Capacity Factor,2050,25.764987569734323,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Max Load,2050,4.48384825,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Production Volume,2050,0.00706466395669167,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Efficiency,2050,69.99999999964001,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,VO&M Cost,2050,19.17551645384001,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,FO&M Cost,2050,53.65876481055974,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Production Cost,2050,208.49009348535014,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Total Production Cost,2050,208.49009348535014,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Total System Cost,2050,208.49009348535014,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Price Paid,2050,18.758175156500545,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Net Revenue,2050,-208.49009348535014,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,FR15Z2DR,Installed Capacity,2050,4.48384825,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Load,2050,208.88239543247005,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Capacity Factor,2050,27.46598707135685,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Max Load,2050,87.05505668,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Production Volume,2050,0.14621767680276404,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Efficiency,2050,70.00000000001667,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,VO&M Cost,2050,242.30357870161978,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,FO&M Cost,2050,1041.7985961037145,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Production Cost,2050,2001.1468386702807,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Total Production Cost,2050,2001.1468386702807,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Total System Cost,2050,2001.1468386702807,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Price Paid,2050,8.420256079154642,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Net Revenue,2050,-2001.1468386702807,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR01Z2DR,Installed Capacity,2050,87.05505668,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Load,2050,2968.45005867129,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Capacity Factor,2050,55.197086210581595,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Max Load,2050,615.60334209,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Production Volume,2050,2.077915041069989,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Efficiency,2050,70.00000000000283,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,VO&M Cost,2050,3443.4020680587105,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,FO&M Cost,2050,7367.001091093315,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Production Cost,2050,132151.65932676283,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Total Production Cost,2050,132151.65932676283,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Total System Cost,2050,132151.65932676283,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Price Paid,2050,43.35874099775662,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Net Revenue,2050,-132151.65932676283,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,GR03Z2DR,Installed Capacity,2050,615.60334209,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Load,2050,456.8294506781301,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Capacity Factor,2050,28.50088740141947,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Max Load,2050,183.47761506,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Production Volume,2050,0.3197806154748721,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Efficiency,2050,70.00000000003973,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,VO&M Cost,2050,767.4734771391704,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,FO&M Cost,2050,2195.6992399523815,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Production Cost,2050,10493.016927493505,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Total Production Cost,2050,10493.016927493505,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Total System Cost,2050,10493.016927493505,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Price Paid,2050,21.28922169075855,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Net Revenue,2050,-10493.016927493505,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR01Z2DR,Installed Capacity,2050,183.47761506,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Load,2050,735.3913777602596,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Capacity Factor,2050,40.5666099062655,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Max Load,2050,207.50912178,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Production Volume,2050,0.5147739644309334,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Efficiency,2050,69.9999999998302,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,VO&M Cost,2050,1235.4575146372697,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,FO&M Cost,2050,2483.2872436590255,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Production Cost,2050,7340.033155854964,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Total Production Cost,2050,7340.033155854964,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Total System Cost,2050,7340.033155854964,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Price Paid,2050,8.30112485111013,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Net Revenue,2050,-7340.033155854964,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HR02Z2DR,Installed Capacity,2050,207.50912178,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Load,2050,424.64477635558995,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Capacity Factor,2050,51.027837152576716,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Max Load,2050,95.258996,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Production Volume,2050,0.29725134344887233,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Efficiency,2050,69.99999999999037,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,VO&M Cost,2050,522.3130749173591,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,FO&M Cost,2050,1139.9761493920835,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Production Cost,2050,17756.038590586148,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Total Production Cost,2050,17756.038590586148,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Total System Cost,2050,17756.038590586148,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Price Paid,2050,40.58386320814571,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Net Revenue,2050,-17756.038590586148,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU01Z2DR,Installed Capacity,2050,95.258996,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Load,2050,850.9164565033997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Capacity Factor,2050,27.05451144927628,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Max Load,2050,360.02661041,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Production Volume,2050,0.5956415195523473,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Efficiency,2050,69.99999999999615,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,VO&M Cost,2050,1046.6272414991397,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,FO&M Cost,2050,4308.482833618623,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Production Cost,2050,34002.71277833566,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Total Production Cost,2050,34002.71277833566,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Total System Cost,2050,34002.71277833566,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Price Paid,2050,38.730107150894796,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Net Revenue,2050,-34002.71277833566,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU02Z2DR,Installed Capacity,2050,360.02661041,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Load,2050,392.19412420304,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Capacity Factor,2050,33.768160310557924,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Max Load,2050,132.94776984,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Production Volume,2050,0.27453588694195297,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Efficiency,2050,69.99999999995529,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,VO&M Cost,2050,482.3987727697098,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,FO&M Cost,2050,1591.002352495912,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Production Cost,2050,14010.237361933685,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Total Production Cost,2050,14010.237361933685,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Total System Cost,2050,14010.237361933685,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Price Paid,2050,34.49271101818075,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Net Revenue,2050,-14010.237361933685,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,HU03Z2DR,Installed Capacity,2050,132.94776984,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Load,2050,834.4307936783199,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Capacity Factor,2050,21.77809315474817,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Max Load,2050,438.58911224,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Production Volume,2050,0.5841015555749891,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Efficiency,2050,70.00000000001981,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,VO&M Cost,2050,333.7723174713302,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,FO&M Cost,2050,5248.649978804924,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Production Cost,2050,15361.171330706273,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Total Production Cost,2050,15361.171330706273,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Total System Cost,2050,15361.171330706273,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Price Paid,2050,18.009161607029636,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Net Revenue,2050,-15361.171330706273,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ITN1Z2DR,Installed Capacity,2050,438.58911224,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Load,2050,238.50072565881007,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Capacity Factor,2050,20.527995763779114,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Max Load,2050,132.99353505,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Production Volume,2050,0.1669505079612167,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Efficiency,2050,70.0000000000208,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,VO&M Cost,2050,338.6710304355299,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,FO&M Cost,2050,1591.550030404871,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Production Cost,2050,1490.7833721132097,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Total Production Cost,2050,1490.7833721132097,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Total System Cost,2050,1490.7833721132097,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Price Paid,2050,4.830645015838808,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Net Revenue,2050,-1490.7833721132097,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LT00Z2DR,Installed Capacity,2050,132.99353505,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Load,2050,529.5389153626,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Capacity Factor,2050,29.360244510861207,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Max Load,2050,206.45508695,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Production Volume,2050,0.370677240753939,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Efficiency,2050,70.00000000002242,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,VO&M Cost,2050,434.2219105972302,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,FO&M Cost,2050,2470.673478899101,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Production Cost,2050,4886.2090964746785,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Total Production Cost,2050,4886.2090964746785,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Total System Cost,2050,4886.2090964746785,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Price Paid,2050,8.407289920947184,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Net Revenue,2050,-4886.2090964746785,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,LV00Z2DR,Installed Capacity,2050,206.45508695,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Load,2050,982.7578882670598,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Capacity Factor,2050,35.90982573997467,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Max Load,2050,313.27130444,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Production Volume,2050,0.6879305217872085,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Efficiency,2050,70.0000000000271,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,VO&M Cost,2050,1651.0332522887702,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,FO&M Cost,2050,3748.9563227224958,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Production Cost,2050,9300.03127052295,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Total Production Cost,2050,9300.03127052295,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Total System Cost,2050,9300.03127052295,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Price Paid,2050,7.783196766521991,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Net Revenue,2050,-9300.03127052295,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,ME00Z2DR,Installed Capacity,2050,313.27130444,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Load,2050,743.8347233431308,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Capacity Factor,2050,56.25069309998014,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Max Load,2050,151.36865244,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Production Volume,2050,0.5206843063350219,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Efficiency,2050,69.99999999930516,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,VO&M Cost,2050,959.5467931124394,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,FO&M Cost,2050,1811.4473256370452,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Production Cost,2050,5587.966992075042,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Total Production Cost,2050,5587.966992075042,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Total System Cost,2050,5587.966992075042,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Price Paid,2050,6.222377167551773,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Net Revenue,2050,-5587.966992075042,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,MT00Z2DR,Installed Capacity,2050,151.36865244,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Load,2050,300.90701935665015,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Capacity Factor,2050,23.046505265674316,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Max Load,2050,149.4564335,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Production Volume,2050,0.2106349135495862,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Efficiency,2050,69.99999999997712,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,VO&M Cost,2050,1098.310620651889,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,FO&M Cost,2050,1788.5635658290296,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Production Cost,2050,10889.712656063275,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Total Production Cost,2050,10889.712656063275,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Total System Cost,2050,10889.712656063275,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Price Paid,2050,32.53962654758256,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Net Revenue,2050,-10889.712656063275,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL01Z2DR,Installed Capacity,2050,149.4564335,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Load,2050,656.9075060860404,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Capacity Factor,2050,28.130902869322252,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Max Load,2050,267.30552031,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Production Volume,2050,0.45983525426012256,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Efficiency,2050,69.99999999998394,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,VO&M Cost,2050,2397.7123972141585,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,FO&M Cost,2050,3198.8781170236566,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Production Cost,2050,25813.949938527392,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Total Production Cost,2050,25813.949938527392,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Total System Cost,2050,25813.949938527392,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Price Paid,2050,35.64617137781078,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Net Revenue,2050,-25813.949938527392,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL02Z2DR,Installed Capacity,2050,267.30552031,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Load,2050,562.0224249249902,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Capacity Factor,2050,20.4760025653985,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Max Load,2050,314.19252162,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Production Volume,2050,0.3934156974475304,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Efficiency,2050,70.0000000000067,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,VO&M Cost,2050,2242.469475450811,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,FO&M Cost,2050,3759.9806422906236,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Production Cost,2050,23861.8765370748,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Total Production Cost,2050,23861.8765370748,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Total System Cost,2050,23861.8765370748,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Price Paid,2050,38.467160922465965,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Net Revenue,2050,-23861.8765370748,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,NL04Z2DR,Installed Capacity,2050,314.19252162,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Load,2050,3815.8368590986,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Capacity Factor,2050,46.848627943850296,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Max Load,2050,932.35283813,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Production Volume,2050,2.6710858013691956,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Efficiency,2050,70.00000000000458,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,VO&M Cost,2050,5418.488339920051,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,FO&M Cost,2050,11157.58136151197,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Production Cost,2050,82207.05506282563,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Total Production Cost,2050,82207.05506282563,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Total System Cost,2050,82207.05506282563,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Price Paid,2050,20.123650344172525,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Net Revenue,2050,-82207.05506282563,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL01Z2DR,Installed Capacity,2050,932.35283813,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Load,2050,1513.4797730045,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Capacity Factor,2050,27.971802044427417,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Max Load,2050,619.36056439,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Production Volume,2050,1.0594358411029885,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Efficiency,2050,69.99999999998934,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,VO&M Cost,2050,2149.1412776662605,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,FO&M Cost,2050,7411.964233575746,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Production Cost,2050,49920.99434086326,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Total Production Cost,2050,49920.99434086326,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Total System Cost,2050,49920.99434086326,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Price Paid,2050,31.564249430543956,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Net Revenue,2050,-49920.99434086326,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL02Z2DR,Installed Capacity,2050,619.36056439,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Load,2050,3734.745647628997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Capacity Factor,2050,39.97050894383745,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Max Load,2050,1069.56880125,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Production Volume,2050,2.614321953340468,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Efficiency,2050,70.0000000000044,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,VO&M Cost,2050,10644.02509574263,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,FO&M Cost,2050,12799.661709205242,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Production Cost,2050,124138.09083602263,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Total Production Cost,2050,124138.09083602263,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Total System Cost,2050,124138.09083602263,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Price Paid,2050,30.388700181585698,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Net Revenue,2050,-124138.09083602263,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL04Z2DR,Installed Capacity,2050,1069.56880125,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Load,2050,4769.018130265939,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Capacity Factor,2050,57.1269081325422,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Max Load,2050,955.59887249,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Production Volume,2050,3.338312691185761,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Efficiency,2050,69.99999999999166,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,VO&M Cost,2050,6772.005744977573,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,FO&M Cost,2050,11435.769520648293,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Production Cost,2050,117244.73940227309,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Total Production Cost,2050,117244.73940227309,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Total System Cost,2050,117244.73940227309,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Price Paid,2050,23.16467051282422,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Net Revenue,2050,-117244.73940227309,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,PL05Z2DR,Installed Capacity,2050,955.59887249,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Load,2050,319.7935962801801,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Capacity Factor,2050,31.431470805500354,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Max Load,2050,116.46419621,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Production Volume,2050,0.22385551739621407,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Efficiency,2050,70.00000000002744,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,VO&M Cost,2050,393.34612342475987,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,FO&M Cost,2050,1393.7413946455915,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Production Cost,2050,9739.789203818318,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Total Production Cost,2050,9739.789203818318,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Total System Cost,2050,9739.789203818318,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Price Paid,2050,29.226486049473504,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Net Revenue,2050,-9739.789203818318,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO01Z2DR,Installed Capacity,2050,116.46419621,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Load,2050,365.46815165989,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Capacity Factor,2050,34.71064821399725,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Max Load,2050,120.52418054,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Production Volume,2050,0.2558277061619,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Efficiency,2050,69.99999999999373,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,VO&M Cost,2050,449.5258265416599,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,FO&M Cost,2050,1442.3277276662732,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Production Cost,2050,10312.687526487975,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Total Production Cost,2050,10312.687526487975,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Total System Cost,2050,10312.687526487975,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Price Paid,2050,26.98774614189966,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Net Revenue,2050,-10312.687526487975,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO02Z2DR,Installed Capacity,2050,120.52418054,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Load,2050,976.9500713419803,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Capacity Factor,2050,32.53232693437753,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Max Load,2050,343.75151072,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Production Volume,2050,0.6838650499392311,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Efficiency,2050,69.99999999998411,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,VO&M Cost,2050,1201.6485877505397,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,FO&M Cost,2050,4113.716709109274,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Production Cost,2050,29445.80649586247,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Total Production Cost,2050,29445.80649586247,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Total System Cost,2050,29445.80649586247,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Price Paid,2050,28.910543882057855,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Net Revenue,2050,-29445.80649586247,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,RO03Z2DR,Installed Capacity,2050,343.75151072,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Load,2050,536.73110347792,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Capacity Factor,2050,20.256177225917337,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Max Load,2050,303.30994469,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Production Volume,2050,0.3757117724344081,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Efficiency,2050,69.9999999999748,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,VO&M Cost,2050,1932.2319725204409,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,FO&M Cost,2050,3629.7475024828987,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Production Cost,2050,10870.595851974876,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Total Production Cost,2050,10870.595851974876,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Total System Cost,2050,10870.595851974876,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Price Paid,2050,16.653336878625733,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Net Revenue,2050,-10870.595851974876,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SE02Z2DR,Installed Capacity,2050,303.30994469,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Load,2050,196.26122279177997,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Capacity Factor,2050,20.716627427797153,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Max Load,2050,108.44332356,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Production Volume,2050,0.13738285595408886,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Efficiency,2050,69.99999999991988,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,VO&M Cost,2050,1081.3993375826708,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,FO&M Cost,2050,1297.7546227682358,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Production Cost,2050,7407.610740382392,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Total Production Cost,2050,7407.610740382392,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Total System Cost,2050,7407.610740382392,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Price Paid,2050,32.23362879742847,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Net Revenue,2050,-7407.610740382392,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SI00Z2DR,Installed Capacity,2050,108.44332356,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Load,2050,646.3211859033897,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Capacity Factor,2050,28.91987398359408,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Max Load,2050,255.8228721,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Production Volume,2050,0.4524248301323917,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Efficiency,2050,70.00000000000286,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,VO&M Cost,2050,794.9750586611697,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,FO&M Cost,2050,3061.4638502266057,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Production Cost,2050,20651.688749978388,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Total Production Cost,2050,20651.688749978388,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Total System Cost,2050,20651.688749978388,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Price Paid,2050,30.722671830047787,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Net Revenue,2050,-20651.688749978388,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,SK00Z2DR,Installed Capacity,2050,255.8228721,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Load,2050,695.18695113195,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Capacity Factor,2050,30.964286306054987,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Max Load,2050,256.99691607,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Production Volume,2050,0.4866308657922669,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Efficiency,2050,69.99999999998593,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,VO&M Cost,2050,987.1654706073607,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,FO&M Cost,2050,3075.5137791596308,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Production Cost,2050,8651.46218190518,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Total Production Cost,2050,8651.46218190518,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Total System Cost,2050,8651.46218190518,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Price Paid,2050,11.024799442535924,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Net Revenue,2050,-8651.46218190518,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UA01Z2DR,Installed Capacity,2050,256.99691607,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Load,2050,2128.8905513685213,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Capacity Factor,2050,41.16552747228161,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Max Load,2050,591.97998655,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Production Volume,2050,1.4902233859576417,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Efficiency,2050,69.99999999998492,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,VO&M Cost,2050,4555.825779928516,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,FO&M Cost,2050,7084.297482877191,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Production Cost,2050,46756.087298335166,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Total Production Cost,2050,46756.087298335166,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Total System Cost,2050,46756.087298335166,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Price Paid,2050,19.82265433574261,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Net Revenue,2050,-46756.087298335166,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK01Z2DR,Installed Capacity,2050,591.97998655,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Load,2050,1159.0647864586904,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Capacity Factor,2050,24.123899016930466,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Max Load,2050,549.98087108,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Production Volume,2050,0.811345350521111,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Efficiency,2050,70.00000000000243,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,VO&M Cost,2050,2144.269854948741,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,FO&M Cost,2050,6581.688890074529,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Production Cost,2050,45324.91677057532,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Total Production Cost,2050,45324.91677057532,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Total System Cost,2050,45324.91677057532,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Price Paid,2050,37.25473107293436,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Net Revenue,2050,-45324.91677057532,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK02Z2DR,Installed Capacity,2050,549.98087108,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Load,2050,2262.0147075579994,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Capacity Factor,2050,41.91032110853597,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Max Load,2050,617.81978314,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Production Volume,2050,1.5834102952908442,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Efficiency,2050,70.00000000001083,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,VO&M Cost,2050,4184.727208982359,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,FO&M Cost,2050,7393.525514400459,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Production Cost,2050,53843.586911826016,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Total Production Cost,2050,53843.586911826016,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Total System Cost,2050,53843.586911826016,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Price Paid,2050,21.953376137175386,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Net Revenue,2050,-53843.586911826016,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK03Z2DR,Installed Capacity,2050,617.81978314,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Load,2050,1216.1094071676894,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Capacity Factor,2050,24.298652302521443,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Max Load,2050,572.89869897,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Production Volume,2050,0.8512765850173196,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Efficiency,2050,69.99999999999473,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,VO&M Cost,2050,2249.8024032602198,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,FO&M Cost,2050,6855.949361919785,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Production Cost,2050,48551.33549777324,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Total Production Cost,2050,48551.33549777324,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Total System Cost,2050,48551.33549777324,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Price Paid,2050,38.073493076867976,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Net Revenue,2050,-48551.33549777324,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK04Z2DR,Installed Capacity,2050,572.89869897,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Load,2050,2858.6139217039977,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Capacity Factor,2050,46.16412704938237,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Max Load,2050,708.82373498,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Production Volume,2050,2.001029745192956,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Efficiency,2050,70.00000000000543,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,VO&M Cost,2050,5288.435755152379,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,FO&M Cost,2050,8482.581025733438,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Production Cost,2050,59105.700977004235,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Total Production Cost,2050,59105.700977004235,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Total System Cost,2050,59105.700977004235,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Price Paid,2050,18.82634965612002,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Net Revenue,2050,-59105.700977004235,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UK05Z2DR,Installed Capacity,2050,708.82373498,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Load,2050,1172.0769588455003,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Capacity Factor,2050,25.769445092591617,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Max Load,2050,520.64108508,MW,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Production Volume,2050,0.8204538711917027,GWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Efficiency,2050,69.99999999998747,%,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,VO&M Cost,2050,2168.342373864208,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,FO&M Cost,2050,6230.576053778477,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Production Cost,2050,45487.61450130738,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Total Production Cost,2050,45487.61450130738,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Total System Cost,2050,45487.61450130738,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Price Paid,2050,36.959409363454036,$/MWh,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Net Revenue,2050,-45487.61450130738,$000,1,1
+TJ Dispatch_Future_Nuclear+,Power2X,Zone 2 Dedicated RES,UKNIZ2DR,Installed Capacity,2050,520.64108508,MW,1,1

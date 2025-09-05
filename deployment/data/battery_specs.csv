@@ -1,0 +1,4 @@
+date,battery_type,battery_capacity_mwh,charge_rate_mw,discharge_rate_mw
+2025-01-01,Lithium Ion,150,30,45
+2025-01-01,Flow Battery,200,25,40
+2025-01-01,Solid State,120,40,50

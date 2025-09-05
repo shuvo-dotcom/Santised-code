@@ -67,7 +67,7 @@ chat_sessions = {}
 @app.on_event("startup")
 async def startup_event():
     # Get model from environment or use default
-    model_name = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")
+    model_name = os.getenv("OPENAI_MODEL", "gpt-5-mini")
     logger.info(f"Initializing NFG Analytics with model: {model_name}")
     
     # Check for API key
